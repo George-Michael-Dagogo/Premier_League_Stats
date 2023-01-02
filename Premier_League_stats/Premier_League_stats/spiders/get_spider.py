@@ -3,14 +3,17 @@ import scrapy
 class GetSpider(scrapy.Spider):
     name = 'player_stats'
     start_urls = [
-        'https://www.premierleague.com/stats/top/players/goals'
+        'https://www.premierleague.com/players'
     ]
     custom_settings = {
         #'DOWNLOAD_DELAY': 10 # 2 seconds of delay
         }
 
     def parse(self, response):
-        player_name = response.css('a.playerName > strong::text').extract()
-        yield {'Player_name': player_name} 
-        club_name = response.css('a.statNameSecondary::text').extract()
-        yield {'Club_name': club_name} 
+        for play in response.css('tbody.dataContainer.indexSection > tr'):
+            yield {
+                    'player': play.css('a.playerName::text').get(),
+                    'position': play.css('tr > td.hide-s::text').get(),
+                    'player_country': play.css('tr > td.hide-s > span.playerCountry::text').getall(),
+                    }
+         
