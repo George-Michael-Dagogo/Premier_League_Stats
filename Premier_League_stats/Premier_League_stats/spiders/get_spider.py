@@ -3,10 +3,10 @@ import scrapy
 class GetSpider(scrapy.Spider):
     name = 'player_stats'
     start_urls = [
-        'https://www.premierleague.com/stats/top/players/goal_assist'
+        'https://www.premierleague.com/stats/top/players/goals'
     ]
     custom_settings = {
-        #'DOWNLOAD_DELAY': 5 # 2 seconds of delay
+        #'DOWNLOAD_DELAY': 10 # 2 seconds of delay
         }
 
     def parse(self, response):
