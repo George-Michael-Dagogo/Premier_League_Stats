@@ -3,7 +3,7 @@ from scrape import *
 from sqlalchemy import create_engine
 
 df = player_table()
-conn_string = 'postgresql://Omni:v2_3xntW_C6CBDbsKrZ9m9YbcHfUgCkn@db.bit.io/Omni/trial'
+conn_string = 'postgresqll'
   
 db = create_engine(conn_string)
 conn = db.connect()
