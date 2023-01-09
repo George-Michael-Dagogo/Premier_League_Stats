@@ -1,12 +1,26 @@
 from scrape import *
 
-from sqlalchemy import create_engine
+league_table = get_table()
+league_table.to_csv('./csv_dir/league_table.csv',index = False)
 
-df = player_table()
-conn_string = 'postgresqll'
-  
-db = create_engine(conn_string)
-conn = db.connect()
+top_scorers = get_top_scorers()
+top_scorers.to_csv('./csv_dir/top_scorers.csv',index = False)
 
-df.to_sql('player_table', con=conn, if_exists='append',
-        index=False)
+assists = get_assists()
+assists.to_csv('./csv_dir/assists.csv',index = False)
+
+detail_top_scorers = detail_top()
+detail_top_scorers.to_csv('./csv_dir/detail_top_scorers.csv',index = False)
+
+stadiums = stadiums()
+stadiums.to_csv('./csv_dir/stadiums.csv',index = False)
+
+player_table = player_table()
+player_table.to_csv('./csv_dir/player_table.csv',index = False)
+
+
+
+
+
+
+

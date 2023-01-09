@@ -51,7 +51,7 @@ def get_table():
 
     league = league.withColumn('conqueror', lit(league.Points - (league.Played * 3)).cast('integer'))
     # conqueror column, the difference between the teams current points and the points if they didn't loose or draw any math
-    league.show()
+    return league.toPandas()
 
 
 def get_top_scorers():
@@ -92,6 +92,7 @@ def get_assists():
         row = [i.text for i in row_data]
         length = len(assists)
         assists.loc[length] = row
+    return assists
 
 def detail_top():
     url = 'https://www.worldfootball.net/goalgetter/eng-premier-league-2022-2023/'
@@ -113,7 +114,7 @@ def detail_top():
     detail_top = spark.createDataFrame(detail_top_scorer) 
     detail_top = detail_top.drop(detail_top[''])
     detail_top = detail_top.withColumn("Team", F.regexp_replace(F.col("Team"), "[\'\n\n']", ""))
-    detail_top.show()
+    return detail_top.toPandas()
 
 
 def stadiums():
@@ -136,7 +137,7 @@ def stadiums():
     stadiums
     stadium = spark.createDataFrame(stadiums) 
     stadium = stadium.withColumnRenamed("Cap.","Capacity")
-    stadium.show()
+    return stadium.toPandas()
 
 def player_table():
     a = [f'https://www.worldfootball.net/players_list/eng-premier-league-2022-2023/nach-name/{i:d}' for i in (range(1, 15))]
