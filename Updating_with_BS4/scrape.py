@@ -73,7 +73,7 @@ def get_top_scorers():
 
 
 
-    print(top_scorers) 
+    return top_scorers
 
 
 def get_assists():
@@ -165,4 +165,4 @@ def player_table():
         df = pd.concat([df, a], axis=0).reset_index(drop=True)
 
     df = df.drop([''], axis=1)
-    df
+    return df
