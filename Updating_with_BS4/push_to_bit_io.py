@@ -1,37 +1,39 @@
 import bitdotio
 import pandas as pd
-
-# This is to provide a reproducible csv,
-# you can ignore and use your own csv
-df_test = pd.DataFrame(
-    data=[[0, 1, 2], [3, 4, 5]],
-    columns=['a', 'b', 'c'])
-df_test.to_csv('test.csv', index=False)
+import psycopg2
 
 # Connect with bit.io API key credentials
-b = bitdotio.bitdotio('v2_3xntW_C6CBDbsKrZ9m9YbcHfUgCkn')
+conn = psycopg2.connect(database='Omni/trial',
+                                user='Omni', 
+                                password='v2_3xqwt_Ep9Z96BzrNEuYpskkibKFqM',
+                                host='db.bit.io'
+        )
+
+conn.autocommit = True
+cursor = conn.cursor()
+    
 
 # Create table, if it does not already exist
-create_table_sql = """
-    CREATE TABLE "<YOUR_USERNAME>/<YOUR_REPO>"."test" (
-      a integer,
-      b integer,
-      c integer
-    )
-    """
-
-with b.get_connection() as conn:
-    cursor = conn.cursor()
-    cursor.execute(create_table_sql)
-    
+create_stadium_table = """
+CREATE TABLE IF NOT EXISTS stadiums (
+  city varchar(45) NOT NULL,
+  club varchar(45) NOT NULL,
+  stadium varchar(45) NOT NULL,
+  capacity varchar(45) NOT NULL,
+  PRIMARY KEY (stadium)
+)
+"""
+cursor.execute(create_stadium_table)
 # Copy csv from a local file
 copy_table_sql = """
-    COPY "<YOUR_USERNAME>/<YOUR_REPO>"."test" FROM stdin WITH CSV HEADER DELIMITER as ',';
+COPY stadiums (city, club, stadium,capacity)
+    FROM stdin
+    DELIMITER ','
+    CSV HEADER;
     """
-
-with open('test.csv', 'r') as f:
-    with b.get_connection() as conn:
-        cursor = conn.cursor()
+with open('./csv_dir/stadiums.csv', 'r') as f:
         cursor.copy_expert(sql=copy_table_sql, file=f)
-        
-# Note: you can also create a new repo from Python using the API, if needed
+
+
+conn.commit()
+conn.close()       
