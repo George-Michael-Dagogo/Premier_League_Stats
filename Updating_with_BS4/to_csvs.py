@@ -1,4 +1,4 @@
-from scrape import *
+from extract_transform import *
 
 league_table = get_table()
 league_table.to_csv('./csv_dir/league_table.csv',index = False)
@@ -17,6 +17,9 @@ stadiums.to_csv('./csv_dir/stadiums.csv',index = False)
 
 player_table = player_table()
 player_table.to_csv('./csv_dir/player_table.csv',index = False)
+
+all_time_table = all_time_table()
+all_time_table.to_csv('./csv_dir/all_time_table.csv',index = False)
 
 
 
