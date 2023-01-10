@@ -1,12 +1,15 @@
 import bitdotio
 import pandas as pd
 import psycopg2
+import configparser
+config = configparser.ConfigParser()
+config.read("config.ini")
 
 # Connect with bit.io API key credentials
-conn = psycopg2.connect(database='Omni/trial',
-                                user='Omni', 
-                                password='v2_3xqwt_Ep9Z96BzrNEuYpskkibKFqM',
-                                host='db.bit.io'
+conn = psycopg2.connect(database = config['bitio']['database'],
+                                user= config['bitio']['user'], 
+                                password= config['bitio']['password'],
+                                host= config['bitio']['host']
         )
 
 conn.autocommit = True
