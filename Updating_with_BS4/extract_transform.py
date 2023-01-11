@@ -262,3 +262,46 @@ def top_scorers_seasons():
     winners=winners.replace('\\n','',regex=True).astype(str)
     winners['Season'] = winners['Season'].replace('', np.nan).ffill()
     return winners
+
+
+def goals_per_season():
+    url = 'https://www.worldfootball.net/stats/eng-premier-league/1/'
+    headers = []
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text,  "html.parser")
+    table= soup.find("table", class_="standard_tabelle")
+
+    for i in table.find_all('th'):
+        title = i.text
+        headers.append(title)
+    goals_per_season = pd.DataFrame(columns = headers)
+    for j in table.find_all('tr')[1:]:
+        row_data = j.find_all('td')
+        row = [i.text for i in row_data]
+        length = len(goals_per_season)
+        goals_per_season.loc[length] = row
+
+        #winners = winners.drop([''], axis=1)
+        #winners['Year'] = winners['Year'].str.replace(r'\n', '')
+    return goals_per_season
+
+
+def record_win():
+    url = 'https://www.worldfootball.net/stats/eng-premier-league/3/'
+    headers = ['Season','Round','date','Home','#','Result','#','Guest']
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text,  "html.parser")
+    table= soup.find("table", class_="standard_tabelle")
+
+
+    record_wins = pd.DataFrame(columns = headers)
+    for j in table.find_all('tr')[1:]:
+        row_data = j.find_all('td')
+        row = [i.text for i in row_data]
+        length = len(record_wins)
+        record_wins.loc[length] = row
+
+    record_wins = record_wins.drop(['#'], axis=1)
+    record_wins['Result'] = record_wins['Result'].str.replace(r'\n', '')
+    record_wins['Result'] = record_wins['Result'].str.replace(r'\t', '')
+    return record_wins

@@ -27,6 +27,13 @@ all_time_winner_club.to_csv('./csv_dir/alltime_winners(clubs).csv',index = False
 top_scorers_seasons = top_scorers_seasons()
 top_scorers_seasons.to_csv('./csv_dir/top_scorers(seasons).csv',index = False)
 
+goals_per_season = goals_per_season()
+goals_per_season.to_csv('./csv_dir/goals_per_season.csv',index = False)
+
+record_win = record_win()
+record_win.to_csv('./csv_dir/record_wins.csv',index = False)
+
+
 
 
 
