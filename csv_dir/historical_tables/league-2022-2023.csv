@@ -1,0 +1,21 @@
+position,Team,Matches,Wins,Draws,Loss,goals,Dif.,Points
+1,Arsenal FC,17,14,2,1,40:14,26,44
+2,Manchester City,17,12,3,2,45:16,29,39
+3,Newcastle United,18,9,8,1,32:11,21,35
+4,Manchester United,17,11,2,4,27:20,7,35
+5,Tottenham Hotspur,18,10,3,5,37:25,12,33
+6,Liverpool FC,17,8,4,5,34:22,12,28
+7,Fulham FC,18,8,4,6,30:27,3,28
+8,Brighton & Hove Albion,17,8,3,6,32:25,7,27
+9,Brentford FC,18,6,8,4,30:28,2,26
+10,Chelsea FC,17,7,4,6,20:19,1,25
+11,Aston Villa,18,6,4,8,20:26,-6,22
+12,Crystal Palace,17,6,4,7,17:25,-8,22
+13,Leicester City,18,5,2,11,26:31,-5,17
+14,Leeds United,17,4,5,8,25:31,-6,17
+15,Nottingham Forest,18,4,5,9,13:34,-21,17
+16,AFC Bournemouth,18,4,4,10,18:39,-21,16
+17,West Ham United,18,4,3,11,15:24,-9,15
+18,Everton FC,18,3,6,9,14:24,-10,15
+19,Wolverhampton Wanderers,18,3,5,10,11:27,-16,14
+20,Southampton FC,18,3,3,12,15:33,-18,12
