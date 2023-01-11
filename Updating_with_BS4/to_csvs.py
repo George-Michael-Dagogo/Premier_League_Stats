@@ -21,6 +21,11 @@ player_table.to_csv('./csv_dir/player_table.csv',index = False)
 all_time_table = all_time_table()
 all_time_table.to_csv('./csv_dir/all_time_table.csv',index = False)
 
+all_time_winner_club = all_time_winner_club()
+all_time_winner_club.to_csv('./csv_dir/alltime_winners(clubs).csv',index = False)
+
+top_scorers_seasons = top_scorers_seasons()
+top_scorers_seasons.to_csv('./csv_dir/top_scorers(seasons).csv',index = False)
 
 
 

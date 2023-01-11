@@ -6,6 +6,7 @@ import pyspark.sql.functions as F
 from pyspark.sql.functions import when,lit,col,split,expr
 from pyspark.sql.types import StringType
 import re
+import numpy as np
 
 spark = SparkSession \
 .builder \
@@ -220,3 +221,44 @@ def all_time_scorer_own_goal():
     df['Team(s)'] = df['Team(s)'].str.replace(r'\n', '')
 
     return df
+
+
+def all_time_winner_club():
+    url = 'https://www.worldfootball.net/winner/eng-premier-league/'
+    headers = []
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text,  "html.parser")
+    table= soup.find("table", class_="standard_tabelle")
+
+    for i in table.find_all('th'):
+        title = i.text
+        headers.append(title)
+    winners = pd.DataFrame(columns = headers)
+    for j in table.find_all('tr')[1:]:
+        row_data = j.find_all('td')
+        row = [i.text for i in row_data]
+        length = len(winners)
+        winners.loc[length] = row
+
+    winners = winners.drop([''], axis=1)
+    winners['Year'] = winners['Year'].str.replace(r'\n', '')
+    return winners
+
+
+def top_scorers_seasons():
+    url = 'https://www.worldfootball.net/top_scorer/eng-premier-league/'
+    headers = ['Season','#','Top scorer','#','Team','goals']
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text,  "html.parser")
+    table= soup.find("table", class_="standard_tabelle")
+    winners = pd.DataFrame(columns = headers)
+    for j in table.find_all('tr')[1:]:
+        row_data = j.find_all('td')
+        row = [i.text for i in row_data]
+        length = len(winners)
+        winners.loc[length] = row
+
+    winners = winners.drop(['#'], axis=1)
+    winners=winners.replace('\\n','',regex=True).astype(str)
+    winners['Season'] = winners['Season'].replace('', np.nan).ffill()
+    return winners
