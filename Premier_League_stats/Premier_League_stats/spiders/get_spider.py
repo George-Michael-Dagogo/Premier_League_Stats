@@ -13,7 +13,11 @@ class GetSpider(scrapy.Spider):
     def parse(self, response):
         for play in response.css('table.standard_tabelle'):
             yield {
-                    'Player': play.css('td.standing-table__cell.standing-table__cell--name > a::text').getall(),
-                    'Played': play.css('tr.standing-table__row > td.standing-table__cell::text').getall(),
+                    'Player': play.css('td.hell > a::text').getall(),
+                    'Played': play.xpath('//*[@id="site"]/div[2]/div[1]/div[1]/div[5]/div/table/tbody/tr[2]/td[3]/a[4]/text').getall(),
                     }
-         
+    
+
+#//*[@id="site"]/div[2]/div[1]/div[1]/div[5]/div/table/tbody/tr[2]/td[3]
+
+

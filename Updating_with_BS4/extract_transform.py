@@ -187,3 +187,36 @@ def all_time_table():
     alltime_table = alltime_table.drop(['#'], axis=1)
     alltime_table.Team = alltime_table.Team.str.replace(r'\n', '')
     return alltime_table
+
+def all_time_scorer_own_goal():
+    a = [f'https://www.worldfootball.net/alltime_goalgetter/eng-premier-league/eigentore/{i:d}' for i in (range(1, 32))]
+    header = ['#','Player','Team(s)','own goal']
+    df = pd.DataFrame(columns=header)
+    def player(ev):
+        url = ev
+        headers = []
+        page = requests.get(url)
+        soup = BeautifulSoup(page.text,  "html.parser")
+        table= soup.find("table", class_="standard_tabelle")
+
+        for i in table.find_all('th'):
+            title = i.text
+            headers.append(title)
+        players = pd.DataFrame(columns = headers)
+        for j in table.find_all('tr')[1:-1]:
+            row_data = j.find_all('td')
+            row = [i.text for i in row_data]
+            length = len(players)
+            players.loc[length] = row
+        return players
+
+    for i in a:
+        a = player(i)
+        df = pd.concat([df, a], axis=0).reset_index(drop=True)
+
+
+    df['Team(s)'] = df['Team(s)'].str.replace(r'\n\n', '', 1)
+    df['Team(s)'] = df['Team(s)'].str.replace(r'\n\n', ',')
+    df['Team(s)'] = df['Team(s)'].str.replace(r'\n', '')
+
+    return df
