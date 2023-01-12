@@ -305,3 +305,40 @@ def record_win():
     record_wins['Result'] = record_wins['Result'].str.replace(r'\n', '')
     record_wins['Result'] = record_wins['Result'].str.replace(r'\t', '')
     return record_wins
+
+
+def historical():
+    url = 'https://www.worldfootball.net/schedule/eng-premier-league-2019-2020-spieltag/38/'
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text,  "html.parser")
+    table= soup.find("table", class_="auswahlbox with-border")
+    for j in table.find_all('form')[:1]:
+        row_data = j.find('select')
+        row = [i.text for i in row_data]
+    row = [s.replace('\n', '') for s in row]
+    while('' in row):
+        row.remove("")
+    row = [s.replace('/', '-') for s in row]
+    a = [f'https://www.worldfootball.net/schedule/eng-premier-league-{i:s}-spieltag/38/' for i in (row)]
+
+    def history(ev):
+        url = ev
+        headers = ['#','##','Team','M.','W','D','L','goals','Dif.','Pt.']
+        page = requests.get(url)
+        soup = BeautifulSoup(page.text,  "html.parser")
+        table= soup.find_all("table", class_="standard_tabelle")[1]
+
+        historic_table = pd.DataFrame(columns = headers)
+        for j in table.find_all('tr')[1:]:
+            row_data = j.find_all('td')
+            row = [i.text for i in row_data]
+            length = len(historic_table)
+            historic_table.loc[length] = row
+
+        historic_table =  historic_table.drop(['##'], axis=1)
+        historic_table['Team'] = historic_table['Team'].str.replace('\n', '')
+        historic_table = historic_table.rename(columns={'#': 'position','M.': 'Matches','W': 'Wins','D': 'Draws','L': 'Loss' ,'Pt.': 'Points'})
+        historic_table.to_csv(f'/workspace/Premier_League_Stats/csv_dir/historical_tables/{url[51:-13]}.csv', index=False)
+
+    for i in a:
+        history(i)
