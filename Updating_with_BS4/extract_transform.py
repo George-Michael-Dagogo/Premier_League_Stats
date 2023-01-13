@@ -72,7 +72,16 @@ def get_top_scorers():
         length = len(top_scorers)
         top_scorers.loc[length] = row
 
+    top_scorers.Name = top_scorers.Name.replace(r'([A-Z])', r' \1', regex=True).str.split()
+    top_scorers.Name = top_scorers.Name.apply(lambda x: ' '.join(dict.fromkeys(x).keys()))
 
+    top_scorers['Club'] = top_scorers.Name.str.split().str[2:].str.join(' ')
+    top_scorers.Name = top_scorers.Name.str.split().str[:2].str.join(' ')
+    col = top_scorers.pop("Club")
+    top_scorers.insert(2, 'Club', col)
+    top_scorers.Club = top_scorers.Club.apply(lambda x: 'Manchester City' if 'Manchester City' in x else x)
+    top_scorers.Club = top_scorers.Club.apply(lambda x: 'Manchester United' if 'Manchester United' in x else x)
+    top_scorers.Club = top_scorers.Club.apply(lambda x: 'Brighton & Hove Albion' if 'Brighton & Hove Albion' in x else x)
 
     return top_scorers
 
@@ -93,6 +102,19 @@ def get_assists():
         row = [i.text for i in row_data]
         length = len(assists)
         assists.loc[length] = row
+
+    assists.Name = assists.Name.replace(r'([A-Z])', r' \1', regex=True).str.split()
+    assists.Name = assists.Name.apply(lambda x: ' '.join(dict.fromkeys(x).keys()))
+
+    assists['Club'] = assists.Name.str.split().str[2:].str.join(' ')
+    assists.Name = assists.Name.str.split().str[:2].str.join(' ')
+    col = assists.pop("Club")
+    assists.insert(2, 'Club', col)
+    assists.Club = assists.Club.apply(lambda x: 'Manchester City' if 'Manchester City' in x else x)
+    assists.Club = assists.Club.apply(lambda x: 'Manchester United' if 'Manchester United' in x else x)
+    assists.Club = assists.Club.apply(lambda x: 'Brighton & Hove Albion' if 'Brighton & Hove Albion' in x else x)
+    assists.Name = assists.Name.apply(lambda x: 'Kevin De Bruyne' if 'Kevin De' in x else x)
+    #Kevin De Bruyne
     return assists
 
 def detail_top():

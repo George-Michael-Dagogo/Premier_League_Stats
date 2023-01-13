@@ -1,26 +1,26 @@
-Rank,Name,GoalsGL,AssistsA,PlayedP,Goals per 90,Mins per GoalMPG,Total Shots,Goal Conversion,Shot Accuracy
-1,Erling HaalandHaalandManchester CityMan City,21,3,16,1.44,62,55,38%,62%
-2,Harry KaneKaneTottenham HotspurTottenham,15,1,18,0.84,107,48,31%,69%
-3,Ivan ToneyToneyBrentfordBrentford,12,3,16,0.75,120,41,29%,54%
-4,Aleksandar MitrovicMitrovicFulhamFulham,11,1,15,0.77,117,55,20%,51%
-5,Rodrigo MorenoRodrigoLeeds UnitedLeeds,10,1,16,0.79,114,32,31%,56%
-6,Miguel AlmirónAlmirónNewcastle UnitedNewcastle,9,1,18,0.54,167,25,36%,56%
-7,Martin ØdegaardØdegaardArsenalArsenal,7,5,16,0.47,193,26,27%,58%
-7,James MaddisonMaddisonLeicester CityLeicester,7,4,13,0.57,157,25,28%,52%
-7,Mohamed SalahSalahLiverpoolLiverpool,7,4,17,0.42,215,47,15%,51%
-7,Roberto FirminoFirminoLiverpoolLiverpool,7,3,13,0.67,134,26,27%,77%
-7,Phil FodenFodenManchester CityMan City,7,3,17,0.64,141,21,33%,67%
-7,Marcus RashfordRashfordManchester UnitedMan Utd,7,3,17,0.47,193,28,25%,64%
-7,Leandro TrossardTrossardBrighton & Hove AlbionBrighton,7,2,16,0.48,189,25,28%,72%
-7,Gabriel MartinelliMartinelliArsenalArsenal,7,2,17,0.43,208,29,24%,62%
-15,Bukayo SakaSakaArsenalArsenal,6,6,17,0.37,241,24,25%,50%
-15,Pascal GroßGroßBrighton & Hove AlbionBrighton,6,3,17,0.37,244,14,43%,71%
-15,Callum WilsonWilsonNewcastle UnitedNewcastle,6,2,13,0.61,148,26,23%,46%
-15,Wilfried ZahaZahaCrystal PalaceCrystal Palace,6,2,16,0.38,237,25,24%,64%
-15,Danny IngsIngsAston VillaAston Villa,6,0,17,0.71,127,20,30%,65%
-15,Harvey BarnesBarnesLeicester CityLeicester,6,0,16,0.40,224,28,21%,64%
-21,Gabriel JesusGabriel JesusArsenalArsenal,5,5,14,0.37,245,37,14%,54%
-21,Darwin NúñezNúñezLiverpoolLiverpool,5,2,13,0.51,175,47,11%,51%
-21,Alexis Mac AllisterMac AllisterBrighton & Hove AlbionBrighton,5,0,15,0.35,257,21,24%,52%
-24,Raheem SterlingSterlingChelseaChelsea,4,2,15,0.32,281,14,29%,64%
-24,Rodrigo BentancurBentancurTottenham HotspurTottenham,4,2,14,0.30,296,9,44%,78%
+Rank,Name,Club,GoalsGL,AssistsA,PlayedP,Goals per 90,Mins per GoalMPG,Total Shots,Goal Conversion,Shot Accuracy
+1,Erling Haaland,Manchester City,21,3,16,1.44,62,55,38%,62%
+2,Harry Kane,Tottenham Hotspur,15,1,18,0.84,107,48,31%,69%
+3,Ivan Toney,Brentford,12,3,16,0.75,120,41,29%,54%
+4,Aleksandar Mitrovic,Fulham,11,1,15,0.77,117,55,20%,51%
+5,Rodrigo Moreno,Leeds United,10,1,16,0.79,114,32,31%,56%
+6,Miguel Almirón,Newcastle United,9,1,18,0.54,167,25,36%,56%
+7,Martin ØdegaardØdegaard,Arsenal,7,5,16,0.47,193,26,27%,58%
+7,James Maddison,Leicester City,7,4,13,0.57,157,25,28%,52%
+7,Mohamed Salah,Liverpool,7,4,17,0.42,215,47,15%,51%
+7,Roberto Firmino,Liverpool,7,3,13,0.67,134,26,27%,77%
+7,Phil Foden,Manchester City,7,3,17,0.64,141,21,33%,67%
+7,Marcus Rashford,Manchester United,7,3,17,0.47,193,28,25%,64%
+7,Leandro Trossard,Brighton & Hove Albion,7,2,16,0.48,189,25,28%,72%
+7,Gabriel Martinelli,Arsenal,7,2,17,0.43,208,29,24%,62%
+15,Bukayo Saka,Arsenal,6,6,17,0.37,241,24,25%,50%
+15,Pascal Groß,Brighton & Hove Albion,6,3,17,0.37,244,14,43%,71%
+15,Callum Wilson,Newcastle United,6,2,13,0.61,148,26,23%,46%
+15,Wilfried Zaha,Crystal Palace,6,2,16,0.38,237,25,24%,64%
+15,Danny Ings,Aston Villa,6,0,17,0.71,127,20,30%,65%
+15,Harvey Barnes,Leicester City,6,0,16,0.40,224,28,21%,64%
+21,Gabriel Jesus,Arsenal,5,5,14,0.37,245,37,14%,54%
+21,Darwin Núñez,Liverpool,5,2,13,0.51,175,47,11%,51%
+21,Alexis Mac,Brighton & Hove Albion,5,0,15,0.35,257,21,24%,52%
+24,Raheem Sterling,Chelsea,4,2,15,0.32,281,14,29%,64%
+24,Rodrigo Bentancur,Tottenham Hotspur,4,2,14,0.30,296,9,44%,78%
