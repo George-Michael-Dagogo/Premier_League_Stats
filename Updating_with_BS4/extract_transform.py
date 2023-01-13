@@ -134,12 +134,16 @@ def detail_top():
         length = len(detail_top_scorer)
         detail_top_scorer.loc[length] = row
 
-    detail_top = spark.createDataFrame(detail_top_scorer) 
-    detail_top = detail_top.drop(detail_top[''])
-    detail_top = detail_top.withColumn("Team", F.regexp_replace(F.col("Team"), "[\'\n\n']", ""))
-    return detail_top.toPandas()
+    detail_top_scorer = detail_top_scorer.drop([''],axis=1)
+    detail_top_scorer.Team = detail_top_scorer.Team.str.replace('\n\n','')
+    detail_top_scorer['Penalty'] = detail_top_scorer['Goals (Penalty)'].str.split().str[-1:].str.join(' ')
+    detail_top_scorer['Penalty'] = detail_top_scorer['Penalty'].str.replace('(','')
+    detail_top_scorer['Penalty'] = detail_top_scorer['Penalty'].str.replace(')','')
+    detail_top_scorer['Goals (Penalty)'] = detail_top_scorer['Goals (Penalty)'].str.split().str[0].str.join('')
+    detail_top_scorer.rename(columns = {'Goals (Penalty)':'Goals'}, inplace = True)
+    return detail_top_scorer
 
-
+    
 def stadiums():
     url = 'https://www.stadiumguide.com/premier-league-stadiums/'
     headers = []
