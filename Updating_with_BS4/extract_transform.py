@@ -368,3 +368,36 @@ def historical():
 
     for i in a:
         history(i)
+
+def top_scorers_all():
+    a = [f'https://www.worldfootball.net/alltime_goalgetter/eng-premier-league/tore/pl-only/{i:d}' for i in (range(1, 53))]
+    def all(ev):
+        
+        url = ev
+        headers = []
+        page = requests.get(url)
+        soup = BeautifulSoup(page.text,  "html.parser")
+        table= soup.find("table", class_="standard_tabelle")
+
+        for i in table.find_all('th'):
+            title = i.text
+            headers.append(title)
+        players = pd.DataFrame(columns = headers)
+        for j in table.find_all('tr')[1:-1]:
+            row_data = j.find_all('td')
+            
+            row = [i.text for i in row_data]
+            length = len(players)
+            players.loc[length] = row
+
+        players['Team(s)'] = players['Team(s)'].str.replace('\n\n', '', 1)
+        players['Team(s)'] = players['Team(s)'].str.replace('\n\n', ',')
+        players['Team(s)'] = players['Team(s)'].str.replace('\n', '')
+
+        players.rename(columns = {'M.':'Matches'}, inplace = True)
+        players = players.drop('#',axis=1)
+        players.to_csv('/workspace/Premier_League_Stats/csv_dir/top_scorers(all_time).csv', index=False,mode='a', header=False)
+
+    for i in a:
+        print(i)
+        all(i)
