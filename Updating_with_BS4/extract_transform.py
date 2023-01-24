@@ -141,6 +141,7 @@ def detail_top():
     detail_top_scorer['Penalty'] = detail_top_scorer['Penalty'].str.replace(')','')
     detail_top_scorer['Goals (Penalty)'] = detail_top_scorer['Goals (Penalty)'].str.split().str[0].str.join('')
     detail_top_scorer.rename(columns = {'Goals (Penalty)':'Goals'}, inplace = True)
+    detail_top_scorer = detail_top_scorer.drop(['#'], axis = 1)
     return detail_top_scorer
 
     
@@ -212,7 +213,7 @@ def all_time_table():
         alltime_table.loc[length] = row
 
     alltime_table = alltime_table.drop(['#'], axis=1)
-    alltime_table.Team = alltime_table.Team.str.replace(r'\n', '')
+    alltime_table.Team = alltime_table.Team.str.replace('\n', '')
     return alltime_table
 
 def all_time_scorer_own_goal():
@@ -242,9 +243,11 @@ def all_time_scorer_own_goal():
         df = pd.concat([df, a], axis=0).reset_index(drop=True)
 
 
-    df['Team(s)'] = df['Team(s)'].str.replace(r'\n\n', '', 1)
-    df['Team(s)'] = df['Team(s)'].str.replace(r'\n\n', ',')
-    df['Team(s)'] = df['Team(s)'].str.replace(r'\n', '')
+    df['Team(s)'] = df['Team(s)'].str.replace('\n\n', '', 1)
+    df['Team(s)'] = df['Team(s)'].str.replace('\n\n', ',')
+    df['Team(s)'] = df['Team(s)'].str.replace('\n', '')
+    df['Player'] = df['Player'].str.replace('*', '')
+    df = df.drop(['#'], axis = 1)
 
     return df
 
@@ -306,8 +309,10 @@ def goals_per_season():
         row = [i.text for i in row_data]
         length = len(goals_per_season)
         goals_per_season.loc[length] = row
+        goals_per_season = goals_per_season.drop([''], axis=1)
 
-        #winners = winners.drop([''], axis=1)
+        goals_per_season = goals_per_season.drop(['#'], axis=1)
+        goals_per_season.rename(columns = {'goals':'Goals','Ø goals':'Average Goals'}, inplace = True)
         #winners['Year'] = winners['Year'].str.replace(r'\n', '')
     return goals_per_season
 
