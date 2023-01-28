@@ -17,6 +17,15 @@ conn = psycopg2.connect(database = os.getenv('database'),
 conn.autocommit = True
 cursor = conn.cursor()
 
+drop_tables = """
+DROP TABLE IF EXISTS
+ players,
+ all_time_team,
+ players_detail
+ ;
+"""
+cursor.execute(drop_tables) 
+
 create_uuid = """
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 

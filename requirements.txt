@@ -5,4 +5,6 @@ pandas==1.5.2
 psycopg2==2.9.5
 psycopg2_binary==2.9.5
 pyspark==3.3.1
+python-dotenv==0.21.1
 requests==2.28.1
+SQLAlchemy==1.4.46
