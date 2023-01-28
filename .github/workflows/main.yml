@@ -2,7 +2,7 @@ name: update csvs
 
 on:
   schedule: 
-    - cron: '0 0 * * 6,0' # Runs at 01:00 UTC every day.
+    - cron: '0 0 * * 6,0' # Runs at 00:00 every saturday and sunday
   workflow_dispatch:
 
 jobs:
