@@ -21,7 +21,8 @@ drop_tables = """
 DROP TABLE IF EXISTS
  players,
  all_time_team,
- players_detail
+ players_detail,
+ manager
  ;
 """
 cursor.execute(drop_tables) 
@@ -51,7 +52,7 @@ CREATE TABLE IF NOT EXISTS all_time_team (
   losses INT NOT NULL,
   goals VARCHAR(45) NOT NULL,
   dif INT NOT NULL,
-  poINTs INT NOT NULL
+  points INT NOT NULL
 );
 
 
@@ -70,6 +71,17 @@ CREATE TABLE IF NOT EXISTS players_detail (
         FOREIGN KEY(team_id) 
 	        REFERENCES all_time_team(team_id)
 );
+
+CREATE TABLE IF NOT EXISTS manager (
+  manager_id UUID DEFAULT uuid_generate_v1 () PRIMARY KEY,
+  team_id UUID ,
+  name VARCHAR(45) NOT NULL,
+  team VARCHAR(45) NOT NULL,
+  nationality VARCHAR(45) NOT NULL,
+  CONSTRAINT fk_team
+        FOREIGN KEY(team_id) 
+                REFERENCES all_time_team(team_id)
+  );
 """
 cursor.execute(create_all_database_table)
 
@@ -85,7 +97,7 @@ with open('./csv_dir/player.csv', 'r') as f:
 
 
 copy_all_time_table_sql = """
-COPY all_time_team (position,Team,Matches,wins,Draws,Losses,Goals,Dif,PoINTs)
+COPY all_time_team (position,Team,Matches,wins,Draws,Losses,Goals,Dif,points)
     FROM stdin
     DELIMITER ','
     CSV HEADER;
@@ -104,4 +116,13 @@ COPY players_detail (Player,Team,DOB,Height,Position)
     """
 with open('./csv_dir/player_table.csv', 'r') as f:
         cursor.copy_expert(sql=copy_player_detail_table_sql, file=f)
+
+copy_manager_table_sql = """
+COPY manager (name,team,nationality)
+    FROM stdin
+    DELIMITER ','
+    CSV HEADER;
+    """
+with open('./csv_dir/manager.csv', 'r') as f:
+        cursor.copy_expert(sql=copy_manager_table_sql, file=f)
 conn.close()      
