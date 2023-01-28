@@ -22,7 +22,10 @@ DROP TABLE IF EXISTS
  players,
  all_time_team,
  players_detail,
- manager
+ manager,
+ stadium,
+ all_time_winner_club,
+ all_time_scorers_penalty
  ;
 """
 cursor.execute(drop_tables) 
@@ -82,6 +85,40 @@ CREATE TABLE IF NOT EXISTS manager (
         FOREIGN KEY(team_id) 
                 REFERENCES all_time_team(team_id)
   );
+
+
+CREATE TABLE IF NOT EXISTS stadium (
+  stadium_id UUID DEFAULT uuid_generate_v1 () PRIMARY KEY,
+  team_id UUID ,
+  city VARCHAR(45) NOT NULL,
+  team VARCHAR(45) NOT NULL,
+  stadium VARCHAR(45) NOT NULL,
+  capacity VARCHAR(45) NOT NULL,
+  CONSTRAINT fk_team
+        FOREIGN KEY(team_id) 
+                REFERENCES all_time_team(team_id)
+  );
+
+
+CREATE TABLE IF NOT EXISTS all_time_winner_club (
+  year INT NOT NULL PRIMARY KEY,
+  team_id UUID ,
+  team VARCHAR(45) NOT NULL,
+  country VARCHAR(45) NOT NULL,
+  CONSTRAINT fk_team
+        FOREIGN KEY(team_id) 
+                REFERENCES all_time_team(team_id)
+  );
+
+CREATE TABLE IF NOT EXISTS all_time_scorers_penalty (
+  player_id UUID ,
+  player VARCHAR(45) NOT NULL,
+  teams VARCHAR(200) NOT NULL,
+  penalty INT NOT NULL,
+  CONSTRAINT fk_player
+        FOREIGN KEY(player_id) 
+                REFERENCES players(player_id)
+  );
 """
 cursor.execute(create_all_database_table)
 
@@ -125,4 +162,35 @@ COPY manager (name,team,nationality)
     """
 with open('./csv_dir/manager.csv', 'r') as f:
         cursor.copy_expert(sql=copy_manager_table_sql, file=f)
+
+
+copy_stadium_table_sql = """
+COPY stadium (City,team,Stadium,Capacity)
+    FROM stdin
+    DELIMITER ','
+    CSV HEADER;
+    """
+with open('./csv_dir/stadiums.csv', 'r') as f:
+        cursor.copy_expert(sql=copy_stadium_table_sql, file=f)
+
+
+copy_all_time_winner_club_table_sql = """
+COPY all_time_winner_club (Year,team,Country)
+    FROM stdin
+    DELIMITER ','
+    CSV HEADER;
+    """
+with open('./csv_dir/alltime_winners(clubs).csv', 'r') as f:
+        cursor.copy_expert(sql=copy_all_time_winner_club_table_sql, file=f)
+
+
+
+copy_all_time_scorers_penalty_table_sql = """
+COPY all_time_scorers_penalty (Player,Teams,Penalty)
+    FROM stdin
+    DELIMITER ','
+    CSV HEADER;
+    """
+with open('./csv_dir/alltime_scorers(Penalty).csv', 'r') as f:
+        cursor.copy_expert(sql=copy_all_time_scorers_penalty_table_sql, file=f)
 conn.close()      
