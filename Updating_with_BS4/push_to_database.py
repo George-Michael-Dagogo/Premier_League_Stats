@@ -25,7 +25,9 @@ DROP TABLE IF EXISTS
  manager,
  stadium,
  all_time_winner_club,
- all_time_scorers_penalty
+ all_time_scorers_penalty,
+ all_time_scorers_own_goal,
+ goals_per_season
  ;
 """
 cursor.execute(drop_tables) 
@@ -119,6 +121,24 @@ CREATE TABLE IF NOT EXISTS all_time_scorers_penalty (
         FOREIGN KEY(player_id) 
                 REFERENCES players(player_id)
   );
+
+CREATE TABLE IF NOT EXISTS all_time_scorers_own_goal (
+  player_id UUID ,
+  player VARCHAR(45) NOT NULL,
+  teams VARCHAR(200) NOT NULL,
+  own_goal INT NOT NULL,
+  CONSTRAINT fk_player
+        FOREIGN KEY(player_id) 
+                REFERENCES players(player_id)
+  );
+
+
+CREATE TABLE IF NOT EXISTS goals_per_season (
+  season VARCHAR(45) NOT NULL PRIMARY KEY,
+  goals INT NOT NULL,
+  matches INT NOT NULL,
+  average_goal FLOAT NOT NULL
+  );
 """
 cursor.execute(create_all_database_table)
 
@@ -193,4 +213,16 @@ COPY all_time_scorers_penalty (Player,Teams,Penalty)
     """
 with open('./csv_dir/alltime_scorers(Penalty).csv', 'r') as f:
         cursor.copy_expert(sql=copy_all_time_scorers_penalty_table_sql, file=f)
+
+copy_goals_per_season_table_sql = """
+COPY goals_per_season (Season,Goals,Matches,Average_Goal)
+    FROM stdin
+    DELIMITER ','
+    CSV HEADER;
+    """
+with open('./csv_dir/goals_per_season.csv', 'r') as f:
+        cursor.copy_expert(sql=copy_goals_per_season_table_sql, file=f)
+
+
+
 conn.close()      
