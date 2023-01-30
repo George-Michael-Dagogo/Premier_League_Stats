@@ -1,7 +1,7 @@
-Player,Team(s),Matches,goals,Penalty,Ø
+Player,Team(s),Matches,goals,Penalty,Average
 Alan Shearer,"Newcastle United,Blackburn Rovers",441,260,54,0.59
 Wayne Rooney,"Manchester United,Everton FC",491,208,23,0.42
-Harry Kane *,"Tottenham Hotspur,Norwich City",302,198,30,0.66
+Harry Kane ,"Tottenham Hotspur,Norwich City",302,198,30,0.66
 Andy Cole,"Manchester United,Newcastle United,Sunderland AFC,Blackburn Rovers,Fulham FC,Manchester City,Portsmouth FC",414,189,1,0.46
 Sergio Agüero,Manchester City,275,184,27,0.67
 Thierry Henry,Arsenal FC,258,176,22,0.68
@@ -12,28 +12,28 @@ Les Ferdinand,"Newcastle United,Leicester City,Tottenham Hotspur,West Ham United
 Michael Owen,"Manchester United,Newcastle United,Liverpool FC,Stoke City",326,150,14,0.46
 Teddy Sheringham,"Manchester United,Tottenham Hotspur,West Ham United,Nottingham Forest,Portsmouth FC",418,146,19,0.35
 Robin van Persie,"Manchester United,Arsenal FC",280,144,15,0.51
-Jamie Vardy *,Leicester City,289,134,26,0.46
+Jamie Vardy ,Leicester City,289,134,26,0.46
 Jimmy Floyd Hasselbaink,"Leeds United,Chelsea FC,Middlesbrough FC,Charlton Athletic",288,129,14,0.45
-Mo Salah *,"Chelsea FC,Liverpool FC",211,127,18,0.60
+Mo Salah ,"Chelsea FC,Liverpool FC",211,127,18,0.6
 Nicolas Anelka,"Chelsea FC,Liverpool FC,Bolton Wanderers,Arsenal FC,West Bromwich Albion,Manchester City",364,126,7,0.35
 Robbie Keane,"Leeds United,Liverpool FC,Tottenham Hotspur,West Ham United,Aston Villa,Coventry City",349,126,17,0.36
 Dwight Yorke,"Manchester United,Sunderland AFC,Blackburn Rovers,Aston Villa,Birmingham City",375,123,6,0.33
-Romelu Lukaku *,"Manchester United,Chelsea FC,Everton FC,West Bromwich Albion",278,121,7,0.44
+Romelu Lukaku ,"Manchester United,Chelsea FC,Everton FC,West Bromwich Albion",278,121,7,0.44
 Steven Gerrard,Liverpool FC,504,120,31,0.24
-Raheem Sterling *,"Chelsea FC,Liverpool FC,Manchester City",335,113,3,0.34
+Raheem Sterling ,"Chelsea FC,Liverpool FC,Manchester City",335,113,3,0.34
 Ian Wright,"West Ham United,Arsenal FC",213,113,16,0.53
 Dion Dublin,"Manchester United,Aston Villa,Coventry City",312,112,10,0.36
 Emile Heskey,"Leicester City,Liverpool FC,Aston Villa,Birmingham City,Wigan Athletic",516,111,0,0.22
-Sadio Mané *,"Southampton FC,Liverpool FC",263,111,0,0.42
+Sadio Mané ,"Southampton FC,Liverpool FC",263,111,0,0.42
 Ryan Giggs,Manchester United,632,109,2,0.17
 Darren Bent,"Sunderland AFC,Charlton Athletic,Tottenham Hotspur,Ipswich Town,Fulham FC,Aston Villa",276,107,17,0.39
 Paul Scholes,Manchester United,499,107,1,0.21
 Peter Crouch,"Southampton FC,Liverpool FC,Tottenham Hotspur,Aston Villa,Portsmouth FC,Stoke City,Burnley FC",468,106,0,0.23
 Didier Drogba,Chelsea FC,254,105,4,0.41
- Cristiano Ronaldo *,Manchester United,236,103,14,0.44
+ Cristiano Ronaldo ,Manchester United,236,103,14,0.44
 Matt Le Tissier,Southampton FC,270,101,24,0.37
-Emmanuel Adebayor,"Tottenham Hotspur,Arsenal FC,Manchester City,Crystal Palace",242,97,10,0.40
-Heung-min Son *,Tottenham Hotspur,250,97,1,0.39
+Emmanuel Adebayor,"Tottenham Hotspur,Arsenal FC,Manchester City,Crystal Palace",242,97,10,0.4
+Heung-min Son ,Tottenham Hotspur,250,97,1,0.39
 Yakubu Ayegbeni,"Middlesbrough FC,Blackburn Rovers,Everton FC,Portsmouth FC",252,96,18,0.38
 Dimitar Berbatov,"Manchester United,Tottenham Hotspur,Fulham FC",229,95,9,0.41
 Ruud van Nistelrooy,Manchester United,150,95,15,0.63
@@ -41,121 +41,121 @@ Kevin Phillips,"Southampton FC,Sunderland AFC,Aston Villa,Crystal Palace,Birming
 Ole Gunnar Solskjær,Manchester United,235,91,0,0.39
 Mark Viduka,"Leeds United,Newcastle United,Middlesbrough FC",240,91,5,0.38
 James Beattie,"Southampton FC,Blackburn Rovers,Everton FC,Stoke City,Blackpool FC",328,90,16,0.27
-Olivier Giroud *,"Chelsea FC,Arsenal FC",255,90,2,0.35
+Olivier Giroud ,"Chelsea FC,Arsenal FC",255,90,2,0.35
 Dennis Bergkamp,Arsenal FC,315,87,5,0.28
-Kevin Davies,"Southampton FC,Bolton Wanderers,Blackburn Rovers",442,87,6,0.20
-Christian Benteke *,"Liverpool FC,Aston Villa,Crystal Palace",280,86,10,0.31
- Fernando Torres,"Chelsea FC,Liverpool FC",212,85,1,0.40
-Eden Hazard *,Chelsea FC,245,85,17,0.35
-Louis Saha,"Manchester United,Newcastle United,Sunderland AFC,Tottenham Hotspur,Fulham FC,Everton FC",288,85,12,0.30
+Kevin Davies,"Southampton FC,Bolton Wanderers,Blackburn Rovers",442,87,6,0.2
+Christian Benteke ,"Liverpool FC,Aston Villa,Crystal Palace",280,86,10,0.31
+ Fernando Torres,"Chelsea FC,Liverpool FC",212,85,1,0.4
+Eden Hazard ,Chelsea FC,245,85,17,0.35
+Louis Saha,"Manchester United,Newcastle United,Sunderland AFC,Tottenham Hotspur,Fulham FC,Everton FC",288,85,12,0.3
 Carlos Tévez,"Manchester United,West Ham United,Manchester City",202,85,13,0.42
 Chris Sutton,"Chelsea FC,Blackburn Rovers,Aston Villa,Norwich City,Birmingham City",255,83,6,0.33
 Kevin Campbell,"Arsenal FC,Everton FC,Nottingham Forest,West Bromwich Albion",325,82,0,0.25
 Craig Bellamy,"Newcastle United,Liverpool FC,West Ham United,Blackburn Rovers,Manchester City,Coventry City,Cardiff City",294,81,3,0.28
-Riyad Mahrez *,"Leicester City,Manchester City",268,81,12,0.30
+Riyad Mahrez ,"Leicester City,Manchester City",268,81,12,0.3
 Gary Speed,"Leeds United,Newcastle United,Bolton Wanderers,Everton FC",535,81,10,0.15
 Tony Cottee,"Leicester City,West Ham United,Everton FC",220,78,2,0.35
- Roberto Firmino *,Liverpool FC,244,78,2,0.32
-Theo Walcott *,"Southampton FC,Arsenal FC,Everton FC",380,78,0,0.21
+ Roberto Firmino ,Liverpool FC,244,78,2,0.32
+Theo Walcott ,"Southampton FC,Arsenal FC,Everton FC",380,78,0,0.21
 Daniel Sturridge,"Chelsea FC,Liverpool FC,Bolton Wanderers,West Bromwich Albion,Manchester City",218,77,2,0.35
 Gabriel Agbonlahor,Aston Villa,322,73,0,0.23
 Chris Armstrong,"Tottenham Hotspur,Crystal Palace",216,71,1,0.33
 Brian Deane,"Leeds United,Middlesbrough FC,Leicester City,Sheffield United",285,71,1,0.25
 Éric Cantona,"Leeds United,Manchester United",156,70,14,0.45
-Pierre-Emerick Aubameyang *,"Chelsea FC,Arsenal FC",138,69,9,0.50
+Pierre-Emerick Aubameyang ,"Chelsea FC,Arsenal FC",138,69,9,0.5
 Duncan Ferguson,"Newcastle United,Everton FC",268,69,3,0.26
 Kevin Nolan,"Newcastle United,West Ham United,Bolton Wanderers",401,69,1,0.17
-Luis Suárez *,Liverpool FC,110,69,0,0.63
-Danny Ings *,"Southampton FC,Liverpool FC,Aston Villa,Burnley FC",188,68,10,0.36
+Luis Suárez ,Liverpool FC,110,69,0,0.63
+Danny Ings ,"Southampton FC,Liverpool FC,Aston Villa,Burnley FC",188,68,10,0.36
 Paolo Di Canio,"Charlton Athletic,West Ham United,Sheffield Wednesday",190,67,15,0.35
-Marcus Rashford *,Manchester United,223,67,6,0.30
+Marcus Rashford ,Manchester United,223,67,6,0.3
 Gylfi Sigurðsson,"Tottenham Hotspur,Everton FC,Swansea City",318,67,12,0.21
-Callum Wilson *,"Newcastle United,AFC Bournemouth",184,67,12,0.36
-Wilfried Zaha *,"Manchester United,Crystal Palace,Cardiff City",296,67,7,0.23
+Callum Wilson ,"Newcastle United,AFC Bournemouth",184,67,12,0.36
+Wilfried Zaha ,"Manchester United,Crystal Palace,Cardiff City",296,67,7,0.23
 Mark Hughes,"Manchester United,Chelsea FC,Southampton FC,Blackburn Rovers,Everton FC",297,64,1,0.22
- Gabriel Jesus *,"Arsenal FC,Manchester City",173,63,3,0.36
+ Gabriel Jesus ,"Arsenal FC,Manchester City",173,63,3,0.36
 Dean Holdsworth,"Bolton Wanderers,Wimbledon FC",229,63,4,0.28
-Alexis Sánchez *,"Manchester United,Arsenal FC",154,63,3,0.41
+Alexis Sánchez ,"Manchester United,Arsenal FC",154,63,3,0.41
 David Beckham,Manchester United,265,62,2,0.23
 Stan Collymore,"Leicester City,Liverpool FC,Aston Villa,Nottingham Forest,Bradford City,Crystal Palace",163,62,1,0.38
 Robert Pirés,"Arsenal FC,Aston Villa",198,62,4,0.31
- David Silva *,Manchester City,309,60,0,0.19
-Kevin De Bruyne *,"Chelsea FC,Manchester City",228,60,4,0.26
+ David Silva ,Manchester City,309,60,0,0.19
+Kevin De Bruyne ,"Chelsea FC,Manchester City",228,60,4,0.26
 Peter Beardsley,"Newcastle United,Bolton Wanderers,Everton FC",185,59,17,0.32
-Anthony Martial *,Manchester United,184,59,3,0.32
+Anthony Martial ,Manchester United,184,59,3,0.32
 Niall Quinn,"Sunderland AFC,Manchester City",250,59,0,0.24
 Yaya Touré,Manchester City,230,59,11,0.26
 Gianfranco Zola,Chelsea FC,229,59,1,0.26
-Michail Antonio *,West Ham United,213,58,1,0.27
+Michail Antonio ,West Ham United,213,58,1,0.27
 Lee Bowyer,"Leeds United,Newcastle United,West Ham United,Birmingham City",397,57,0,0.14
 Clint Dempsey,"Tottenham Hotspur,Fulham FC",218,57,2,0.26
 Harry Kewell,"Leeds United,Liverpool FC",274,57,1,0.21
-Danny Welbeck *,"Manchester United,Sunderland AFC,Arsenal FC,Watford FC,Brighton & Hove Albion",287,57,0,0.20
+Danny Welbeck ,"Manchester United,Sunderland AFC,Arsenal FC,Watford FC,Brighton & Hove Albion",287,57,0,0.2
 Tim Cahill,Everton FC,226,56,0,0.25
 Jason Euell,"Middlesbrough FC,Charlton Athletic,Blackpool FC,Wimbledon FC",263,56,6,0.21
 Kevin Gallacher,"Newcastle United,Blackburn Rovers,Coventry City",198,56,0,0.28
-Shane Long *,"Southampton FC,West Bromwich Albion,Hull City,Reading FC",344,56,1,0.16
+Shane Long ,"Southampton FC,West Bromwich Albion,Hull City,Reading FC",344,56,1,0.16
 Eiður Guðjohnsen,"Chelsea FC,Tottenham Hotspur,Fulham FC,Stoke City",211,55,2,0.26
 John Hartson,"West Ham United,Arsenal FC,Coventry City,Wimbledon FC",155,55,1,0.35
-James Milner *,"Leeds United,Newcastle United,Liverpool FC,Aston Villa,Manchester City",600,55,17,0.09
+James Milner ,"Leeds United,Newcastle United,Liverpool FC,Aston Villa,Manchester City",600,55,17,0.09
 Gareth Bale,Tottenham Hotspur,166,54,0,0.33
-Andy Carroll *,"Newcastle United,Liverpool FC,West Ham United",248,54,2,0.22
-Nwankwo Kanu,"Arsenal FC,West Bromwich Albion,Portsmouth FC",272,54,1,0.20
-Alexandre Lacazette *,Arsenal FC,158,54,7,0.34
+Andy Carroll ,"Newcastle United,Liverpool FC,West Ham United",248,54,2,0.22
+Nwankwo Kanu,"Arsenal FC,West Bromwich Albion,Portsmouth FC",272,54,1,0.2
+Alexandre Lacazette ,Arsenal FC,158,54,7,0.34
 Gustavo Poyet,"Chelsea FC,Tottenham Hotspur",186,54,1,0.29
-Chris Wood *,"Newcastle United,Leicester City,West Bromwich Albion,Burnley FC",189,54,5,0.29
+Chris Wood ,"Newcastle United,Leicester City,West Bromwich Albion,Burnley FC",189,54,5,0.29
 Nick Barmby,"Leeds United,Middlesbrough FC,Liverpool FC,Tottenham Hotspur,Everton FC,Hull City",343,53,1,0.15
 Damien Duff,"Chelsea FC,Newcastle United,Blackburn Rovers,Fulham FC",392,53,0,0.14
-Christian Eriksen *,"Manchester United,Tottenham Hotspur,Brentford FC",255,53,0,0.21
-Steven Fletcher *,"Sunderland AFC,Wolverhampton Wanderers,Burnley FC",190,53,1,0.28
-Javier Hernández *,"Manchester United,West Ham United",158,53,1,0.34
-Joshua King *,"Manchester United,Everton FC,Watford FC,AFC Bournemouth",204,53,13,0.26
+Christian Eriksen ,"Manchester United,Tottenham Hotspur,Brentford FC",255,53,0,0.21
+Steven Fletcher ,"Sunderland AFC,Wolverhampton Wanderers,Burnley FC",190,53,1,0.28
+Javier Hernández ,"Manchester United,West Ham United",158,53,1,0.34
+Joshua King ,"Manchester United,Everton FC,Watford FC,AFC Bournemouth",204,53,13,0.26
 Gareth Barry,"Aston Villa,Everton FC,West Bromwich Albion,Manchester City",653,52,18,0.08
- Diego Costa *,"Chelsea FC,Wolverhampton Wanderers",98,52,1,0.53
+ Diego Costa ,"Chelsea FC,Wolverhampton Wanderers",98,52,1,0.53
 Efan Ekoku,"Norwich City,Wimbledon FC",160,52,0,0.33
 Danny Murphy,"Liverpool FC,Charlton Athletic,Tottenham Hotspur,Fulham FC",414,52,18,0.13
 Trevor Sinclair,"West Ham United,Queens Park Rangers,Manchester City",361,52,1,0.14
-Darius Vassell,"Aston Villa,Manchester City",265,52,2,0.20
-Dele Alli *,"Tottenham Hotspur,Everton FC",194,51,3,0.26
+Darius Vassell,"Aston Villa,Manchester City",265,52,2,0.2
+Dele Alli ,"Tottenham Hotspur,Everton FC",194,51,3,0.26
 Carlton Cole,"Chelsea FC,Charlton Athletic,West Ham United,Aston Villa",290,51,1,0.18
 Andy Johnson,"Fulham FC,Everton FC,Queens Park Rangers,Crystal Palace",187,51,12,0.27
 Dirk Kuyt,Liverpool FC,208,51,8,0.25
- Mata *,"Manchester United,Chelsea FC",278,51,3,0.18
+ Mata ,"Manchester United,Chelsea FC",278,51,3,0.18
 Mark Bright,"Charlton Athletic,Sheffield Wednesday,Crystal Palace",142,50,1,0.35
- Cesc Fàbregas *,"Chelsea FC,Arsenal FC",350,50,5,0.14
-Edin Džeko *,Manchester City,130,50,0,0.38
+ Cesc Fàbregas ,"Chelsea FC,Arsenal FC",350,50,5,0.14
+Edin Džeko ,Manchester City,130,50,0,0.38
 Paulo Wanchope,"Derby County,West Ham United,Manchester City",156,50,0,0.32
 Gary McAllister,"Leeds United,Liverpool FC,Coventry City",325,49,18,0.15
 Nolberto Solano,"Newcastle United,West Ham United,Aston Villa",302,49,6,0.16
-Freddie Ljungberg,"West Ham United,Arsenal FC",241,48,0,0.20
- Richarlison *,"Tottenham Hotspur,Everton FC,Watford FC",185,48,4,0.26
+Freddie Ljungberg,"West Ham United,Arsenal FC",241,48,0,0.2
+ Richarlison ,"Tottenham Hotspur,Everton FC,Watford FC",185,48,4,0.26
 Ian Rush,"Leeds United,Newcastle United,Liverpool FC",175,48,0,0.27
-Ashley Young *,"Manchester United,Aston Villa,Watford FC",408,48,5,0.12
+Ashley Young ,"Manchester United,Aston Villa,Watford FC",408,48,5,0.12
 Joe Cole,"Chelsea FC,Liverpool FC,West Ham United,Aston Villa",377,47,0,0.12
-Troy Deeney *,Watford FC,165,47,18,0.28
+Troy Deeney ,Watford FC,165,47,18,0.28
 Mark Noble,West Ham United,414,47,28,0.11
 Bobby Zamora,"Tottenham Hotspur,West Ham United,Fulham FC,Queens Park Rangers",252,47,2,0.19
-Dominic Calvert-Lewin *,Everton FC,173,46,2,0.27
- Coutinho *,"Liverpool FC,Aston Villa",187,46,0,0.25
- Ayoze Pérez *,"Newcastle United,Leicester City",223,45,1,0.20
+Dominic Calvert-Lewin ,Everton FC,173,46,2,0.27
+ Coutinho ,"Liverpool FC,Aston Villa",187,46,0,0.25
+ Ayoze Pérez ,"Newcastle United,Leicester City",223,45,1,0.2
 Robbie Earle,Wimbledon FC,243,45,0,0.19
 Paul Merson,"Middlesbrough FC,Arsenal FC,Aston Villa",280,45,0,0.16
 Alan Smith,"Leeds United,Manchester United,Newcastle United",284,45,1,0.16
 Graham Stuart,"Chelsea FC,Charlton Athletic,Everton FC,Norwich City",292,45,5,0.15
-James Ward-Prowse *,Southampton FC,324,45,11,0.14
+James Ward-Prowse ,Southampton FC,324,45,11,0.14
 Juan Pablo Ángel,Aston Villa,175,44,5,0.25
 Frédéric Kanouté,"Tottenham Hotspur,West Ham United",144,44,0,0.31
-Jay Rodriguez *,"Southampton FC,West Bromwich Albion,Burnley FC",237,44,2,0.19
+Jay Rodriguez ,"Southampton FC,West Bromwich Albion,Burnley FC",237,44,2,0.19
 Dean Saunders,"Liverpool FC,Aston Villa,Nottingham Forest,Bradford City",196,44,5,0.22
 Shola Ameobi,"Newcastle United,Crystal Palace",291,43,5,0.15
-Marko Arnautović *,"West Ham United,Stoke City",184,43,5,0.23
+Marko Arnautović ,"West Ham United,Stoke City",184,43,5,0.23
 Demba Ba,"Chelsea FC,Newcastle United,West Ham United",99,43,3,0.43
 Andrey Kanchelskis,"Manchester United,Southampton FC,Everton FC,Manchester City",151,43,0,0.28
 Leon Osman,Everton FC,352,43,0,0.12
 Rodney Wallace,"Leeds United,Bolton Wanderers",194,43,0,0.22
 Jon Walters,"Bolton Wanderers,Stoke City,Burnley FC",233,43,11,0.18
 Noel Whelan,"Leeds United,Middlesbrough FC,Coventry City",242,43,0,0.18
-Ashley Barnes *,Burnley FC,200,42,7,0.21
+Ashley Barnes ,Burnley FC,200,42,7,0.21
 David Hirst,"Southampton FC,Sheffield Wednesday",135,42,5,0.31
 Paul Ince,"Manchester United,Middlesbrough FC,Liverpool FC,Wolverhampton Wanderers",306,42,0,0.14
 Julian Joachim,"Leicester City,Aston Villa",156,42,0,0.27
@@ -164,14 +164,14 @@ Marians Pahars,Southampton FC,128,42,2,0.33
 Steve McManaman,"Liverpool FC,Manchester City",274,41,0,0.15
 John Terry,Chelsea FC,492,41,0,0.08
 Marcus Bent,"Leicester City,Charlton Athletic,Ipswich Town,Blackburn Rovers,Everton FC,Wolverhampton Wanderers,Crystal Palace,Wigan Athletic",215,40,0,0.19
- Bruno Fernandes *,Manchester United,105,40,13,0.38
- Diogo Jota *,"Liverpool FC,Wolverhampton Wanderers",125,40,0,0.32
+ Bruno Fernandes ,Manchester United,105,40,13,0.38
+ Diogo Jota ,"Liverpool FC,Wolverhampton Wanderers",125,40,0,0.32
 Steffen Iversen,"Tottenham Hotspur,Wolverhampton Wanderers",159,40,0,0.25
-Raúl Jiménez *,Wolverhampton Wanderers,125,40,7,0.32
+Raúl Jiménez ,Wolverhampton Wanderers,125,40,7,0.32
 Kenwyne Jones,"Southampton FC,Sunderland AFC,Stoke City,Cardiff City",195,40,1,0.21
-James Maddison *,Leicester City,146,40,1,0.27
-Aaron Ramsey *,Arsenal FC,262,40,0,0.15
- Willian *,"Chelsea FC,Arsenal FC,Fulham FC",272,40,5,0.15
+James Maddison ,Leicester City,146,40,1,0.27
+Aaron Ramsey ,Arsenal FC,262,40,0,0.15
+ Willian ,"Chelsea FC,Arsenal FC,Fulham FC",272,40,5,0.15
 Darren Anderton,"Tottenham Hotspur,Birmingham City",318,39,5,0.12
 Roy Keane,"Manchester United,Nottingham Forest",366,39,0,0.11
 Steed Malbranque,"Sunderland AFC,Tottenham Hotspur,Fulham FC",336,39,6,0.12
@@ -179,24 +179,24 @@ Matthew Taylor,"West Ham United,Bolton Wanderers,Portsmouth FC,Burnley FC",325,3
 Patrik Berger,"Liverpool FC,Aston Villa,Portsmouth FC",229,38,2,0.17
 John Carew,"Aston Villa,Stoke City",123,38,2,0.31
 Tore André Flo,"Chelsea FC,Sunderland AFC",141,38,0,0.27
-İlkay Gündoğan *,Manchester City,173,38,3,0.22
+İlkay Gündoğan ,Manchester City,173,38,3,0.22
 Darren Huckerby,"Leeds United,Newcastle United,Norwich City,Manchester City,Coventry City",200,38,3,0.19
-Kelechi Iheanacho *,"Leicester City,Manchester City",182,38,0,0.21
+Kelechi Iheanacho ,"Leicester City,Manchester City",182,38,0,0.21
 Dean Sturridge,"Derby County,Leicester City,Wolverhampton Wanderers",153,38,0,0.25
-David Unsworth,"West Ham United,Everton FC,Portsmouth FC,Sheffield United,Wigan Athletic",364,38,20,0.10
-Papiss Demba Cissé *,Newcastle United,117,37,1,0.32
+David Unsworth,"West Ham United,Everton FC,Portsmouth FC,Sheffield United,Wigan Athletic",364,38,20,0.1
+Papiss Demba Cissé ,Newcastle United,117,37,1,0.32
 Stewart Downing,"Middlesbrough FC,Liverpool FC,West Ham United,Aston Villa",408,37,2,0.09
 Kevin Doyle,"Wolverhampton Wanderers,Crystal Palace,Reading FC",164,37,6,0.23
 David Dunn,"Blackburn Rovers,Birmingham City",251,37,9,0.15
-Marouane Fellaini *,"Manchester United,Everton FC",260,37,0,0.14
+Marouane Fellaini ,"Manchester United,Everton FC",260,37,0,0.14
 Don Hutchison,"Sunderland AFC,Liverpool FC,West Ham United,Everton FC",219,37,1,0.17
-Salomon Kalou *,Chelsea FC,156,37,0,0.24
+Salomon Kalou ,Chelsea FC,156,37,0,0.24
 Benni McCarthy,"West Ham United,Blackburn Rovers",120,37,13,0.31
 Glenn Murray,"Crystal Palace,AFC Bournemouth,Brighton & Hove Albion",148,37,10,0.25
 Peter Odemwingie,"West Bromwich Albion,Stoke City,Cardiff City",129,37,3,0.29
 Tim Sherwood,"Tottenham Hotspur,Blackburn Rovers,Portsmouth FC",341,37,0,0.11
 Wilfried Bony,"Manchester City,Stoke City,Swansea City",115,36,5,0.31
-Benito Carbone,"Derby County,Middlesbrough FC,Aston Villa,Sheffield Wednesday,Bradford City",177,36,6,0.20
+Benito Carbone,"Derby County,Middlesbrough FC,Aston Villa,Sheffield Wednesday,Bradford City",177,36,6,0.2
 Paul Dickov,"Leicester City,Arsenal FC,Blackburn Rovers,Manchester City",155,36,5,0.23
 Ruel Fox,"Newcastle United,Tottenham Hotspur,Norwich City",223,36,2,0.16
 Aaron Lennon,"Leeds United,Tottenham Hotspur,Everton FC,Burnley FC",415,36,0,0.09
@@ -206,11 +206,11 @@ Jason Roberts,"Blackburn Rovers,West Bromwich Albion,Portsmouth FC,Wigan Athleti
 Salomón Rondón,"Newcastle United,Everton FC,West Bromwich Albion",167,36,0,0.22
 John Spencer,"Chelsea FC,Everton FC",111,36,3,0.32
 Florent Malouda,Chelsea FC,149,35,0,0.23
-Aleksandar Mitrović *,"Newcastle United,Fulham FC",120,35,7,0.29
+Aleksandar Mitrović ,"Newcastle United,Fulham FC",120,35,7,0.29
 Peter Ndlovu,Coventry City,153,35,5,0.23
 Tomasz Radzinski,"Fulham FC,Everton FC",194,35,0,0.18
 Charlie Adam,"Liverpool FC,Stoke City,Blackpool FC",207,34,11,0.16
-Charlie Austin *,"Southampton FC,Queens Park Rangers,West Bromwich Albion",111,34,6,0.31
+Charlie Austin ,"Southampton FC,Queens Park Rangers,West Bromwich Albion",111,34,6,0.31
 Mikael Forssell,"Chelsea FC,Birmingham City",126,34,3,0.27
 Marcus Gayle,Wimbledon FC,204,34,0,0.17
 Muzzy Izzet,"Leicester City,Birmingham City",248,34,7,0.14
@@ -219,182 +219,182 @@ Morten Pedersen,Blackburn Rovers,260,34,0,0.13
 Jamie Redknapp,"Southampton FC,Liverpool FC,Tottenham Hotspur",295,34,3,0.12
 Dennis Wise,"Chelsea FC,Leicester City",278,34,6,0.12
 Iain Dowie,"Southampton FC,West Ham United,Crystal Palace",175,33,0,0.19
-Jordan Henderson *,"Sunderland AFC,Liverpool FC",411,33,1,0.08
-Adam Lallana *,"Southampton FC,Liverpool FC,Brighton & Hove Albion",265,33,0,0.12
+Jordan Henderson ,"Sunderland AFC,Liverpool FC",411,33,1,0.08
+Adam Lallana ,"Southampton FC,Liverpool FC,Brighton & Hove Albion",265,33,0,0.12
 Ian Marshall,"Leicester City,Bolton Wanderers,Ipswich Town,Oldham Athletic",158,33,0,0.21
-Mesut Özil *,Arsenal FC,184,33,0,0.18
+Mesut Özil ,Arsenal FC,184,33,0,0.18
 Ashley Ward,"Derby County,Blackburn Rovers,Norwich City,Bradford City,Barnsley FC",137,33,0,0.24
 Leighton Baines,"Everton FC,Wigan Athletic",420,32,20,0.08
 Nicklas Bendtner,"Sunderland AFC,Arsenal FC",136,32,2,0.24
 Djibril Cissé,"Sunderland AFC,Liverpool FC,Queens Park Rangers",110,32,4,0.29
 Jermaine Jenas,"Newcastle United,Tottenham Hotspur,Aston Villa,Queens Park Rangers",280,32,0,0.11
-Cameron Jerome *,"Norwich City,Crystal Palace,Birmingham City,Stoke City",211,32,0,0.15
+Cameron Jerome ,"Norwich City,Crystal Palace,Birmingham City,Stoke City",211,32,0,0.15
 Adam Johnson,"Sunderland AFC,Middlesbrough FC,Manchester City",264,32,3,0.12
-James Morrison,"Middlesbrough FC,West Bromwich Albion",311,32,2,0.10
-Patrick Vieira,"Arsenal FC,Manchester City",307,32,0,0.10
-Shaun Wright-Phillips,"Chelsea FC,Queens Park Rangers,Manchester City",316,32,0,0.10
+James Morrison,"Middlesbrough FC,West Bromwich Albion",311,32,2,0.1
+Patrick Vieira,"Arsenal FC,Manchester City",307,32,0,0.1
+Shaun Wright-Phillips,"Chelsea FC,Queens Park Rangers,Manchester City",316,32,0,0.1
 Yossi Benayoun,"Chelsea FC,Liverpool FC,West Ham United,Arsenal FC",194,31,0,0.16
- Bernardo Silva *,Manchester City,184,31,0,0.17
+ Bernardo Silva ,Manchester City,184,31,0,0.17
 Henri Camara,"Southampton FC,West Ham United,Wolverhampton Wanderers,Stoke City,Wigan Athletic",126,31,1,0.25
-Phil Foden *,Manchester City,115,31,0,0.27
+Phil Foden ,Manchester City,115,31,0,0.27
 Craig Gardner,"Sunderland AFC,Aston Villa,West Bromwich Albion,Birmingham City",260,31,6,0.12
 Rickie Lambert,"Southampton FC,Liverpool FC,West Bromwich Albion",120,31,7,0.26
 Hámilton Ricard,Middlesbrough FC,106,31,5,0.29
 Jason Wilcox,"Leeds United,Blackburn Rovers",273,31,0,0.11
-Sylvain Wiltord,Arsenal FC,105,31,0,0.30
-Jordan Ayew *,"Aston Villa,Crystal Palace,Swansea City",220,30,2,0.14
+Sylvain Wiltord,Arsenal FC,105,31,0,0.3
+Jordan Ayew ,"Aston Villa,Crystal Palace,Swansea City",220,30,2,0.14
 Nikica Jelavić,"West Ham United,Everton FC,Hull City",114,30,1,0.26
 Øyvind Leonhardsen,"Liverpool FC,Tottenham Hotspur,Aston Villa,Wimbledon FC",186,30,0,0.16
-Kevin Mirallas *,Everton FC,151,30,0,0.20
+Kevin Mirallas ,Everton FC,151,30,0,0.2
 Egil Østenstad,"Southampton FC,Blackburn Rovers,Manchester City",121,30,0,0.25
- Pedro *,Chelsea FC,137,30,0,0.22
-Ross Barkley *,"Chelsea FC,Aston Villa,Everton FC",232,29,2,0.13
- Boa Morte,"Southampton FC,West Ham United,Arsenal FC,Fulham FC",295,29,0,0.10
+ Pedro ,Chelsea FC,137,30,0,0.22
+Ross Barkley ,"Chelsea FC,Aston Villa,Everton FC",232,29,2,0.13
+ Boa Morte,"Southampton FC,West Ham United,Arsenal FC,Fulham FC",295,29,0,0.1
 Nicky Butt,"Manchester United,Newcastle United,Birmingham City",411,29,0,0.07
 Malcolm Christie,"Derby County,Middlesbrough FC",135,29,0,0.21
  Juninho Paulista,Middlesbrough FC,125,29,0,0.23
 Jürgen Klinsmann,Tottenham Hotspur,56,29,1,0.52
-Jesse Lingard *,"Manchester United,West Ham United,Nottingham Forest",179,29,2,0.16
+Jesse Lingard ,"Manchester United,West Ham United,Nottingham Forest",179,29,2,0.16
 Savo Milošević,Aston Villa,90,29,1,0.32
-Paul Pogba *,Manchester United,157,29,7,0.18
+Paul Pogba ,Manchester United,157,29,7,0.18
 Paul Rideout,Everton FC,111,29,0,0.26
 Hugo Rodallega,"Fulham FC,Wigan Athletic",154,29,1,0.19
 Uwe Rösler,"Southampton FC,Manchester City",103,29,1,0.28
 Ian Taylor,"Aston Villa,Sheffield Wednesday",248,29,0,0.12
-Harvey Barnes *,Leicester City,129,28,0,0.22
+Harvey Barnes ,Leicester City,129,28,0,0.22
 John Barnes,"Newcastle United,Liverpool FC,Charlton Athletic",200,28,2,0.14
 Milan Baroš,"Liverpool FC,Aston Villa,Portsmouth FC",122,28,4,0.23
 Gary Cahill,"Chelsea FC,Bolton Wanderers,Aston Villa,Crystal Palace",394,28,0,0.07
 Carl Cort,"Newcastle United,Wolverhampton Wanderers,Wimbledon FC",111,28,0,0.25
 El-Hadji Diouf,"Sunderland AFC,Liverpool FC,Bolton Wanderers,Blackburn Rovers",242,28,2,0.12
-Mame Diouf *,"Manchester United,Blackburn Rovers,Stoke City",153,28,0,0.18
-Marlon Harewood,"West Ham United,Aston Villa,Nottingham Forest,Blackpool FC",137,28,2,0.20
+Mame Diouf ,"Manchester United,Blackburn Rovers,Stoke City",153,28,0,0.18
+Marlon Harewood,"West Ham United,Aston Villa,Nottingham Forest,Blackpool FC",137,28,2,0.2
 Ian Harte,"Leeds United,Sunderland AFC,Reading FC",237,28,10,0.12
 Paul Kitson,"Newcastle United,West Ham United",99,28,0,0.28
-Obafemi Martins,"Newcastle United,Birmingham City",92,28,2,0.30
-Luka Milivojević *,Crystal Palace,176,28,22,0.16
-Charles N'Zogbia,"Newcastle United,Aston Villa,Wigan Athletic",281,28,0,0.10
-Nathan Redmond *,"Southampton FC,Norwich City,Birmingham City",264,28,0,0.11
+Obafemi Martins,"Newcastle United,Birmingham City",92,28,2,0.3
+Luka Milivojević ,Crystal Palace,176,28,22,0.16
+Charles N'Zogbia,"Newcastle United,Aston Villa,Wigan Athletic",281,28,0,0.1
+Nathan Redmond ,"Southampton FC,Norwich City,Birmingham City",264,28,0,0.11
 Loïc Rémy,"Chelsea FC,Newcastle United,Queens Park Rangers,Crystal Palace",79,28,1,0.35
-Ollie Watkins *,Aston Villa,90,28,2,0.31
+Ollie Watkins ,Aston Villa,90,28,2,0.31
 Victor Anichebe,"Sunderland AFC,Everton FC,West Bromwich Albion",203,27,0,0.13
 Simon Davies,"Tottenham Hotspur,Fulham FC,Everton FC",300,27,0,0.09
 Heiðar Helguson,"Bolton Wanderers,Fulham FC,Queens Park Rangers,Watford FC",96,27,6,0.28
 Lee Hendrie,Aston Villa,251,27,1,0.11
 Jonatan Johansson,Charlton Athletic,147,27,0,0.18
-Neal Maupay *,"Everton FC,Brighton & Hove Albion",115,27,5,0.23
-Mason Mount *,Chelsea FC,123,27,2,0.22
+Neal Maupay ,"Everton FC,Brighton & Hove Albion",115,27,5,0.23
+Mason Mount ,Chelsea FC,123,27,2,0.22
 Neil Shipperley,"Chelsea FC,Southampton FC,Nottingham Forest,Crystal Palace",149,27,0,0.18
-Guy Whittingham,"Aston Villa,Sheffield Wednesday",137,27,0,0.20
-Georginio Wijnaldum *,"Newcastle United,Liverpool FC",217,27,1,0.12
-Tammy Abraham *,"Chelsea FC,Swansea City",89,26,0,0.29
-Joey Barton,"Newcastle United,Queens Park Rangers,Manchester City,Burnley FC",269,26,6,0.10
+Guy Whittingham,"Aston Villa,Sheffield Wednesday",137,27,0,0.2
+Georginio Wijnaldum ,"Newcastle United,Liverpool FC",217,27,1,0.12
+Tammy Abraham ,"Chelsea FC,Swansea City",89,26,0,0.29
+Joey Barton,"Newcastle United,Queens Park Rangers,Manchester City,Burnley FC",269,26,6,0.1
  Benjani,"Sunderland AFC,Blackburn Rovers,Manchester City,Portsmouth FC",119,26,0,0.22
 Yohan Cabaye,"Newcastle United,Crystal Palace",175,26,4,0.15
-Dwight Gayle *,"Newcastle United,Crystal Palace",145,26,2,0.18
-Manuel Lanzini *,West Ham United,174,26,5,0.15
+Dwight Gayle ,"Newcastle United,Crystal Palace",145,26,2,0.18
+Manuel Lanzini ,West Ham United,174,26,5,0.15
 Sebastian Larsson,"Sunderland AFC,Arsenal FC,Birmingham City",282,26,1,0.09
- Marcos Alonso *,"Chelsea FC,Sunderland AFC,Bolton Wanderers",179,26,0,0.15
+ Marcos Alonso ,"Chelsea FC,Sunderland AFC,Bolton Wanderers",179,26,0,0.15
 Mark Robins,"Leicester City,Norwich City",92,26,0,0.28
-Roque Santa Cruz,"Blackburn Rovers,Manchester City",86,26,0,0.30
-Robert Snodgrass *,"West Ham United,Norwich City,West Bromwich Albion,Hull City",171,26,2,0.15
+Roque Santa Cruz,"Blackburn Rovers,Manchester City",86,26,0,0.3
+Robert Snodgrass ,"West Ham United,Norwich City,West Bromwich Albion,Hull City",171,26,2,0.15
 Marcus Stewart,"Sunderland AFC,Ipswich Town",81,26,3,0.32
 Steve Watson,"Newcastle United,Aston Villa,Everton FC,West Bromwich Albion",351,26,0,0.07
 David White,"Leeds United,Manchester City",100,26,0,0.26
 Andy Booth,"Tottenham Hotspur,Sheffield Wednesday",119,25,0,0.21
 Chris Brunt,West Bromwich Albion,269,25,3,0.09
-Jan Åge Fjørtoft,"Middlesbrough FC,Swindon Town,Barnsley FC",84,25,2,0.30
+Jan Åge Fjørtoft,"Middlesbrough FC,Swindon Town,Barnsley FC",84,25,2,0.3
 William Gallas,"Chelsea FC,Tottenham Hotspur,Arsenal FC",321,25,0,0.08
 Francis Jeffers,"Charlton Athletic,Arsenal FC,Blackburn Rovers,Everton FC",118,25,0,0.21
 Joleon Lescott,"Sunderland AFC,Aston Villa,Everton FC,West Bromwich Albion,Manchester City",288,25,0,0.09
- Nani *,Manchester United,147,25,0,0.17
+ Nani ,Manchester United,147,25,0,0.17
 Marc Overmars,Arsenal FC,100,25,2,0.25
 Micky Quinn,Coventry City,64,25,2,0.39
 Fabrizio Ravanelli,"Derby County,Middlesbrough FC",64,25,4,0.39
-Leroy Sané *,Manchester City,90,25,0,0.28
- Santi Cazorla *,Arsenal FC,129,25,8,0.19
+Leroy Sané ,Manchester City,90,25,0,0.28
+ Santi Cazorla ,Arsenal FC,129,25,8,0.19
 Stéphane Sessègnon,"Sunderland AFC,West Bromwich Albion",166,25,1,0.15
-Junior Stanislas *,"West Ham United,AFC Bournemouth",144,25,5,0.17
-Steve Stone,"Aston Villa,Nottingham Forest,Portsmouth FC",263,25,0,0.10
-Ivan Toney *,"Newcastle United,Brentford FC",52,25,9,0.48
-Andros Townsend *,"Newcastle United,Tottenham Hotspur,Everton FC,Queens Park Rangers,Crystal Palace",264,25,2,0.09
-Leandro Trossard *,Brighton & Hove Albion,116,25,1,0.22
-Ché Adams *,Southampton FC,114,24,0,0.21
-Shaun Bartlett,Charlton Athletic,123,24,0,0.20
+Junior Stanislas ,"West Ham United,AFC Bournemouth",144,25,5,0.17
+Steve Stone,"Aston Villa,Nottingham Forest,Portsmouth FC",263,25,0,0.1
+Ivan Toney ,"Newcastle United,Brentford FC",52,25,9,0.48
+Andros Townsend ,"Newcastle United,Tottenham Hotspur,Everton FC,Queens Park Rangers,Crystal Palace",264,25,2,0.09
+Leandro Trossard ,Brighton & Hove Albion,116,25,1,0.22
+Ché Adams ,Southampton FC,114,24,0,0.21
+Shaun Bartlett,Charlton Athletic,123,24,0,0.2
 Julian Dicks,"Liverpool FC,West Ham United",134,24,15,0.18
 Gary Flitcroft,"Blackburn Rovers,Manchester City",301,24,0,0.08
-Grant Holt,"Aston Villa,Norwich City",80,24,3,0.30
+Grant Holt,"Aston Villa,Norwich City",80,24,3,0.3
 Lomana LuaLua,"Newcastle United,Portsmouth FC",146,24,1,0.16
 Scott Parker,"Chelsea FC,Newcastle United,Charlton Athletic,Tottenham Hotspur,West Ham United,Fulham FC",368,24,0,0.07
 Kieran Richardson,"Manchester United,Sunderland AFC,Fulham FC,Aston Villa,West Bromwich Albion",264,24,0,0.09
- Rodrigo *,"Leeds United,Bolton Wanderers",91,24,2,0.26
+ Rodrigo ,"Leeds United,Bolton Wanderers",91,24,2,0.26
 Bryan Roy,Nottingham Forest,84,24,1,0.29
 Antonio Valencia,"Manchester United,Wigan Athletic",325,24,0,0.07
 Rafael van der Vaart,Tottenham Hotspur,63,24,5,0.38
 Tony Yeboah,Leeds United,47,24,0,0.51
 Andrey Arshavin,Arsenal FC,105,23,1,0.22
-Saido Berahino *,"West Bromwich Albion,Stoke City",133,23,5,0.17
+Saido Berahino ,"West Bromwich Albion,Stoke City",133,23,5,0.17
 Nathan Blake,"Bolton Wanderers,Blackburn Rovers,Wolverhampton Wanderers,Sheffield United",92,23,0,0.25
-Jarrod Bowen *,"West Ham United,Hull City",113,23,1,0.20
+Jarrod Bowen ,"West Ham United,Hull City",113,23,1,0.2
 Michael Carrick,"Manchester United,Tottenham Hotspur,West Ham United",480,23,0,0.05
 Rory Delap,"Derby County,Southampton FC,Sunderland AFC,Stoke City",359,23,0,0.06
-Kieron Dyer,"Newcastle United,West Ham United,Queens Park Rangers",225,23,1,0.10
+Kieron Dyer,"Newcastle United,West Ham United,Queens Park Rangers",225,23,1,0.1
 Darren Fletcher,"Manchester United,West Bromwich Albion,Stoke City",341,23,0,0.07
-Andre Gray *,"Watford FC,Burnley FC",115,23,2,0.20
-Pascal Groß *,Brighton & Hove Albion,173,23,5,0.13
-James McArthur *,"Crystal Palace,Wigan Athletic",319,23,0,0.07
-Szilárd Németh,Middlesbrough FC,116,23,0,0.20
-Mike Newell,"West Ham United,Blackburn Rovers",117,23,0,0.20
+Andre Gray ,"Watford FC,Burnley FC",115,23,2,0.2
+Pascal Groß ,Brighton & Hove Albion,173,23,5,0.13
+James McArthur ,"Crystal Palace,Wigan Athletic",319,23,0,0.07
+Szilárd Németh,Middlesbrough FC,116,23,0,0.2
+Mike Newell,"West Ham United,Blackburn Rovers",117,23,0,0.2
 Graziano Pellè,Southampton FC,68,23,0,0.34
 Dan Petrescu,"Chelsea FC,Southampton FC,Sheffield Wednesday,Bradford City",215,23,0,0.11
-Jason Puncheon *,"Southampton FC,Queens Park Rangers,Crystal Palace,Blackpool FC,Huddersfield Town",204,23,1,0.11
+Jason Puncheon ,"Southampton FC,Queens Park Rangers,Crystal Palace,Blackpool FC,Huddersfield Town",204,23,1,0.11
 Laurent Robert,"Derby County,Newcastle United,Portsmouth FC",150,23,0,0.15
-Bukayo Saka *,Arsenal FC,115,23,3,0.20
+Bukayo Saka ,Arsenal FC,115,23,3,0.2
 Gordon Watson,"Southampton FC,Sheffield Wednesday",109,23,0,0.21
 Dean Ashton,"West Ham United,Norwich City",62,22,1,0.35
-Dalian Atkinson,Aston Villa,73,22,0,0.30
-Chris Bart-Williams,"Charlton Athletic,Nottingham Forest,Sheffield Wednesday",211,22,1,0.10
+Dalian Atkinson,Aston Villa,73,22,0,0.3
+Chris Bart-Williams,"Charlton Athletic,Nottingham Forest,Sheffield Wednesday",211,22,1,0.1
 Alen Bokšić,Middlesbrough FC,68,22,4,0.32
 Michael Bridges,"Leeds United,Newcastle United,Sunderland AFC",87,22,0,0.25
 Deon Burton,"Derby County,Portsmouth FC",119,22,1,0.18
 Lee Chapman,"Leeds United,West Ham United,Ipswich Town",98,22,0,0.22
 Matt Elliott,Leicester City,199,22,2,0.11
 David Ginola,"Newcastle United,Tottenham Hotspur,Aston Villa,Everton FC",195,22,0,0.11
-Mason Greenwood *,Manchester United,83,22,0,0.27
-Erling Haaland *,Manchester City,18,22,3,1.22
+Mason Greenwood ,Manchester United,83,22,0,0.27
+Erling Haaland ,Manchester City,18,22,3,1.22
 Sami Hyypiä,Liverpool FC,318,22,0,0.07
 Laurent Koscielny,Arsenal FC,255,22,0,0.09
  Mido,"Middlesbrough FC,Tottenham Hotspur,West Ham United,Wigan Athletic",94,22,2,0.23
-Divock Origi *,Liverpool FC,107,22,0,0.21
+Divock Origi ,Liverpool FC,107,22,0,0.21
 Henrik Pedersen,Bolton Wanderers,143,22,0,0.15
-Teemu Pukki *,Norwich City,73,22,5,0.30
+Teemu Pukki ,Norwich City,73,22,5,0.3
 John Arne Riise,"Liverpool FC,Fulham FC",321,22,0,0.07
-Xherdan Shaqiri *,"Liverpool FC,Stoke City",129,22,0,0.17
+Xherdan Shaqiri ,"Liverpool FC,Stoke City",129,22,0,0.17
 Lee Sharpe,"Leeds United,Manchester United,Bradford City",173,22,0,0.13
-Jonjo Shelvey *,"Newcastle United,Liverpool FC,Swansea City",270,22,2,0.08
-Patrick van Aanholt *,"Chelsea FC,Sunderland AFC,Crystal Palace,Wigan Athletic",213,22,1,0.10
-André Ayew *,"West Ham United,Swansea City",89,21,0,0.24
-Mario Balotelli *,"Liverpool FC,Manchester City",70,21,5,0.30
-Patrick Bamford *,"Leeds United,Middlesbrough FC,Norwich City,Crystal Palace,Burnley FC",85,21,2,0.25
-Nacer Chadli *,"Tottenham Hotspur,West Bromwich Albion",124,21,1,0.17
-Séamus Coleman *,Everton FC,340,21,0,0.06
-Abdoulaye Doucouré *,"Everton FC,Watford FC",198,21,0,0.11
+Jonjo Shelvey ,"Newcastle United,Liverpool FC,Swansea City",270,22,2,0.08
+Patrick van Aanholt ,"Chelsea FC,Sunderland AFC,Crystal Palace,Wigan Athletic",213,22,1,0.1
+André Ayew ,"West Ham United,Swansea City",89,21,0,0.24
+Mario Balotelli ,"Liverpool FC,Manchester City",70,21,5,0.3
+Patrick Bamford ,"Leeds United,Middlesbrough FC,Norwich City,Crystal Palace,Burnley FC",85,21,2,0.25
+Nacer Chadli ,"Tottenham Hotspur,West Bromwich Albion",124,21,1,0.17
+Séamus Coleman ,Everton FC,340,21,0,0.06
+Abdoulaye Doucouré ,"Everton FC,Watford FC",198,21,0,0.11
 Matthew Etherington,"Tottenham Hotspur,West Ham United,Stoke City",288,21,3,0.07
 Stephen Hunt,"Wolverhampton Wanderers,Hull City,Reading FC",143,21,6,0.15
 Robert Huth,"Chelsea FC,Middlesbrough FC,Leicester City,Stoke City",322,21,0,0.07
 Branislav Ivanović,"Chelsea FC,West Bromwich Albion",274,21,0,0.08
- Jorginho *,Chelsea FC,142,21,19,0.15
-Chris Kiwomya,"Arsenal FC,Ipswich Town",104,21,0,0.20
- Oscar *,Chelsea FC,131,21,2,0.16
+ Jorginho ,Chelsea FC,142,21,19,0.15
+Chris Kiwomya,"Arsenal FC,Ipswich Town",104,21,0,0.2
+ Oscar ,Chelsea FC,131,21,2,0.16
 Ray Parlour,"Middlesbrough FC,Arsenal FC",379,21,0,0.06
 Roman Pavlyuchenko,Tottenham Hotspur,78,21,0,0.27
-Steven Pienaar,"Sunderland AFC,Tottenham Hotspur,Everton FC",214,21,0,0.10
+Steven Pienaar,"Sunderland AFC,Tottenham Hotspur,Everton FC",214,21,0,0.1
 Michael Ricketts,"Middlesbrough FC,Bolton Wanderers",92,21,5,0.23
-Paul Scharner,"West Bromwich Albion,Wigan Athletic",221,21,0,0.10
+Paul Scharner,"West Bromwich Albion,Wigan Athletic",221,21,0,0.1
 Steven Sidwell,"Chelsea FC,Fulham FC,Aston Villa,Stoke City,Brighton & Hove Albion,Reading FC",200,21,1,0.11
 Mark Stein,Chelsea FC,50,21,3,0.42
-Dušan Tadić *,Southampton FC,134,21,4,0.16
-Youri Tielemans *,Leicester City,139,21,5,0.15
+Dušan Tadić ,Southampton FC,134,21,4,0.16
+Youri Tielemans ,Leicester City,139,21,5,0.15
 Gianluca Vialli,Chelsea FC,58,21,1,0.36
 Bradley Allen,Queens Park Rangers,59,20,0,0.34
 Sol Campbell,"Newcastle United,Tottenham Hotspur,Arsenal FC,Portsmouth FC",503,20,0,0.04
@@ -403,12 +403,12 @@ Hernán Crespo,Chelsea FC,49,20,0,0.41
 Youri Djorkaeff,"Bolton Wanderers,Blackburn Rovers",78,20,1,0.26
 Jason Dozzell,"Tottenham Hotspur,Ipswich Town",125,20,0,0.16
 John Fashanu,"Aston Villa,Wimbledon FC",78,20,1,0.26
- Fernandinho *,Manchester City,264,20,0,0.08
- Gerard Deulofeu *,"Everton FC,Watford FC",127,20,1,0.16
+ Fernandinho ,Manchester City,264,20,0,0.08
+ Gerard Deulofeu ,"Everton FC,Watford FC",127,20,1,0.16
 Stylianos Giannakopoulos,"Bolton Wanderers,Hull City",139,20,0,0.14
-Jack Grealish *,"Aston Villa,Manchester City",135,20,0,0.15
+Jack Grealish ,"Aston Villa,Manchester City",135,20,0,0.15
 Matt Jansen,"Bolton Wanderers,Blackburn Rovers,Crystal Palace",97,20,0,0.21
-Matthew Jarvis,"West Ham United,Norwich City,Wolverhampton Wanderers",205,20,0,0.10
+Matthew Jarvis,"West Ham United,Norwich City,Wolverhampton Wanderers",205,20,0,0.1
 Claus Jensen,"Charlton Athletic,Fulham FC",157,20,1,0.13
 Collins John,Fulham FC,95,20,1,0.21
 Ivan Klasnić,Bolton Wanderers,78,20,2,0.26
@@ -416,16 +416,16 @@ Niko Kranjčar,"Tottenham Hotspur,Queens Park Rangers,Portsmouth FC",154,20,0,0.
 James McFadden,"Sunderland AFC,Everton FC,Birmingham City",171,20,4,0.12
  Michu,Swansea City,52,20,0,0.38
 Luke Moore,"Aston Villa,West Bromwich Albion,Swansea City",138,20,0,0.14
-Victor Moses *,"Chelsea FC,Liverpool FC,West Ham United,Stoke City,Wigan Athletic",220,20,1,0.09
+Victor Moses ,"Chelsea FC,Liverpool FC,West Ham United,Stoke City,Wigan Athletic",220,20,1,0.09
 Steven Naismith,"Everton FC,Norwich City",116,20,0,0.17
-Alex Oxlade-Chamberlain *,"Liverpool FC,Arsenal FC",233,20,0,0.09
+Alex Oxlade-Chamberlain ,"Liverpool FC,Arsenal FC",233,20,0,0.09
 Ji-Sung Park,"Manchester United,Queens Park Rangers",154,20,0,0.13
-Stuart Pearce,"Newcastle United,West Ham United,Nottingham Forest",202,20,8,0.10
-Christian Pulišić *,Chelsea FC,90,20,0,0.22
+Stuart Pearce,"Newcastle United,West Ham United,Nottingham Forest",202,20,8,0.1
+Christian Pulišić ,Chelsea FC,90,20,0,0.22
 Tuncay Şanlı,"Middlesbrough FC,Bolton Wanderers,Stoke City",127,20,0,0.16
 Robbie Savage,"Derby County,Leicester City,Blackburn Rovers,Birmingham City",346,20,5,0.06
-Marc Albrighton *,"Leicester City,Aston Villa",309,19,0,0.06
-Craig Dawson *,"West Ham United,Watford FC,West Bromwich Albion",246,19,0,0.08
+Marc Albrighton ,"Leicester City,Aston Villa",309,19,0,0.06
+Craig Dawson ,"West Ham United,Watford FC,West Bromwich Albion",246,19,0,0.08
 Danny Dichio,"Sunderland AFC,Queens Park Rangers,West Bromwich Albion",91,19,0,0.21
 Ugo Ehiogu,"Middlesbrough FC,Aston Villa",355,19,0,0.05
 Johan Elmander,"Bolton Wanderers,Norwich City",121,19,0,0.16
@@ -433,58 +433,58 @@ Ricardo Fuller,"Portsmouth FC,Stoke City",141,19,2,0.13
 Mick Harford,"Chelsea FC,Coventry City,Wimbledon FC",89,19,0,0.21
 Craig Hignett,"Middlesbrough FC,Leicester City,Blackburn Rovers",101,19,3,0.19
 Stephen Ireland,"Newcastle United,Aston Villa,Manchester City,Stoke City",246,19,0,0.08
- Lucas Moura *,Tottenham Hotspur,145,19,0,0.13
+ Lucas Moura ,Tottenham Hotspur,145,19,0,0.13
 Garry Parker,"Leicester City,Aston Villa",144,19,6,0.13
-Lukas Podolski *,Arsenal FC,60,19,0,0.32
+Lukas Podolski ,Arsenal FC,60,19,0,0.32
 Tomáš Rosický,Arsenal FC,170,19,0,0.11
- Rúben Neves *,Wolverhampton Wanderers,160,19,7,0.12
-Tomáš Souček *,West Ham United,105,19,0,0.18
-Leonardo Ulloa,"Leicester City,Brighton & Hove Albion",96,19,3,0.20
-Virgil van Dijk *,"Southampton FC,Liverpool FC",213,19,0,0.09
+ Rúben Neves ,Wolverhampton Wanderers,160,19,7,0.12
+Tomáš Souček ,West Ham United,105,19,0,0.18
+Leonardo Ulloa,"Leicester City,Brighton & Hove Albion",96,19,3,0.2
+Virgil van Dijk ,"Southampton FC,Liverpool FC",213,19,0,0.09
 Connor Wickham,"Sunderland AFC,Crystal Palace",120,19,1,0.16
 Boudewijn Zenden,"Chelsea FC,Sunderland AFC,Middlesbrough FC,Liverpool FC",180,19,0,0.11
-Miguel Almirón *,Newcastle United,129,18,0,0.14
- Álvaro Negredo *,"Middlesbrough FC,Manchester City",68,18,2,0.26
+Miguel Almirón ,Newcastle United,129,18,0,0.14
+ Álvaro Negredo ,"Middlesbrough FC,Manchester City",68,18,2,0.26
 Peter Beagrie,"Everton FC,Manchester City,Bradford City",160,18,5,0.11
 Fraizer Campbell,"Manchester United,Sunderland AFC,Tottenham Hotspur,Crystal Palace,Cardiff City",150,18,0,0.12
-Momo Diamé *,"Newcastle United,West Ham United,Hull City,Wigan Athletic",239,18,0,0.08
-Nathan Dyer,"Leicester City,Swansea City",175,18,0,0.10
-Ryan Fraser *,"Newcastle United,AFC Bournemouth",173,18,0,0.10
- Gabriel Martinelli *,Arsenal FC,76,18,1,0.24
+Momo Diamé ,"Newcastle United,West Ham United,Hull City,Wigan Athletic",239,18,0,0.08
+Nathan Dyer,"Leicester City,Swansea City",175,18,0,0.1
+Ryan Fraser ,"Newcastle United,AFC Bournemouth",173,18,0,0.1
+ Gabriel Martinelli ,Arsenal FC,76,18,1,0.24
 Kevin Gallen,Queens Park Rangers,66,18,0,0.27
-Dan Gosling *,"Newcastle United,Everton FC,Watford FC,AFC Bournemouth",188,18,0,0.10
+Dan Gosling ,"Newcastle United,Everton FC,Watford FC,AFC Bournemouth",188,18,0,0.1
 Danny Graham,"Sunderland AFC,Middlesbrough FC,Hull City,Swansea City",124,18,1,0.15
-Demarai Gray *,"Leicester City,Everton FC",186,18,1,0.10
-Alf-Inge Håland,"Leeds United,Nottingham Forest,Manchester City",181,18,0,0.10
+Demarai Gray ,"Leicester City,Everton FC",186,18,1,0.1
+Alf-Inge Håland,"Leeds United,Nottingham Forest,Manchester City",181,18,0,0.1
 Denis Irwin,"Manchester United,Wolverhampton Wanderers",328,18,7,0.05
-Phil Jagielka *,"Everton FC,Sheffield United",376,18,2,0.05
+Phil Jagielka ,"Everton FC,Sheffield United",376,18,2,0.05
 Vincent Kompany,Manchester City,265,18,0,0.07
  Luis García,Liverpool FC,77,18,0,0.23
 Massimo Maccarone,Middlesbrough FC,81,18,4,0.22
 Brian McClair,Manchester United,161,18,0,0.11
-Diafra Sakho *,West Ham United,62,18,0,0.29
-Mike Sheron,"Norwich City,Manchester City",92,18,1,0.20
+Diafra Sakho ,West Ham United,62,18,0,0.29
+Mike Sheron,"Norwich City,Manchester City",92,18,1,0.2
 Antoine Sibierski,"Newcastle United,Manchester City,Wigan Athletic",149,18,2,0.12
-Ryan Babel *,"Liverpool FC,Fulham FC",107,17,0,0.16
+Ryan Babel ,"Liverpool FC,Fulham FC",107,17,0,0.16
 Michael Ballack,Chelsea FC,105,17,2,0.16
 David Bentley,"Tottenham Hotspur,Arsenal FC,Blackburn Rovers,Norwich City,Birmingham City",184,17,0,0.09
 Eyal Berkovic,"Southampton FC,West Ham United,Manchester City,Portsmouth FC",146,17,0,0.12
 George Boateng,"Middlesbrough FC,Aston Villa,Coventry City,Hull City",383,17,0,0.04
-Steven Davis *,"Southampton FC,Fulham FC,Aston Villa",306,17,0,0.06
-Michael Essien,Chelsea FC,168,17,0,0.10
-Zoltán Gera,"Fulham FC,West Bromwich Albion",172,17,0,0.10
- Gilberto Silva,Arsenal FC,169,17,5,0.10
+Steven Davis ,"Southampton FC,Fulham FC,Aston Villa",306,17,0,0.06
+Michael Essien,Chelsea FC,168,17,0,0.1
+Zoltán Gera,"Fulham FC,West Bromwich Albion",172,17,0,0.1
+ Gilberto Silva,Arsenal FC,169,17,5,0.1
 Keith Gillespie,"Manchester United,Newcastle United,Leicester City,Blackburn Rovers,Sheffield United",238,17,0,0.07
-Jack Harrison *,Leeds United,87,17,0,0.20
-Kai Havertz *,Chelsea FC,74,17,0,0.23
-Junior Hoilett *,"Blackburn Rovers,Queens Park Rangers,Cardiff City",161,17,0,0.11
+Jack Harrison ,Leeds United,87,17,0,0.2
+Kai Havertz ,Chelsea FC,74,17,0,0.23
+Junior Hoilett ,"Blackburn Rovers,Queens Park Rangers,Cardiff City",161,17,0,0.11
 Matt Holland,"Charlton Athletic,Ipswich Town",202,17,0,0.08
-Zlatan Ibrahimović *,Manchester United,33,17,2,0.52
-Odion Ighalo *,"Manchester United,Watford FC",67,17,0,0.25
+Zlatan Ibrahimović ,Manchester United,33,17,2,0.52
+Odion Ighalo ,"Manchester United,Watford FC",67,17,0,0.25
 Joseph-Désiré Job,Middlesbrough FC,92,17,0,0.18
 Diomansy Kamara,"Fulham FC,West Bromwich Albion,Portsmouth FC",110,17,0,0.15
 Arouna Koné,"Everton FC,Wigan Athletic",82,17,0,0.21
-Érik Lamela *,Tottenham Hotspur,177,17,0,0.10
+Érik Lamela ,Tottenham Hotspur,177,17,0,0.1
 Frank Leboeuf,Chelsea FC,144,17,10,0.12
  Llorente,"Tottenham Hotspur,Swansea City",69,17,0,0.25
 Neil Maddison,"Southampton FC,Middlesbrough FC",185,17,0,0.09
@@ -492,54 +492,54 @@ Gavin Peacock,"Chelsea FC,Charlton Athletic",108,17,0,0.16
 Mark Pembridge,"Fulham FC,Everton FC,Sheffield Wednesday",229,17,1,0.07
 Gary Penrice,Queens Park Rangers,63,17,0,0.27
  Ramires,Chelsea FC,159,17,0,0.11
- Raphinha *,Leeds United,65,17,4,0.26
+ Raphinha ,Leeds United,65,17,4,0.26
 Liam Ridgewell,"Aston Villa,West Bromwich Albion,Birmingham City",257,17,0,0.07
 Wayne Routledge,"Newcastle United,Tottenham Hotspur,Fulham FC,Aston Villa,Portsmouth FC,Crystal Palace,Swansea City",297,17,0,0.06
-Jeffrey Schlupp *,"Leicester City,Crystal Palace",224,17,0,0.08
+Jeffrey Schlupp ,"Leicester City,Crystal Palace",224,17,0,0.08
 André Schürrle,"Chelsea FC,Fulham FC",68,17,0,0.25
 Gareth Southgate,"Middlesbrough FC,Aston Villa,Crystal Palace",426,17,0,0.04
-Sam Vokes *,"Wolverhampton Wanderers,Burnley FC",113,17,2,0.15
-Andreas Weimann *,Aston Villa,113,17,0,0.15
+Sam Vokes ,"Wolverhampton Wanderers,Burnley FC",113,17,2,0.15
+Andreas Weimann ,Aston Villa,113,17,0,0.15
 Ian Woan,Nottingham Forest,132,17,0,0.13
-Joe Allen *,"Liverpool FC,Stoke City,Swansea City",199,16,0,0.08
- Álvaro Morata *,Chelsea FC,47,16,0,0.34
+Joe Allen ,"Liverpool FC,Stoke City,Swansea City",199,16,0,0.08
+ Álvaro Morata ,Chelsea FC,47,16,0,0.34
 Francesco Baiano,Derby County,64,16,2,0.25
-Fabio Borini *,"Chelsea FC,Sunderland AFC,Liverpool FC",111,16,4,0.14
-Scott Dann *,"Blackburn Rovers,Crystal Palace,Birmingham City",241,16,0,0.07
-Leroy Fer *,"Norwich City,Queens Park Rangers,Swansea City",123,16,0,0.13
-Alex Iwobi *,"Arsenal FC,Everton FC",202,16,0,0.08
+Fabio Borini ,"Chelsea FC,Sunderland AFC,Liverpool FC",111,16,4,0.14
+Scott Dann ,"Blackburn Rovers,Crystal Palace,Birmingham City",241,16,0,0.07
+Leroy Fer ,"Norwich City,Queens Park Rangers,Swansea City",123,16,0,0.13
+Alex Iwobi ,"Arsenal FC,Everton FC",202,16,0,0.08
 Hassan Kachloul,"Southampton FC,Aston Villa,Wolverhampton Wanderers",112,16,0,0.14
 Gary O'Neil,"Middlesbrough FC,West Ham United,Norwich City,Portsmouth FC",214,16,0,0.07
-Martin Ødegaard *,Arsenal FC,67,16,0,0.24
-Nicolas Pépé *,Arsenal FC,80,16,2,0.20
-Roberto Pereyra *,Watford FC,106,16,1,0.15
+Martin Ødegaard ,Arsenal FC,67,16,0,0.24
+Nicolas Pépé ,Arsenal FC,80,16,2,0.2
+Roberto Pereyra ,Watford FC,106,16,1,0.15
 Martin Petrov,"Bolton Wanderers,Manchester City",119,16,4,0.13
  Reyes,Arsenal FC,69,16,0,0.23
 Neil Ruddock,"Liverpool FC,Tottenham Hotspur,West Ham United",195,16,0,0.08
 Christopher Samba,"Blackburn Rovers,Queens Park Rangers",171,16,0,0.09
 Graeme Sharp,Oldham Athletic,55,16,0,0.29
 Andy Sinton,"Tottenham Hotspur,Sheffield Wednesday,Queens Park Rangers",179,16,0,0.09
-Moussa Sissoko *,"Newcastle United,Tottenham Hotspur,Watford FC",295,16,0,0.05
+Moussa Sissoko ,"Newcastle United,Tottenham Hotspur,Watford FC",295,16,0,0.05
 Martin Škrtel,Liverpool FC,242,16,0,0.07
-Paul Walsh,Manchester City,53,16,0,0.30
+Paul Walsh,Manchester City,53,16,0,0.3
 Dean Windass,"Middlesbrough FC,Bradford City,Hull City",104,16,0,0.15
-Nathan Aké *,"Chelsea FC,Watford FC,Manchester City,AFC Bournemouth",183,15,0,0.08
-Stuart Armstrong *,Southampton FC,134,15,0,0.11
+Nathan Aké ,"Chelsea FC,Watford FC,Manchester City,AFC Bournemouth",183,15,0,0.08
+Stuart Armstrong ,Southampton FC,134,15,0,0.11
 Simon Barker,Queens Park Rangers,132,15,0,0.11
-Michy Batshuayi *,"Chelsea FC,Crystal Palace",77,15,0,0.19
+Michy Batshuayi ,"Chelsea FC,Crystal Palace",77,15,0,0.19
 Lee Carsley,"Derby County,Blackburn Rovers,Everton FC,Coventry City,Birmingham City",282,15,1,0.05
 Marouane Chamakh,"West Ham United,Arsenal FC,Crystal Palace",103,15,1,0.15
-Ciaran Clark *,"Newcastle United,Aston Villa",214,15,0,0.07
-Tom Cleverley *,"Manchester United,Aston Villa,Everton FC,Watford FC,Wigan Athletic",242,15,0,0.06
+Ciaran Clark ,"Newcastle United,Aston Villa",214,15,0,0.07
+Tom Cleverley ,"Manchester United,Aston Villa,Everton FC,Watford FC,Wigan Athletic",242,15,0,0.06
 Ashley Cole,"Chelsea FC,Arsenal FC",385,15,0,0.04
 Roberto Di Matteo,Chelsea FC,119,15,0,0.13
-Anwar El Ghazi *,"Aston Villa,Everton FC",73,15,6,0.21
+Anwar El Ghazi ,"Aston Villa,Everton FC",73,15,6,0.21
 Michael Hughes,"West Ham United,Crystal Palace,Wimbledon FC",196,15,0,0.08
 Glen Johnson,"Chelsea FC,Liverpool FC,West Ham United,Portsmouth FC,Stoke City",357,15,0,0.04
-Sung-yueng Ki *,"Newcastle United,Sunderland AFC,Swansea City",187,15,1,0.08
+Sung-yueng Ki ,"Newcastle United,Sunderland AFC,Swansea City",187,15,1,0.08
 Kevin Kilbane,"Sunderland AFC,Everton FC,Hull City,Wigan Athletic",325,15,0,0.05
 Dave Kitson,"Stoke City,Reading FC",81,15,0,0.19
-Cheikhou Kouyaté *,"West Ham United,Nottingham Forest,Crystal Palace",270,15,0,0.06
+Cheikhou Kouyaté ,"West Ham United,Nottingham Forest,Crystal Palace",270,15,0,0.06
 Jim Magilton,"Southampton FC,Ipswich Town,Sheffield Wednesday",211,15,4,0.07
 Shaun Maloney,"Aston Villa,Hull City,Wigan Athletic",88,15,2,0.17
 Gareth McAuley,West Bromwich Albion,203,15,0,0.07
@@ -553,18 +553,18 @@ David Thompson,"Liverpool FC,Bolton Wanderers,Blackburn Rovers,Portsmouth FC,Cov
 Nemanja Vidić,Manchester United,211,15,0,0.07
 David Wetherall,"Leeds United,Bradford City",256,15,0,0.06
 Paul Wilkinson,"Middlesbrough FC,Barnsley FC",48,15,0,0.31
- Xabi Alonso,Liverpool FC,143,15,2,0.10
+ Xabi Alonso,Liverpool FC,143,15,2,0.1
 Lars Bohinen,"Derby County,Blackburn Rovers,Nottingham Forest",155,14,0,0.09
  Bojan,Stoke City,53,14,5,0.26
 Jimmy Bullard,"Fulham FC,Hull City,Wigan Athletic",90,14,5,0.16
 Craig Burley,"Derby County,Chelsea FC",157,14,2,0.09
 DJ Campbell,"Queens Park Rangers,Birmingham City,Blackpool FC",53,14,0,0.26
- David Luiz *,"Chelsea FC,Arsenal FC",213,14,0,0.07
-Bobby Decordova-Reid *,"Fulham FC,Cardiff City",79,14,1,0.18
-Franco Di Santo *,"Chelsea FC,Blackburn Rovers,Wigan Athletic",122,14,0,0.11
+ David Luiz ,"Chelsea FC,Arsenal FC",213,14,0,0.07
+Bobby Decordova-Reid ,"Fulham FC,Cardiff City",79,14,1,0.18
+Franco Di Santo ,"Chelsea FC,Blackburn Rovers,Wigan Athletic",122,14,0,0.11
 Abou Diaby,Arsenal FC,124,14,0,0.11
  Elano,Manchester City,62,14,6,0.23
-Jonny Evans *,"Manchester United,Sunderland AFC,Leicester City,West Bromwich Albion",352,14,0,0.04
+Jonny Evans ,"Manchester United,Sunderland AFC,Leicester City,West Bromwich Albion",352,14,0,0.04
  Géovanni,"Manchester City,Hull City",79,14,1,0.18
 Mustapha Hadji,"Aston Villa,Coventry City",97,14,0,0.14
 Hermann Hreiðarsson,"Charlton Athletic,Ipswich Town,Portsmouth FC,Crystal Palace,Wimbledon FC",332,14,0,0.04
@@ -572,9 +572,9 @@ Hermann Hreiðarsson,"Charlton Athletic,Ipswich Town,Portsmouth FC,Crystal Palac
 Kevin Lisbie,Charlton Athletic,113,14,0,0.12
 Steve Lomas,"West Ham United,Manchester City",235,14,0,0.06
 David Nugent,"Middlesbrough FC,Leicester City,Portsmouth FC,Burnley FC",97,14,1,0.14
-Shinji Okazaki *,Leicester City,114,14,0,0.12
+Shinji Okazaki ,Leicester City,114,14,0,0.12
 Jay Jay Okocha,Bolton Wanderers,124,14,5,0.11
- Pablo Fornals *,West Ham United,122,14,0,0.11
+ Pablo Fornals ,West Ham United,122,14,0,0.11
 Jermaine Pennant,"Leeds United,Liverpool FC,Arsenal FC,Portsmouth FC,Birmingham City,Stoke City",231,14,0,0.06
 Anthony Pilkington,Norwich City,75,14,0,0.19
 Neil Redfearn,"Charlton Athletic,Bradford City,Barnsley FC",84,14,4,0.17
@@ -592,123 +592,123 @@ Danny Cadamarteri,Everton FC,92,13,0,0.14
 Lee Clark,"Newcastle United,Fulham FC",184,13,0,0.07
 Colin Cooper,"Middlesbrough FC,Nottingham Forest",267,13,0,0.05
 Mark Draper,"Southampton FC,Leicester City,Aston Villa",183,13,0,0.07
-Robert Earnshaw,"Derby County,West Bromwich Albion",65,13,2,0.20
+Robert Earnshaw,"Derby County,West Bromwich Albion",65,13,2,0.2
 Brett Emerton,Blackburn Rovers,247,13,0,0.05
 Graham Fenton,"Leicester City,Blackburn Rovers,Aston Villa",92,13,0,0.14
-Paul Furlong,Chelsea FC,64,13,0,0.20
+Paul Furlong,Chelsea FC,64,13,0,0.2
 Shaun Goater,Manchester City,52,13,0,0.25
-Bafétimbi Gomis *,Swansea City,64,13,1,0.20
+Bafétimbi Gomis ,Swansea City,64,13,1,0.2
 Barry Hayles,Fulham FC,75,13,0,0.17
 Andy Impey,"Leicester City,West Ham United,Queens Park Rangers",288,13,0,0.05
  Iván Campo,Bolton Wanderers,172,13,0,0.08
 Tommy Johnson,"Aston Villa,Everton FC",60,13,1,0.22
 Vinnie Jones,"Chelsea FC,Wimbledon FC",184,13,1,0.07
-James McCarthy *,"Everton FC,Crystal Palace,Wigan Athletic",272,13,0,0.05
-Henrikh Mkhitaryan *,"Manchester United,Arsenal FC",78,13,0,0.17
-Luka Modrić *,Tottenham Hotspur,127,13,1,0.10
+James McCarthy ,"Everton FC,Crystal Palace,Wigan Athletic",272,13,0,0.05
+Henrikh Mkhitaryan ,"Manchester United,Arsenal FC",78,13,0,0.17
+Luka Modrić ,Tottenham Hotspur,127,13,1,0.1
 Trevor Morley,West Ham United,56,13,2,0.23
 Geremi Njitap,"Chelsea FC,Newcastle United,Middlesbrough FC",147,13,0,0.09
 John O'Shea,"Manchester United,Sunderland AFC",445,13,0,0.03
-Ian Olney,Oldham Athletic,44,13,0,0.30
+Ian Olney,Oldham Athletic,44,13,0,0.3
 David Platt,Arsenal FC,88,13,0,0.15
- Rodri *,Manchester City,120,13,1,0.11
-Morgan Schneiderlin *,"Manchester United,Southampton FC,Everton FC",200,13,0,0.07
-Scott Sinclair *,"Chelsea FC,Aston Villa,West Bromwich Albion,Manchester City,Wigan Athletic,Swansea City",119,13,5,0.11
+ Rodri ,Manchester City,120,13,1,0.11
+Morgan Schneiderlin ,"Manchester United,Southampton FC,Everton FC",200,13,0,0.07
+Scott Sinclair ,"Chelsea FC,Aston Villa,West Bromwich Albion,Manchester City,Wigan Athletic,Swansea City",119,13,5,0.11
 Steve Staunton,"Liverpool FC,Aston Villa",288,13,1,0.05
-James Tomkins *,"West Ham United,Crystal Palace",282,13,0,0.05
+James Tomkins ,"West Ham United,Crystal Palace",282,13,0,0.05
 Andy Townsend,"Chelsea FC,Middlesbrough FC,Aston Villa",215,13,0,0.06
 Thomas Vermaelen,Arsenal FC,110,13,0,0.12
 Paul Warhurst,"Bolton Wanderers,Blackburn Rovers,Sheffield Wednesday,Crystal Palace",144,13,0,0.09
 John Wark,Ipswich Town,101,13,5,0.13
 Roy Wegerle,"Blackburn Rovers,Coventry City",75,13,2,0.17
-Joe Willock *,"Newcastle United,Arsenal FC",102,13,0,0.13
-Granit Xhaka *,Arsenal FC,206,13,0,0.06
+Joe Willock ,"Newcastle United,Arsenal FC",102,13,0,0.13
+Granit Xhaka ,Arsenal FC,206,13,0,0.06
 Neil Adams,"Norwich City,Oldham Athletic",91,12,2,0.13
 Tony Adams,Arsenal FC,255,12,0,0.05
 Niclas Alexandersson,"Everton FC,Sheffield Wednesday",133,12,0,0.09
- Ander Herrera *,Manchester United,132,12,1,0.09
+ Ander Herrera ,Manchester United,132,12,1,0.09
 Neal Ardley,Wimbledon FC,168,12,2,0.07
 Mikkel Beck,"Derby County,Middlesbrough FC",70,12,0,0.17
-Saïd Benrahma *,West Ham United,79,12,2,0.15
-Edinson Cavani *,Manchester United,41,12,0,0.29
+Saïd Benrahma ,West Ham United,79,12,2,0.15
+Edinson Cavani ,Manchester United,41,12,0,0.29
 Steve Claridge,Leicester City,49,12,0,0.24
 Mousa Dembélé,"Tottenham Hotspur,Fulham FC",243,12,0,0.05
-Eric Dier *,Tottenham Hotspur,256,12,0,0.05
-Lewis Dunk *,Brighton & Hove Albion,190,12,0,0.06
+Eric Dier ,Tottenham Hotspur,256,12,0,0.05
+Lewis Dunk ,Brighton & Hove Albion,190,12,0,0.06
 Samuel Eto'o,"Chelsea FC,Everton FC",35,12,0,0.34
 Damien Francis,"Norwich City,Watford FC,Wigan Athletic,Wimbledon FC",95,12,0,0.13
 Dietmar Hamann,"Newcastle United,Liverpool FC,Manchester City",268,12,0,0.04
-Jeff Hendrick *,"Newcastle United,Burnley FC",147,12,0,0.08
+Jeff Hendrick ,"Newcastle United,Burnley FC",147,12,0,0.08
 Wes Hoolahan,Norwich City,112,12,1,0.11
 Geoff Horsfield,"West Bromwich Albion,Birmingham City",81,12,0,0.15
 Stephen Howey,"Newcastle United,Leicester City,Bolton Wanderers,Manchester City",193,12,0,0.06
-Pierre-Emile Højbjerg *,"Southampton FC,Tottenham Hotspur",202,12,0,0.06
- Joelinton *,Newcastle United,121,12,1,0.10
+Pierre-Emile Højbjerg ,"Southampton FC,Tottenham Hotspur",202,12,0,0.06
+ Joelinton ,Newcastle United,121,12,1,0.1
 Younès Kaboul,"Sunderland AFC,Tottenham Hotspur,Watford FC,Portsmouth FC",197,12,0,0.06
-N'Golo Kanté *,"Chelsea FC,Leicester City",222,12,0,0.05
+N'Golo Kanté ,"Chelsea FC,Leicester City",222,12,0,0.05
 Marlon King,"Middlesbrough FC,Watford FC,Hull City,Wigan Athletic",64,12,4,0.19
-Adam Le Fondre *,Reading FC,34,12,3,0.35
+Adam Le Fondre ,Reading FC,34,12,3,0.35
 Graeme Le Saux,"Chelsea FC,Southampton FC,Blackburn Rovers",327,12,0,0.04
 Jason Lee,Nottingham Forest,63,12,0,0.19
 Gavin McCann,"Sunderland AFC,Bolton Wanderers,Aston Villa,Everton FC",300,12,0,0.04
 David N'Gog,"Liverpool FC,Bolton Wanderers,Swansea City",99,12,0,0.12
 Oumar Niasse,"Everton FC,Hull City,Cardiff City",65,12,0,0.18
 Allan Nielsen,Tottenham Hotspur,97,12,0,0.12
-Eddie Nketiah *,Arsenal FC,75,12,0,0.16
+Eddie Nketiah ,Arsenal FC,75,12,0,0.16
 Brett Ormerod,"Southampton FC,Blackpool FC",99,12,0,0.12
-Matthew Phillips *,"Queens Park Rangers,West Bromwich Albion,Blackpool FC",142,12,0,0.08
+Matthew Phillips ,"Queens Park Rangers,West Bromwich Albion,Blackpool FC",142,12,0,0.08
 Franck Queudrue,"Middlesbrough FC,Fulham FC,Birmingham City",201,12,0,0.06
 Alex Rae,"Sunderland AFC,Wolverhampton Wanderers",101,12,1,0.12
-Allan Saint-Maximin *,Newcastle United,97,12,0,0.12
+Allan Saint-Maximin ,Newcastle United,97,12,0,0.12
 Steve Sedgley,"Tottenham Hotspur,Ipswich Town",90,12,0,0.13
-Chris Smalling *,"Manchester United,Fulham FC",219,12,0,0.05
-Emile Smith Rowe *,Arsenal FC,60,12,0,0.20
+Chris Smalling ,"Manchester United,Fulham FC",219,12,0,0.05
+Emile Smith Rowe ,Arsenal FC,60,12,0,0.2
 Steven Taylor,Newcastle United,194,12,0,0.06
 Jo Tessem,Southampton FC,110,12,0,0.11
 Kolo Touré,"Liverpool FC,Arsenal FC,Manchester City",353,12,0,0.03
-Ashley Westwood *,"Aston Villa,Burnley FC",286,12,0,0.04
+Ashley Westwood ,"Aston Villa,Burnley FC",286,12,0,0.04
 Ade Akinbiyi,"Leicester City,Norwich City,Sheffield United",76,11,0,0.14
-Trent Alexander-Arnold *,Liverpool FC,179,11,0,0.06
+Trent Alexander-Arnold ,Liverpool FC,179,11,0,0.06
 Darren Ambrose,"Newcastle United,Charlton Athletic,Ipswich Town",92,11,0,0.12
 Mark Atkins,Blackburn Rovers,84,11,0,0.13
 Robbie Blake,"Bolton Wanderers,Bradford City,Birmingham City,Burnley FC",99,11,3,0.11
-Yannick Bolasie *,"Everton FC,Crystal Palace",119,11,0,0.09
+Yannick Bolasie ,"Everton FC,Crystal Palace",119,11,0,0.09
 Emmerson Boyce,"Crystal Palace,Wigan Athletic",221,11,0,0.05
-Ben Chilwell *,"Chelsea FC,Leicester City",142,11,0,0.08
+Ben Chilwell ,"Chelsea FC,Leicester City",142,11,0,0.08
 Andy Clarke,Wimbledon FC,123,11,0,0.09
 James Collins,"West Ham United,Aston Villa",279,11,0,0.04
 Nikolaos Dabizas,"Newcastle United,Leicester City",148,11,0,0.07
- Daniel Podence *,Wolverhampton Wanderers,78,11,0,0.14
+ Daniel Podence ,Wolverhampton Wanderers,78,11,0,0.14
 Sean Davis,"Tottenham Hotspur,Bolton Wanderers,Fulham FC,Portsmouth FC",205,11,0,0.05
 Michael Dawson,"Tottenham Hotspur,Hull City",286,11,0,0.04
-Emmanuel Dennis *,"Nottingham Forest,Watford FC",43,11,0,0.26
-Matt Doherty *,"Tottenham Hotspur,Wolverhampton Wanderers",119,11,0,0.09
+Emmanuel Dennis ,"Nottingham Forest,Watford FC",43,11,0,0.26
+Matt Doherty ,"Tottenham Hotspur,Wolverhampton Wanderers",119,11,0,0.09
 Robbie Elliott,"Newcastle United,Bolton Wanderers",131,11,0,0.08
 Rio Ferdinand,"Leeds United,Manchester United,West Ham United,Queens Park Rangers",504,11,0,0.02
-Conor Gallagher *,"Chelsea FC,West Bromwich Albion,Crystal Palace",81,11,0,0.14
+Conor Gallagher ,"Chelsea FC,West Bromwich Albion,Crystal Palace",81,11,0,0.14
 Jon Goodman,Wimbledon FC,60,11,0,0.18
 Yoan Gouffran,Newcastle United,89,11,0,0.12
 Thomas Gravesen,Everton FC,149,11,2,0.07
 John Hendrie,"Middlesbrough FC,Barnsley FC",64,11,0,0.17
 Andy Hinchcliffe,"Everton FC,Sheffield Wednesday",219,11,2,0.05
-Tom Huddlestone *,"Tottenham Hotspur,Hull City",242,11,1,0.05
+Tom Huddlestone ,"Tottenham Hotspur,Hull City",242,11,1,0.05
 Graham Hyde,Sheffield Wednesday,159,11,0,0.07
-Dan James *,"Leeds United,Manchester United,Fulham FC,Swansea City",98,11,0,0.11
-Michael Keane *,"Manchester United,Everton FC,Burnley FC",219,11,0,0.05
+Dan James ,"Leeds United,Manchester United,Fulham FC,Swansea City",98,11,0,0.11
+Michael Keane ,"Manchester United,Everton FC,Burnley FC",219,11,0,0.05
 Tugay Kerimoğlu,Blackburn Rovers,232,11,0,0.05
 Aleksandar Kolarov,Manchester City,165,11,0,0.07
 Adrian Littlejohn,Sheffield United,46,11,0,0.24
-Ademola Lookman *,"Leicester City,Fulham FC,Everton FC",96,11,0,0.11
-Alexis Mac Allister *,Brighton & Hove Albion,79,11,5,0.14
-Harry Maguire *,"Manchester United,Leicester City,Hull City",211,11,0,0.05
-Steve Marlet,Fulham FC,55,11,1,0.20
- Matheus Pereira *,West Bromwich Albion,33,11,4,0.33
-James McClean *,"Sunderland AFC,West Bromwich Albion",158,11,0,0.07
-Ben Mee *,"Burnley FC,Brentford FC",235,11,0,0.05
+Ademola Lookman ,"Leicester City,Fulham FC,Everton FC",96,11,0,0.11
+Alexis Mac Allister ,Brighton & Hove Albion,79,11,5,0.14
+Harry Maguire ,"Manchester United,Leicester City,Hull City",211,11,0,0.05
+Steve Marlet,Fulham FC,55,11,1,0.2
+ Matheus Pereira ,West Bromwich Albion,33,11,4,0.33
+James McClean ,"Sunderland AFC,West Bromwich Albion",158,11,0,0.07
+Ben Mee ,"Burnley FC,Brentford FC",235,11,0,0.05
 Youssuf Mulumbu,"Norwich City,West Bromwich Albion",164,11,0,0.07
 Robbie Mustoe,"Middlesbrough FC,Charlton Athletic",202,11,0,0.05
-Steven N'Zonzi *,"Blackburn Rovers,Stoke City",195,11,0,0.06
-Dimitri Payet *,West Ham United,48,11,0,0.23
+Steven N'Zonzi ,"Blackburn Rovers,Stoke City",195,11,0,0.06
+Dimitri Payet ,West Ham United,48,11,0,0.23
 Ian Pearce,"Chelsea FC,West Ham United,Blackburn Rovers,Fulham FC",239,11,0,0.05
 Emmanuel Petit,"Chelsea FC,Arsenal FC",140,11,0,0.08
 David Phillips,"Nottingham Forest,Norwich City",125,11,2,0.09
@@ -716,113 +716,113 @@ Frédéric Piquionne,"West Ham United,Portsmouth FC",68,11,1,0.16
 Pavel Pogrebnyak,"Fulham FC,Reading FC",41,11,0,0.27
 Nigel Reo-Coker,"West Ham United,Bolton Wanderers,Aston Villa",205,11,0,0.05
 Karl-Heinz Riedle,Liverpool FC,60,11,0,0.18
-Matt Ritchie *,"Newcastle United,Portsmouth FC,AFC Bournemouth",166,11,1,0.07
+Matt Ritchie ,"Newcastle United,Portsmouth FC,AFC Bournemouth",166,11,1,0.07
 Alan Stubbs,"Derby County,Sunderland AFC,Bolton Wanderers,Everton FC",212,11,0,0.05
 Jerome Thomas,"Charlton Athletic,West Bromwich Albion,Portsmouth FC,Crystal Palace",155,11,1,0.07
-Enner Valencia *,"West Ham United,Everton FC",75,11,0,0.15
-Matěj Vydra *,"Watford FC,West Bromwich Albion,Burnley FC",106,11,0,0.10
-Chris Waddle,"Sunderland AFC,Sheffield Wednesday",115,11,0,0.10
+Enner Valencia ,"West Ham United,Everton FC",75,11,0,0.15
+Matěj Vydra ,"Watford FC,West Bromwich Albion,Burnley FC",106,11,0,0.1
+Chris Waddle,"Sunderland AFC,Sheffield Wednesday",115,11,0,0.1
 Mark Walters,"Southampton FC,Liverpool FC",74,11,2,0.15
 Ben Watson,"Watford FC,Crystal Palace,Wigan Athletic",145,11,4,0.08
 John Williams,Coventry City,80,11,0,0.14
-Yoane Wissa *,Brentford FC,49,11,0,0.22
-Kurt Zouma *,"Chelsea FC,West Ham United,Everton FC,Stoke City",203,11,0,0.05
+Yoane Wissa ,Brentford FC,49,11,0,0.22
+Kurt Zouma ,"Chelsea FC,West Ham United,Everton FC,Stoke City",203,11,0,0.05
 Benik Afobe,AFC Bournemouth,63,10,0,0.16
  Afonso Alves,Middlesbrough FC,42,10,1,0.24
 Martin Allen,West Ham United,58,10,0,0.17
 John Aloisi,Coventry City,39,10,0,0.26
 Daniel Amokachi,Everton FC,43,10,0,0.23
- Azpilicueta *,Chelsea FC,340,10,0,0.03
+ Azpilicueta ,Chelsea FC,340,10,0,0.03
 Stuart Barlow,Everton FC,62,10,0,0.16
 Warren Barton,"Derby County,Newcastle United,Wimbledon FC",278,10,1,0.04
 Darren Beckford,"Norwich City,Oldham Athletic",37,10,0,0.27
 Leon Best,"Southampton FC,Newcastle United",32,10,0,0.31
-Robbie Brady *,"Norwich City,Hull City,Burnley FC",160,10,2,0.06
+Robbie Brady ,"Norwich City,Hull City,Burnley FC",160,10,2,0.06
 Titus Bramble,"Newcastle United,Sunderland AFC,Ipswich Town,Wigan Athletic",292,10,0,0.03
 Steve Bruce,Manchester United,148,10,1,0.07
-Emre Can *,Liverpool FC,115,10,0,0.09
-Étienne Capoue *,"Tottenham Hotspur,Watford FC",180,10,0,0.06
-Steve Cook *,"Nottingham Forest,AFC Bournemouth",180,10,0,0.06
-Aaron Cresswell *,West Ham United,273,10,0,0.04
+Emre Can ,Liverpool FC,115,10,0,0.09
+Étienne Capoue ,"Tottenham Hotspur,Watford FC",180,10,0,0.06
+Steve Cook ,"Nottingham Forest,AFC Bournemouth",180,10,0,0.06
+Aaron Cresswell ,West Ham United,273,10,0,0.04
 Gilles De Bilde,"Aston Villa,Sheffield Wednesday",42,10,2,0.24
-Matt Derbyshire *,"Blackburn Rovers,Birmingham City",76,10,0,0.13
+Matt Derbyshire ,"Blackburn Rovers,Birmingham City",76,10,0,0.13
 Jason Dodd,Southampton FC,329,10,1,0.03
 Richard Dunne,"Aston Villa,Everton FC,Queens Park Rangers,Manchester City",431,10,0,0.02
 Sylvain Ebanks-Blake,Wolverhampton Wanderers,76,10,1,0.13
 Abdoulaye Faye,"Newcastle United,Bolton Wanderers,Stoke City,Hull City",163,10,0,0.06
- Felipe Anderson *,West Ham United,63,10,0,0.16
+ Felipe Anderson ,West Ham United,63,10,0,0.16
 Mathieu Flamini,"Arsenal FC,Crystal Palace",178,10,0,0.06
-Jostein Flo,Sheffield United,33,10,0,0.30
+Jostein Flo,Sheffield United,33,10,0,0.3
 Marc-Vivien Foé,"West Ham United,Manchester City",73,10,0,0.14
 Diego Forlán,Manchester United,63,10,0,0.16
 Marc-Antoine Fortuné,West Bromwich Albion,80,10,0,0.13
 Dougie Freedman,"Nottingham Forest,Crystal Palace",58,10,0,0.17
-Manolo Gabbiadini *,Southampton FC,51,10,1,0.20
+Manolo Gabbiadini ,Southampton FC,51,10,1,0.2
 Ricardo Gardner,Bolton Wanderers,250,10,0,0.04
 Asamoah Gyan,Sunderland AFC,34,10,0,0.29
 Gunnar Halle,"Leeds United,Bradford City,Oldham Athletic",185,10,0,0.05
-Sébastien Haller *,West Ham United,48,10,0,0.21
+Sébastien Haller ,West Ham United,48,10,0,0.21
 Brede Hangeland,"Fulham FC,Crystal Palace",238,10,0,0.04
 Thomas Hitzlsperger,"West Ham United,Aston Villa,Everton FC",117,10,0,0.09
 Bryan Hughes,"Charlton Athletic,Birmingham City,Hull City",128,10,0,0.08
 Andy Hunt,Charlton Athletic,42,10,0,0.24
 Stern John,"Sunderland AFC,Birmingham City",63,10,1,0.16
- Joselu *,"Newcastle United,Stoke City",68,10,0,0.15
+ Joselu ,"Newcastle United,Stoke City",68,10,0,0.15
 Ledley King,Tottenham Hotspur,268,10,0,0.04
 Leroy Lita,"Swansea City,Reading FC",65,10,0,0.15
-Ruben Loftus-Cheek *,"Chelsea FC,Fulham FC,Crystal Palace",146,10,0,0.07
-David McGoldrick *,Sheffield United,63,10,0,0.16
-Scott McTominay *,Manchester United,134,10,0,0.07
+Ruben Loftus-Cheek ,"Chelsea FC,Fulham FC,Crystal Palace",146,10,0,0.07
+David McGoldrick ,Sheffield United,63,10,0,0.16
+Scott McTominay ,Manchester United,134,10,0,0.07
 John Moncur,"West Ham United,Swindon Town",216,10,0,0.05
 Kenneth Monkou,Southampton FC,198,10,0,0.05
 Steve Morison,Norwich City,53,10,0,0.19
 Gary Pallister,"Manchester United,Middlesbrough FC",261,10,0,0.04
 Serhiy Rebrov,Tottenham Hotspur,59,10,1,0.17
-Jack Rodwell *,"Sunderland AFC,Everton FC,Manchester City,Sheffield United",167,10,0,0.06
+Jack Rodwell ,"Sunderland AFC,Everton FC,Manchester City,Sheffield United",167,10,0,0.06
 Ronny Rosenthal,"Liverpool FC,Tottenham Hotspur",118,10,0,0.08
-Ismaïla Sarr *,Watford FC,50,10,0,0.20
-Fabian Schär *,Newcastle United,107,10,1,0.09
+Ismaïla Sarr ,Watford FC,50,10,0,0.2
+Fabian Schär ,Newcastle United,107,10,1,0.09
 Vladimír Šmicer,Liverpool FC,121,10,0,0.08
-Davor Šuker,"West Ham United,Arsenal FC",33,10,0,0.30
+Davor Šuker,"West Ham United,Arsenal FC",33,10,0,0.3
 Anders Svensson,Southampton FC,126,10,0,0.08
 Mathias Svensson,"Charlton Athletic,Norwich City",74,10,0,0.14
-Cenk Tosun *,"Everton FC,Crystal Palace",55,10,0,0.18
-Victor Wanyama *,"Southampton FC,Tottenham Hotspur",154,10,0,0.06
+Cenk Tosun ,"Everton FC,Crystal Palace",55,10,0,0.18
+Victor Wanyama ,"Southampton FC,Tottenham Hotspur",154,10,0,0.06
 David Weir,Everton FC,235,10,0,0.04
-Timo Werner *,Chelsea FC,56,10,0,0.18
+Timo Werner ,Chelsea FC,56,10,0,0.18
 Dane Whitehouse,Sheffield United,52,10,3,0.19
 Amr Zaki,"Hull City,Wigan Athletic",35,10,4,0.29
- Adama Traoré *,"Middlesbrough FC,Aston Villa,Wolverhampton Wanderers",176,9,0,0.05
+ Adama Traoré ,"Middlesbrough FC,Aston Villa,Wolverhampton Wanderers",176,9,0,0.05
 Daniel Agger,Liverpool FC,175,9,0,0.05
-Toby Alderweireld *,"Southampton FC,Tottenham Hotspur",200,9,0,0.05
+Toby Alderweireld ,"Southampton FC,Tottenham Hotspur",200,9,0,0.05
 Faustino Asprilla,Newcastle United,48,9,0,0.19
 Peter Atherton,"Sheffield Wednesday,Coventry City,Bradford City",318,9,0,0.03
 Gary Bannister,Nottingham Forest,31,9,0,0.29
 Paul Bernard,Oldham Athletic,65,9,0,0.14
 Mark Bowen,"Charlton Athletic,West Ham United,Norwich City",142,9,0,0.06
 George Boyd,"Hull City,Burnley FC",101,9,0,0.09
-Titi Camara,"Liverpool FC,West Ham United",44,9,0,0.20
+Titi Camara,"Liverpool FC,West Ham United",44,9,0,0.2
 Michael Chopra,"Newcastle United,Sunderland AFC",60,9,1,0.15
-Jack Colback *,"Newcastle United,Sunderland AFC,Nottingham Forest",186,9,0,0.05
-Jack Cork *,"Southampton FC,Swansea City,Burnley FC",300,9,0,0.03
-Maxwel Cornet *,"West Ham United,Burnley FC",31,9,0,0.29
+Jack Colback ,"Newcastle United,Sunderland AFC,Nottingham Forest",186,9,0,0.05
+Jack Cork ,"Southampton FC,Swansea City,Burnley FC",300,9,0,0.03
+Maxwel Cornet ,"West Ham United,Burnley FC",31,9,0,0.29
 Jody Craddock,"Sunderland AFC,Wolverhampton Wanderers",189,9,0,0.05
-Stuart Dallas *,Leeds United,72,9,0,0.13
+Stuart Dallas ,Leeds United,72,9,0,0.13
 Charlie Daniels,AFC Bournemouth,129,9,2,0.07
-Ben Davies *,"Tottenham Hotspur,Swansea City",265,9,0,0.03
-Jonathan de Guzmán *,Swansea City,71,9,0,0.13
-Leander Dendoncker *,"Aston Villa,Wolverhampton Wanderers",134,9,0,0.07
+Ben Davies ,"Tottenham Hotspur,Swansea City",265,9,0,0.03
+Jonathan de Guzmán ,Swansea City,71,9,0,0.13
+Leander Dendoncker ,"Aston Villa,Wolverhampton Wanderers",134,9,0,0.07
 Lee Dixon,Arsenal FC,305,9,0,0.03
 John Ebbrell,Everton FC,121,9,0,0.07
-Odsonne Édouard *,Crystal Palace,45,9,1,0.20
+Odsonne Édouard ,Crystal Palace,45,9,1,0.2
 Willie Falconer,"Middlesbrough FC,Sheffield United",51,9,0,0.18
- Ferrán Torres *,Manchester City,28,9,0,0.32
- Gabriel *,Arsenal FC,75,9,0,0.12
- Gervinho *,Arsenal FC,46,9,0,0.20
+ Ferrán Torres ,Manchester City,28,9,0,0.32
+ Gabriel ,Arsenal FC,75,9,0,0.12
+ Gervinho ,Arsenal FC,46,9,0,0.2
 Dean Gordon,"Middlesbrough FC,Crystal Palace",150,9,1,0.06
 Jeremy Goss,Norwich City,84,9,0,0.11
 Jonathan Greening,"Manchester United,Middlesbrough FC,Fulham FC,West Bromwich Albion",252,9,0,0.04
-Jóhann Guðmundsson *,Burnley FC,136,9,0,0.07
+Jóhann Guðmundsson ,Burnley FC,136,9,0,0.07
 Steve Guppy,Leicester City,161,9,0,0.06
 Richard Hall,"Southampton FC,West Ham United",106,9,0,0.08
 James Harper,Reading FC,76,9,0,0.12
@@ -830,31 +830,31 @@ Danny Higginbotham,"Derby County,Manchester United,Southampton FC,Sunderland AFC
 Rick Holden,"Manchester City,Oldham Athletic",79,9,1,0.11
 David Howells,"Southampton FC,Tottenham Hotspur",152,9,0,0.06
 Paul Konchesky,"Leicester City,Liverpool FC,Charlton Athletic,Tottenham Hotspur,West Ham United,Fulham FC",347,9,0,0.03
-Jamaal Lascelles *,Newcastle United,156,9,0,0.06
-Peter Løvenkrands,Newcastle United,46,9,0,0.20
+Jamaal Lascelles ,Newcastle United,156,9,0,0.06
+Peter Løvenkrands,Newcastle United,46,9,0,0.2
 Jamie Mackie,Queens Park Rangers,60,9,0,0.15
 Lee McCulloch,Wigan Athletic,59,9,0,0.15
-John McGinn *,Aston Villa,117,9,0,0.08
-Dwight McNeil *,"Everton FC,Burnley FC",151,9,0,0.06
-Aaron Mooy *,"Huddersfield Town,Brighton & Hove Albion",96,9,2,0.09
-Steve Mounié *,Huddersfield Town,59,9,0,0.15
-Lys Mousset *,"AFC Bournemouth,Sheffield United",99,9,0,0.09
+John McGinn ,Aston Villa,117,9,0,0.08
+Dwight McNeil ,"Everton FC,Burnley FC",151,9,0,0.06
+Aaron Mooy ,"Huddersfield Town,Brighton & Hove Albion",96,9,2,0.09
+Steve Mounié ,Huddersfield Town,59,9,0,0.15
+Lys Mousset ,"AFC Bournemouth,Sheffield United",99,9,0,0.09
 Ryan Nelsen,"Tottenham Hotspur,Blackburn Rovers,Queens Park Rangers",198,9,0,0.05
 Phil Neville,"Manchester United,Everton FC",505,9,0,0.02
 Erik Nevland,"Manchester United,Fulham FC",55,9,0,0.16
-Jamie O'Hara,"Tottenham Hotspur,Wolverhampton Wanderers,Portsmouth FC",93,9,0,0.10
- Pedro Neto *,Wolverhampton Wanderers,81,9,0,0.11
+Jamie O'Hara,"Tottenham Hotspur,Wolverhampton Wanderers,Portsmouth FC",93,9,0,0.1
+ Pedro Neto ,Wolverhampton Wanderers,81,9,0,0.11
 Stilian Petrov,Aston Villa,185,9,0,0.05
-Gastón Ramírez *,"Southampton FC,Middlesbrough FC,Hull City",94,9,0,0.10
+Gastón Ramírez ,"Southampton FC,Middlesbrough FC,Hull City",94,9,0,0.1
 Iwan Roberts,Leicester City,37,9,0,0.24
 Danny Rose,"Newcastle United,Sunderland AFC,Tottenham Hotspur,Watford FC",202,9,0,0.04
-Antonio Rüdiger *,Chelsea FC,133,9,0,0.07
-Romain Saïss *,Wolverhampton Wanderers,110,9,0,0.08
+Antonio Rüdiger ,Chelsea FC,133,9,0,0.07
+Romain Saïss ,Wolverhampton Wanderers,110,9,0,0.08
 Scott Sellars,"Leeds United,Newcastle United,Bolton Wanderers",98,9,0,0.09
 Andriy Shevchenko,Chelsea FC,48,9,1,0.19
 Mikaël Silvestre,"Manchester United,Arsenal FC",275,9,0,0.03
 Gerry Taggart,"Leicester City,Bolton Wanderers",105,9,0,0.09
-Bertrand Traoré *,"Chelsea FC,Aston Villa",55,9,0,0.16
+Bertrand Traoré ,"Chelsea FC,Aston Villa",55,9,0,0.16
 Matthew Upson,"Leicester City,West Ham United,Arsenal FC,Birmingham City,Stoke City",288,9,0,0.03
 Devon White,Queens Park Rangers,26,9,0,0.35
 Clive Wilson,"Tottenham Hotspur,Queens Park Rangers",189,9,6,0.05
@@ -871,116 +871,116 @@ Jermaine Beckford,Everton FC,34,8,0,0.24
 Henning Berg,"Manchester United,Blackburn Rovers",275,8,0,0.03
 Diniyar Bilyaletdinov,Everton FC,59,8,0,0.14
 Carlos Bocanegra,Fulham FC,116,8,0,0.07
-David Brooks *,AFC Bournemouth,39,8,0,0.21
- Bruno Guimarães *,Newcastle United,33,8,0,0.24
-Emiliano Buendia *,"Aston Villa,Norwich City",90,8,0,0.09
+David Brooks ,AFC Bournemouth,39,8,0,0.21
+ Bruno Guimarães ,Newcastle United,33,8,0,0.24
+Emiliano Buendia ,"Aston Villa,Norwich City",90,8,0,0.09
 Horacio Carbonari,Derby County,88,8,0,0.09
 Stephen Carr,"Newcastle United,Tottenham Hotspur,Birmingham City",377,8,0,0.02
-Steven Caulker *,"Southampton FC,Liverpool FC,Tottenham Hotspur,Queens Park Rangers,Cardiff City,Swansea City",123,8,0,0.07
+Steven Caulker ,"Southampton FC,Liverpool FC,Tottenham Hotspur,Queens Park Rangers,Cardiff City,Swansea City",123,8,0,0.07
 Jordi Cruyff,Manchester United,34,8,0,0.24
-Patson Daka *,Leicester City,39,8,0,0.21
+Patson Daka ,Leicester City,39,8,0,0.21
 Marc Degryse,Sheffield Wednesday,34,8,0,0.24
 Aruna Dindane,Portsmouth FC,19,8,1,0.42
 Papa Bouba Diop,"Fulham FC,Portsmouth FC",129,8,0,0.06
-Graham Dorrans *,"Norwich City,West Bromwich Albion",142,8,1,0.06
- Eduardo,Arsenal FC,41,8,0,0.20
+Graham Dorrans ,"Norwich City,West Bromwich Albion",142,8,1,0.06
+ Eduardo,Arsenal FC,41,8,0,0.2
 Talal El-Karkouri,"Sunderland AFC,Charlton Athletic",86,8,0,0.09
-Eberechi Eze *,Crystal Palace,66,8,0,0.12
- Fabinho *,Liverpool FC,132,8,2,0.06
+Eberechi Eze ,Crystal Palace,66,8,0,0.12
+ Fabinho ,Liverpool FC,132,8,2,0.06
 Chris Fairclough,"Leeds United,Bolton Wanderers",119,8,0,0.07
 Gianluca Festa,Middlesbrough FC,100,8,0,0.08
 Sean Flynn,"Derby County,Coventry City",92,8,0,0.09
 Per Frandsen,Bolton Wanderers,134,8,0,0.06
- Fred *,Manchester United,120,8,0,0.07
+ Fred ,Manchester United,120,8,0,0.07
 Scott Gemmill,"Everton FC,Nottingham Forest",224,8,0,0.04
- Héctor Bellerín *,Arsenal FC,183,8,0,0.04
+ Héctor Bellerín ,Arsenal FC,183,8,0,0.04
 Colin Hendry,"Bolton Wanderers,Blackburn Rovers,Coventry City",218,8,0,0.04
-Abel Hernández *,Hull City,49,8,1,0.16
+Abel Hernández ,Hull City,49,8,1,0.16
 Aliaksandr Hleb,"Arsenal FC,Birmingham City",108,8,0,0.07
 David Hopkin,"Leeds United,Chelsea FC,Bradford City",124,8,0,0.06
 Ray Houghton,"Aston Villa,Crystal Palace",105,8,0,0.08
-Jonny Howson *,Norwich City,104,8,0,0.08
+Jonny Howson ,Norwich City,104,8,0,0.08
 Rob Hulse,"Queens Park Rangers,West Bromwich Albion,Sheffield United",36,8,0,0.22
 Radhi Jaïdi,"Bolton Wanderers,Birmingham City",62,8,0,0.13
 Daryl Janmaat,"Newcastle United,Watford FC",145,8,0,0.06
 Richard Jobson,"Leeds United,Oldham Athletic",99,8,0,0.08
 Ronny Johnsen,"Manchester United,Newcastle United,Aston Villa",151,8,0,0.05
-Stevan Jovetić *,Manchester City,30,8,0,0.27
+Stevan Jovetić ,Manchester City,30,8,0,0.27
 Jeff Kenna,"Southampton FC,Blackburn Rovers,Birmingham City",290,8,0,0.03
 Temur Ketsbaia,Newcastle United,76,8,0,0.11
-Andy King *,"Leicester City,Swansea City",94,8,0,0.09
-Aymeric Laporte *,Manchester City,112,8,0,0.07
-Martin Laursen,Aston Villa,84,8,0,0.10
+Andy King ,"Leicester City,Swansea City",94,8,0,0.09
+Aymeric Laporte ,Manchester City,112,8,0,0.07
+Martin Laursen,Aston Villa,84,8,0,0.1
 Chung-yong Lee,"Bolton Wanderers,Crystal Palace",105,8,0,0.08
 Sylvain Legwinski,Fulham FC,128,8,0,0.06
 David Lowe,Leicester City,29,8,0,0.28
-Solly March *,Brighton & Hove Albion,160,8,0,0.05
+Solly March ,Brighton & Hove Albion,160,8,0,0.05
 Russell Martin,Norwich City,125,8,0,0.06
-Joel Matip *,Liverpool FC,134,8,0,0.06
-Bryan Mbeumo *,Brentford FC,54,8,2,0.15
-Eddie McGoldrick,"Arsenal FC,Crystal Palace",80,8,0,0.10
+Joel Matip ,Liverpool FC,134,8,0,0.06
+Bryan Mbeumo ,Brentford FC,54,8,2,0.15
+Eddie McGoldrick,"Arsenal FC,Crystal Palace",80,8,0,0.1
 Olof Mellberg,Aston Villa,232,8,0,0.03
 Clive Mendonca,Charlton Athletic,25,8,3,0.32
 Joe-Max Moore,Everton FC,52,8,0,0.15
 Wes Morgan,Leicester City,170,8,0,0.05
- Morientes,Liverpool FC,41,8,0,0.20
+ Morientes,Liverpool FC,41,8,0,0.2
 Jon Newsome,"Leeds United,Norwich City,Sheffield Wednesday",155,8,0,0.05
 Andy O'Brien,"Newcastle United,Bolton Wanderers,Portsmouth FC,Bradford City",277,8,0,0.03
-Angelo Ogbonna *,West Ham United,178,8,0,0.04
+Angelo Ogbonna ,West Ham United,178,8,0,0.04
 Jonas Olsson,West Bromwich Albion,201,8,0,0.04
-Nicolás Otamendi *,Manchester City,136,8,0,0.06
+Nicolás Otamendi ,Manchester City,136,8,0,0.06
 Darren Peacock,"Newcastle United,Blackburn Rovers,Queens Park Rangers",231,8,0,0.03
 Chris Perry,"Charlton Athletic,Tottenham Hotspur,Wimbledon FC",363,8,0,0.02
-Jacob Ramsey *,Aston Villa,72,8,0,0.11
+Jacob Ramsey ,Aston Villa,72,8,0,0.11
 Steven Reid,"Blackburn Rovers,West Bromwich Albion,Burnley FC",192,8,0,0.04
  Ricardo Vaz Tê,"West Ham United,Bolton Wanderers",94,8,0,0.09
 Chris Riggott,"Derby County,Middlesbrough FC",165,8,0,0.05
-Andy Robertson *,"Liverpool FC,Hull City",234,8,0,0.03
+Andy Robertson ,"Liverpool FC,Hull City",234,8,0,0.03
 Cédric Roussel,Coventry City,38,8,0,0.21
 Petter Rudi,Sheffield Wednesday,76,8,0,0.11
 John Salako,"Charlton Athletic,Bolton Wanderers,Coventry City,Crystal Palace",150,8,1,0.05
 Georgios Samaras,"West Bromwich Albion,Manchester City",60,8,1,0.13
 Frank Sinclair,"Chelsea FC,Leicester City",287,8,0,0.03
-Islam Slimani *,"Newcastle United,Leicester City",40,8,1,0.20
+Islam Slimani ,"Newcastle United,Leicester City",40,8,1,0.2
 Alan Smith,Arsenal FC,75,8,0,0.11
 Ryan Taylor,"Newcastle United,Wigan Athletic",117,8,0,0.07
 Andy Todd,"Derby County,Charlton Athletic,Bolton Wanderers,Blackburn Rovers",172,8,0,0.05
- Trezeguet *,Aston Villa,56,8,0,0.14
+ Trezeguet ,Aston Villa,56,8,0,0.14
 Michael Turner,"Sunderland AFC,Norwich City,Hull City",158,8,0,0.05
 Juan Sebastián Verón,"Manchester United,Chelsea FC",58,8,0,0.14
-Jan Vertonghen *,Tottenham Hotspur,232,8,0,0.03
-Kyle Walker *,"Tottenham Hotspur,Aston Villa,Manchester City",346,8,0,0.02
+Jan Vertonghen ,Tottenham Hotspur,232,8,0,0.03
+Kyle Walker ,"Tottenham Hotspur,Aston Villa,Manchester City",346,8,0,0.02
 Steve Walsh,Leicester City,87,8,0,0.09
 Stephen Warnock,"Liverpool FC,Blackburn Rovers,Aston Villa",212,8,0,0.04
 Jack Wilshere,"West Ham United,Bolton Wanderers,Arsenal FC,AFC Bournemouth",182,8,0,0.04
-Andrey Yarmolenko *,West Ham United,66,8,0,0.12
+Andrey Yarmolenko ,West Ham United,66,8,0,0.12
 Joseph Yobo,"Everton FC,Norwich City",228,8,0,0.04
  Alex,Chelsea FC,86,7,0,0.08
 Graham Alexander,Burnley FC,33,7,6,0.21
 Morgan Amalfitano,"West Ham United,West Bromwich Albion",52,7,0,0.13
 Keith Andrews,"Blackburn Rovers,West Bromwich Albion,Wolverhampton Wanderers",85,7,1,0.08
 Aljoša Asanović,Derby County,38,7,5,0.18
-Phil Bardsley *,"Manchester United,Sunderland AFC,Aston Villa,Stoke City,Burnley FC",303,7,0,0.02
-Jan Bednarek *,"Southampton FC,Aston Villa",136,7,0,0.05
+Phil Bardsley ,"Manchester United,Sunderland AFC,Aston Villa,Stoke City,Burnley FC",303,7,0,0.02
+Jan Bednarek ,"Southampton FC,Aston Villa",136,7,0,0.05
 Guðni Bergsson,"Tottenham Hotspur,Bolton Wanderers",135,7,0,0.05
-Steven Bergwijn *,Tottenham Hotspur,60,7,0,0.12
-Ryan Bertrand *,"Chelsea FC,Southampton FC,Leicester City,Aston Villa",262,7,1,0.03
-Philip Billing *,"AFC Bournemouth,Huddersfield Town",96,7,0,0.07
+Steven Bergwijn ,Tottenham Hotspur,60,7,0,0.12
+Ryan Bertrand ,"Chelsea FC,Southampton FC,Leicester City,Aston Villa",262,7,1,0.03
+Philip Billing ,"AFC Bournemouth,Huddersfield Town",96,7,0,0.07
 Paul Bodin,Swindon Town,32,7,5,0.22
-Armando Broja *,"Chelsea FC,Southampton FC",45,7,0,0.16
+Armando Broja ,"Chelsea FC,Southampton FC",45,7,0,0.16
 Colin Calderwood,"Tottenham Hotspur,Aston Villa",189,7,0,0.04
-Calum Chambers *,"Southampton FC,Middlesbrough FC,Arsenal FC,Fulham FC,Aston Villa",166,7,0,0.04
+Calum Chambers ,"Southampton FC,Middlesbrough FC,Arsenal FC,Fulham FC,Aston Villa",166,7,0,0.04
 Neil Clement,"Chelsea FC,West Bromwich Albion",103,7,0,0.07
 Jack Collison,West Ham United,74,7,0,0.09
-Curtis Davies *,"Aston Villa,West Bromwich Albion,Birmingham City,Hull City",171,7,0,0.04
+Curtis Davies ,"Aston Villa,West Bromwich Albion,Birmingham City,Hull City",171,7,0,0.04
 Fabian Delph,"Aston Villa,Everton FC,Manchester City",204,7,0,0.03
  Denilson,Arsenal FC,96,7,0,0.07
-Alessandro Diamanti *,"West Ham United,Watford FC",31,7,4,0.23
-Luis Díaz *,Liverpool FC,21,7,0,0.33
-Issa Diop *,"West Ham United,Fulham FC",108,7,0,0.06
+Alessandro Diamanti ,"West Ham United,Watford FC",31,7,4,0.23
+Luis Díaz ,Liverpool FC,21,7,0,0.33
+Issa Diop ,"West Ham United,Fulham FC",108,7,0,0.06
 Sylvain Distin,"Newcastle United,Everton FC,Manchester City,Portsmouth FC,AFC Bournemouth",469,7,0,0.01
- Douglas Luiz *,Aston Villa,121,7,0,0.06
-Shane Duffy *,"Fulham FC,Everton FC,Brighton & Hove Albion",118,7,0,0.06
+ Douglas Luiz ,Aston Villa,121,7,0,0.06
+Shane Duffy ,"Fulham FC,Everton FC,Brighton & Hove Albion",118,7,0,0.06
 Darren Eadie,"Leicester City,Norwich City",81,7,0,0.09
 Chris Eagles,"Manchester United,Bolton Wanderers,Burnley FC",74,7,0,0.09
  Edu Gaspar,Arsenal FC,79,7,1,0.09
@@ -988,59 +988,59 @@ Stefano Eranio,Derby County,95,7,4,0.07
 Lauren Etame Mayer,"Arsenal FC,Portsmouth FC",184,7,2,0.04
 Patrice Evra,"Manchester United,West Ham United",278,7,0,0.03
 Stephen Glass,Newcastle United,42,7,0,0.17
-Anthony Gordon *,Everton FC,65,7,0,0.11
+Anthony Gordon ,Everton FC,65,7,0,0.11
 Jesper Grønkjær,"Chelsea FC,Birmingham City",104,7,0,0.07
 Jonás Gutiérrez,"Newcastle United,Norwich City",154,7,0,0.05
-Reece James *,Chelsea FC,90,7,0,0.08
- José Fonte *,"Southampton FC,West Ham United",178,7,0,0.04
-Nikola Kalinić *,Blackburn Rovers,44,7,0,0.16
-Naby Keïta *,Liverpool FC,80,7,0,0.09
+Reece James ,Chelsea FC,90,7,0,0.08
+ José Fonte ,"Southampton FC,West Ham United",178,7,0,0.04
+Nikola Kalinić ,Blackburn Rovers,44,7,0,0.16
+Naby Keïta ,Liverpool FC,80,7,0,0.09
 Michael Kightly,"Wolverhampton Wanderers,Stoke City,Burnley FC",75,7,0,0.09
 Giorgi Kinkladze,"Derby County,Manchester City",102,7,0,0.07
 Zat Knight,"Bolton Wanderers,Fulham FC,Aston Villa",284,7,0,0.02
-Dejan Kulusevski *,Tottenham Hotspur,30,7,0,0.23
+Dejan Kulusevski ,Tottenham Hotspur,30,7,0,0.23
 Shefki Kuqi,"Newcastle United,Blackburn Rovers,Fulham FC",50,7,0,0.14
 Liam Lawrence,"Sunderland AFC,Stoke City",74,7,1,0.09
 Stan Lazaridis,"West Ham United,Birmingham City",166,7,0,0.04
 Anders Limpar,"Arsenal FC,Everton FC",99,7,0,0.07
-Jake Livermore *,"Tottenham Hotspur,West Bromwich Albion,Hull City",196,7,0,0.04
-Dejan Lovren *,"Southampton FC,Liverpool FC",163,7,0,0.04
-Jean-Philippe Mateta *,Crystal Palace,44,7,0,0.16
+Jake Livermore ,"Tottenham Hotspur,West Bromwich Albion,Hull City",196,7,0,0.04
+Dejan Lovren ,"Southampton FC,Liverpool FC",163,7,0,0.04
+Jean-Philippe Mateta ,Crystal Palace,44,7,0,0.16
 David May,"Manchester United,Blackburn Rovers",159,7,0,0.04
-Dieumerci Mbokani *,"Norwich City,Hull City",41,7,0,0.17
+Dieumerci Mbokani ,"Norwich City,Hull City",41,7,0,0.17
 Jason McAteer,"Sunderland AFC,Liverpool FC,Bolton Wanderers,Blackburn Rovers",156,7,0,0.04
-Oliver McBurnie *,"Sheffield United,Swansea City",75,7,0,0.09
+Oliver McBurnie ,"Sheffield United,Swansea City",75,7,0,0.09
 Paul McGrath,"Derby County,Aston Villa",166,7,0,0.04
 Leon McKenzie,"Norwich City,Crystal Palace",40,7,0,0.18
-Jan Mølby,Liverpool FC,35,7,4,0.20
-Shkodran Mustafi *,"Arsenal FC,Everton FC",102,7,0,0.07
+Jan Mølby,Liverpool FC,35,7,4,0.2
+Shkodran Mustafi ,"Arsenal FC,Everton FC",102,7,0,0.07
 Jordon Mutch,"Queens Park Rangers,Crystal Palace,Birmingham City,Cardiff City",78,7,0,0.09
  Nacho Monreal,Arsenal FC,187,7,0,0.04
-Wilfred Ndidi *,Leicester City,179,7,0,0.04
+Wilfred Ndidi ,Leicester City,179,7,0,0.04
 Eddie Newton,Chelsea FC,164,7,0,0.04
 Shabani Nonda,Blackburn Rovers,26,7,1,0.27
-Stefano Okaka *,"Fulham FC,Watford FC",47,7,0,0.15
- Oriol Romeu *,"Chelsea FC,Southampton FC",239,7,0,0.03
+Stefano Okaka ,"Fulham FC,Watford FC",47,7,0,0.15
+ Oriol Romeu ,"Chelsea FC,Southampton FC",239,7,0,0.03
  Raúl Meireles,"Chelsea FC,Liverpool FC",66,7,0,0.11
 Andy Reid,"Sunderland AFC,Charlton Athletic,Tottenham Hotspur,Blackpool FC",115,7,0,0.06
 Martijn Reuser,Ipswich Town,50,7,0,0.14
 Claudio Reyna,"Sunderland AFC,Manchester City",104,7,0,0.07
  Ricardo Carvalho,Chelsea FC,136,7,0,0.05
-Declan Rice *,West Ham United,186,7,1,0.04
+Declan Rice ,West Ham United,186,7,1,0.04
 Dean Richards,"Southampton FC,Tottenham Hotspur",140,7,0,0.05
 Micah Richards,"Aston Villa,Manchester City",203,7,0,0.03
 Kevin Richardson,"Southampton FC,Aston Villa,Coventry City",207,7,0,0.03
-Bryan Ruiz,Fulham FC,68,7,0,0.10
+Bryan Ruiz,Fulham FC,68,7,0,0.1
 John Sheridan,"Bolton Wanderers,Sheffield Wednesday",112,7,5,0.06
 Craig Short,"Blackburn Rovers,Everton FC",182,7,0,0.04
-Dominic Solanke *,"Chelsea FC,Liverpool FC,AFC Bournemouth",79,7,0,0.09
- Soldado *,Tottenham Hotspur,52,7,4,0.13
-Alex Song *,"Charlton Athletic,West Ham United,Arsenal FC",190,7,0,0.04
+Dominic Solanke ,"Chelsea FC,Liverpool FC,AFC Bournemouth",79,7,0,0.09
+ Soldado ,Tottenham Hotspur,52,7,4,0.13
+Alex Song ,"Charlton Athletic,West Ham United,Arsenal FC",190,7,0,0.04
 Mario Stanić,Chelsea FC,59,7,0,0.12
 Dejan Stefanović,"Fulham FC,Sheffield Wednesday,Portsmouth FC",190,7,0,0.04
 Gordon Strachan,"Leeds United,Coventry City",96,7,2,0.07
-Adel Taarabt *,"Tottenham Hotspur,Fulham FC,Queens Park Rangers",86,7,0,0.08
-James Tarkowski *,"Everton FC,Burnley FC",213,7,0,0.03
+Adel Taarabt ,"Tottenham Hotspur,Fulham FC,Queens Park Rangers",86,7,0,0.08
+James Tarkowski ,"Everton FC,Burnley FC",213,7,0,0.03
 Somen Tchoyi,West Bromwich Albion,41,7,0,0.17
 Paul Telfer,"Southampton FC,Coventry City",318,7,0,0.02
 Svetoslav Todorov,"West Ham United,Portsmouth FC,Wigan Athletic",48,7,0,0.15
@@ -1050,58 +1050,58 @@ James Vaughan,"Everton FC,Norwich City",52,7,0,0.13
 Ramon Vega,Tottenham Hotspur,63,7,0,0.11
 David Wheater,"Middlesbrough FC,Bolton Wanderers",105,7,0,0.07
 Dean Whitehead,"Sunderland AFC,Stoke City,Huddersfield Town",234,7,2,0.03
-Harry Wilson *,"Liverpool FC,Fulham FC,AFC Bournemouth",42,7,0,0.17
+Harry Wilson ,"Liverpool FC,Fulham FC,AFC Bournemouth",42,7,0,0.17
 Jonathan Woodgate,"Leeds United,Newcastle United,Middlesbrough FC,Tottenham Hotspur,Stoke City",244,7,0,0.03
 Clarence Acuña,Newcastle United,46,6,0,0.13
 Marcus Allbäck,Aston Villa,35,6,0,0.17
-Sèrge Aurier *,"Tottenham Hotspur,Nottingham Forest",88,6,0,0.07
+Sèrge Aurier ,"Tottenham Hotspur,Nottingham Forest",88,6,0,0.07
 Markus Babbel,"Liverpool FC,Blackburn Rovers",67,6,0,0.09
-Leandro Bacuna *,"Aston Villa,Cardiff City",96,6,0,0.06
+Leandro Bacuna ,"Aston Villa,Cardiff City",96,6,0,0.06
 Sébastien Bassong,"Newcastle United,Tottenham Hotspur,Norwich City,Wolverhampton Wanderers",177,6,0,0.03
-Roman Bednář,West Bromwich Albion,30,6,2,0.20
+Roman Bednář,West Bromwich Albion,30,6,2,0.2
 Olivier Bernard,"Southampton FC,Newcastle United",115,6,0,0.05
 Kingsley Black,Nottingham Forest,36,6,0,0.17
 Jeroen Boere,West Ham United,25,6,0,0.24
-Jay Bothroyd,"Charlton Athletic,Blackburn Rovers,Queens Park Rangers,Coventry City",62,6,0,0.10
+Jay Bothroyd,"Charlton Athletic,Blackburn Rovers,Queens Park Rangers,Coventry City",62,6,0,0.1
 Hameur Bouazza,"Fulham FC,Watford FC",52,6,1,0.12
 Gary Caldwell,Wigan Athletic,99,6,0,0.06
-Todd Cantwell *,Norwich City,45,6,0,0.13
+Todd Cantwell ,Norwich City,45,6,0,0.13
 Tony Cascarino,Chelsea FC,29,6,0,0.21
 Lee Cattermole,"Sunderland AFC,Middlesbrough FC,Wigan Athletic",271,6,0,0.02
 Pascal Chimbonda,"Sunderland AFC,Tottenham Hotspur,Blackburn Rovers,Wigan Athletic",149,6,0,0.04
 José Cholevas,Watford FC,114,6,0,0.05
 Stephen Clemence,"Tottenham Hotspur,Birmingham City",176,6,0,0.03
-Sam Clucas *,"Hull City,Swansea City",66,6,0,0.09
-Conor Coady *,"Liverpool FC,Everton FC,Wolverhampton Wanderers",169,6,0,0.04
+Sam Clucas ,"Hull City,Swansea City",66,6,0,0.09
+Conor Coady ,"Liverpool FC,Everton FC,Wolverhampton Wanderers",169,6,0,0.04
 Tamir Cohen,Bolton Wanderers,49,6,0,0.12
 Chris Coleman,"Blackburn Rovers,Crystal Palace",101,6,0,0.06
 Wayne Collins,Sheffield Wednesday,31,6,0,0.19
 Neil Cox,"Middlesbrough FC,Bolton Wanderers,Aston Villa,Watford FC",143,6,0,0.04
 Keith Curle,Manchester City,130,6,5,0.05
 Samuele Dalla Bona,Chelsea FC,55,6,0,0.11
-Tom Davies *,Everton FC,145,6,0,0.04
-Laurent Depoitre *,Huddersfield Town,56,6,0,0.11
+Tom Davies ,Everton FC,145,6,0,0.04
+Laurent Depoitre ,Huddersfield Town,56,6,0,0.11
 Marcel Desailly,Chelsea FC,158,6,0,0.04
 Scott Dobie,West Bromwich Albion,36,6,0,0.17
 Gary Doherty,"Tottenham Hotspur,Norwich City",84,6,0,0.07
-Christophe Dugarry,Birmingham City,30,6,0,0.20
+Christophe Dugarry,Birmingham City,30,6,0,0.2
 Ahmed Elmohamady,"Sunderland AFC,Aston Villa,Hull City",197,6,0,0.03
-Paul Gallagher,Blackburn Rovers,61,6,0,0.10
+Paul Gallagher,Blackburn Rovers,61,6,0,0.1
 Finidi George,Ipswich Town,25,6,0,0.24
 Rudy Gestede,"Middlesbrough FC,Aston Villa,Cardiff City",51,6,0,0.12
 Bjarne Goldbæk,"Chelsea FC,Fulham FC",51,6,0,0.12
-Bontcho Guenchev,Ipswich Town,60,6,1,0.10
+Bontcho Guenchev,Ipswich Town,60,6,1,0.1
 Nick Henry,Oldham Athletic,54,6,0,0.11
 Glyn Hodges,"Nottingham Forest,Sheffield United",67,6,0,0.09
-Gary Hooper *,Norwich City,34,6,1,0.18
- Ivan Cavaleiro *,"Fulham FC,Wolverhampton Wanderers",59,6,1,0.10
-Vitaly Janelt *,Brentford FC,50,6,0,0.12
+Gary Hooper ,Norwich City,34,6,1,0.18
+ Ivan Cavaleiro ,"Fulham FC,Wolverhampton Wanderers",59,6,1,0.1
+Vitaly Janelt ,Brentford FC,50,6,0,0.12
 Mile Jedinak,Crystal Palace,90,6,4,0.07
  Jô,"Everton FC,Manchester City",48,6,1,0.13
-Bradley Johnson *,Norwich City,101,6,0,0.06
+Bradley Johnson ,Norwich City,101,6,0,0.06
 Gavin Johnson,Ipswich Town,73,6,0,0.08
 Ryan Jones,Sheffield Wednesday,41,6,0,0.15
-Shinji Kagawa *,Manchester United,38,6,0,0.16
+Shinji Kagawa ,Manchester United,38,6,0,0.16
 Olivier Kapo,"Birmingham City,Wigan Athletic",46,6,1,0.13
 Patrick Kluivert,Newcastle United,25,6,0,0.24
 Jason Koumas,"West Bromwich Albion,Wigan Athletic",96,6,1,0.06
@@ -1110,42 +1110,42 @@ Mickaël Madar,Everton FC,19,6,0,0.32
 Chris Marsden,"Southampton FC,Coventry City",136,6,0,0.04
 Paul Mason,Ipswich Town,43,6,0,0.14
 Alex Mathie,"Newcastle United,Ipswich Town",37,6,0,0.16
-Nemanja Matić *,"Manchester United,Chelsea FC",251,6,0,0.02
-Alfie Mawson *,"Fulham FC,Swansea City",80,6,0,0.08
+Nemanja Matić ,"Manchester United,Chelsea FC",251,6,0,0.02
+Alfie Mawson ,"Fulham FC,Swansea City",80,6,0,0.08
 John McGinlay,Bolton Wanderers,39,6,1,0.15
 Mario Melchiot,"Chelsea FC,Birmingham City,Wigan Athletic",283,6,0,0.02
 Per Mertesacker,Arsenal FC,156,6,0,0.04
 Kenny Miller,"Derby County,Wolverhampton Wanderers",55,6,0,0.11
 Danny Mills,"Leeds United,Derby County,Middlesbrough FC,Charlton Athletic,Manchester City",217,6,0,0.03
-Yerry Mina *,Everton FC,81,6,0,0.07
-Takumi Minamino *,"Southampton FC,Liverpool FC",40,6,0,0.15
+Yerry Mina ,Everton FC,81,6,0,0.07
+Takumi Minamino ,"Southampton FC,Liverpool FC",40,6,0,0.15
 Robert Molenaar,"Leeds United,Bradford City",72,6,0,0.08
-Andy Mutch,Swindon Town,30,6,0,0.20
+Andy Mutch,Swindon Town,30,6,0,0.2
 Adrian Mutu,Chelsea FC,27,6,0,0.22
 Dame N'Doye,"Sunderland AFC,Hull City",26,6,0,0.23
 Gary Naysmith,Everton FC,134,6,0,0.04
-Tanguy Ndombèlé *,Tottenham Hotspur,63,6,0,0.10
+Tanguy Ndombèlé ,Tottenham Hotspur,63,6,0,0.1
 Lucas Neill,"West Ham United,Blackburn Rovers,Everton FC",279,6,1,0.02
 Walter Pandiani,Birmingham City,31,6,1,0.19
- Paulinho *,Tottenham Hotspur,45,6,0,0.13
+ Paulinho ,Tottenham Hotspur,45,6,0,0.13
  Pedro Mendes,"Tottenham Hotspur,Portsmouth FC",88,6,0,0.07
 Karel Poborský,Manchester United,32,6,0,0.19
 Lee Power,Norwich City,23,6,0,0.26
 Winston Reid,West Ham United,166,6,0,0.04
- Ricardo Pereira *,Leicester City,92,6,0,0.07
-Callum Robinson *,"Aston Villa,West Bromwich Albion,Sheffield United",48,6,0,0.13
+ Ricardo Pereira ,Leicester City,92,6,0,0.07
+Callum Robinson ,"Aston Villa,West Bromwich Albion,Sheffield United",48,6,0,0.13
 John Robinson,Charlton Athletic,100,6,0,0.06
-James Rodríguez *,Everton FC,23,6,0,0.26
+James Rodríguez ,Everton FC,23,6,0,0.26
 Paul Rogers,Sheffield United,52,6,0,0.12
 Gary Rowett,"Derby County,Leicester City,Charlton Athletic,Everton FC",136,6,0,0.04
 Richard Rufus,Charlton Athletic,99,6,0,0.06
 Lawrie Sanchez,"Swindon Town,Wimbledon FC",50,6,0,0.12
 Facundo Sava,Fulham FC,27,6,0,0.22
 Philippe Senderos,"Arsenal FC,Fulham FC,Aston Villa,Everton FC",132,6,0,0.05
-Billy Sharp *,"Southampton FC,Sheffield United",43,6,2,0.14
+Billy Sharp ,"Southampton FC,Sheffield United",43,6,2,0.14
 Tommy Smith,"Queens Park Rangers,Watford FC,Portsmouth FC,Cardiff City",87,6,0,0.07
 Philip Stamp,Middlesbrough FC,93,6,0,0.06
-John Stones *,"Everton FC,Manchester City",211,6,0,0.03
+John Stones ,"Everton FC,Manchester City",211,6,0,0.03
 Nicky Summerbee,"Sunderland AFC,Manchester City,Swindon Town",147,6,0,0.04
 Andrew Surman,"Norwich City,Wolverhampton Wanderers,AFC Bournemouth",144,6,0,0.04
 Gary Taylor-Fletcher,"Leicester City,Blackpool FC",32,6,0,0.19
@@ -1153,30 +1153,30 @@ Michael Thomas,Liverpool FC,107,6,0,0.06
 Claus Thomsen,"Ipswich Town,Everton FC",55,6,0,0.11
 Stephen Ward,"Wolverhampton Wanderers,Burnley FC",171,6,0,0.04
 Dave Watson,Everton FC,223,6,0,0.03
-Adam Webster *,Brighton & Hove Albion,96,6,0,0.06
+Adam Webster ,Brighton & Hove Albion,96,6,0,0.06
 Ashley Williams,"Everton FC,Swansea City",241,6,0,0.02
-Maya Yoshida *,Southampton FC,154,6,0,0.04
+Maya Yoshida ,Southampton FC,154,6,0,0.04
 Eric Young,Crystal Palace,51,6,0,0.12
-Hakim Ziyech *,Chelsea FC,55,6,0,0.11
+Hakim Ziyech ,Chelsea FC,55,6,0,0.11
 Samassi Abou,West Ham United,22,5,0,0.23
-Malcolm Allen,Newcastle United,10,5,2,0.50
+Malcolm Allen,Newcastle United,10,5,2,0.5
  Anderson,Manchester United,105,5,0,0.05
-Scott Arfield *,Burnley FC,86,5,0,0.06
+Scott Arfield ,Burnley FC,86,5,0,0.06
 Celestine Babayaro,"Chelsea FC,Newcastle United",179,5,0,0.03
-Leon Bailey *,Aston Villa,36,5,0,0.14
+Leon Bailey ,Aston Villa,36,5,0,0.14
 David Batty,"Leeds United,Newcastle United,Blackburn Rovers",266,5,0,0.02
-Nadir Belhadj,Portsmouth FC,48,5,0,0.10
+Nadir Belhadj,Portsmouth FC,48,5,0,0.1
  Belletti,Chelsea FC,54,5,0,0.09
-David Bellion,"Manchester United,Sunderland AFC,West Ham United",52,5,0,0.10
+David Bellion,"Manchester United,Sunderland AFC,West Ham United",52,5,0,0.1
 Emre Belözoğlu,Newcastle United,58,5,1,0.09
- Bernard *,Everton FC,73,5,0,0.07
-Willy Boly *,"Nottingham Forest,Wolverhampton Wanderers",94,5,0,0.05
+ Bernard ,Everton FC,73,5,0,0.07
+Willy Boly ,"Nottingham Forest,Wolverhampton Wanderers",94,5,0,0.05
 Esteban Cambiasso,Leicester City,31,5,0,0.16
 Franz Carr,"Leicester City,Bolton Wanderers,Aston Villa,Sheffield United",39,5,0,0.13
-Craig Cathcart *,"Watford FC,Blackpool FC",183,5,0,0.03
-Eric Maxim Choupo-Moting *,Stoke City,30,5,0,0.17
+Craig Cathcart ,"Watford FC,Blackpool FC",183,5,0,0.03
+Eric Maxim Choupo-Moting ,Stoke City,30,5,0,0.17
 Jamie Clapham,"Tottenham Hotspur,Ipswich Town,Birmingham City",152,5,0,0.03
-Aaron Connolly *,Brighton & Hove Albion,45,5,0,0.11
+Aaron Connolly ,Brighton & Hove Albion,45,5,0,0.11
 Alan Cork,Sheffield United,46,5,0,0.11
 Sasa Ćurčić,"Bolton Wanderers,Aston Villa,Crystal Palace",65,5,0,0.08
 Olivier Dacourt,"Leeds United,Fulham FC,Everton FC",96,5,0,0.05
@@ -1185,248 +1185,248 @@ Mark Davies,Bolton Wanderers,85,5,0,0.06
 Fabian de Freitas,Bolton Wanderers,27,5,0,0.19
  Deco,Chelsea FC,43,5,0,0.12
 Ashkan Dejagah,Fulham FC,43,5,0,0.12
-Lucas Digne *,"Aston Villa,Everton FC",143,5,0,0.03
+Lucas Digne ,"Aston Villa,Everton FC",143,5,0,0.03
 Danny Drinkwater,"Chelsea FC,Leicester City,Aston Villa,Burnley FC",104,5,0,0.05
 Michael Duberry,"Leeds United,Chelsea FC,Reading FC",159,5,0,0.03
 Bruce Dyer,Crystal Palace,40,5,2,0.13
-David Edwards *,Wolverhampton Wanderers,61,5,0,0.08
+David Edwards ,Wolverhampton Wanderers,61,5,0,0.08
 Ronnie Ekelund,"Southampton FC,Manchester City",21,5,0,0.24
 Nathan Ellington,West Bromwich Albion,31,5,1,0.16
  Fábio Rochemback,Middlesbrough FC,68,5,0,0.07
 Craig Fagan,"Derby County,Birmingham City,Hull City",70,5,1,0.07
-Radamel Falcao *,"Manchester United,Chelsea FC",36,5,0,0.14
+Radamel Falcao ,"Manchester United,Chelsea FC",36,5,0,0.14
 Fabrice Fernandes,"Southampton FC,Bolton Wanderers",92,5,0,0.05
-John Fleck *,Sheffield United,61,5,0,0.08
+John Fleck ,Sheffield United,61,5,0,0.08
 Caleb Folan,"Hull City,Wigan Athletic",38,5,0,0.13
 Jonathan Fortune,Charlton Athletic,123,5,0,0.04
 Quinton Fortune,"Manchester United,Bolton Wanderers",82,5,0,0.06
 Guillermo Franco,West Ham United,23,5,0,0.22
 Paul Gascoigne,"Middlesbrough FC,Everton FC",66,5,1,0.08
 Darron Gibson,"Manchester United,Sunderland AFC,Everton FC",94,5,0,0.05
-Karlan Grant *,"West Bromwich Albion,Huddersfield Town",34,5,0,0.15
+Karlan Grant ,"West Bromwich Albion,Huddersfield Town",34,5,0,0.15
 Michael Gray,"Sunderland AFC,Blackburn Rovers",235,5,0,0.02
 David Healy,"Manchester United,Sunderland AFC,Fulham FC",44,5,0,0.11
 Neil Heaney,"Southampton FC,Arsenal FC",67,5,0,0.07
-Cucho Hernández *,Watford FC,25,5,0,0.20
+Cucho Hernández ,Watford FC,25,5,0,0.2
 Gonzalo Higuaín,Chelsea FC,14,5,0,0.36
 Matty Holmes,"West Ham United,Blackburn Rovers",67,5,0,0.07
 Aaron Hughes,"Newcastle United,Fulham FC,Aston Villa",455,5,0,0.01
 Stephen Hughes,"Arsenal FC,Everton FC",77,5,0,0.06
-Will Hughes *,"Watford FC,Crystal Palace",106,5,0,0.05
-Hee-chan Hwang *,Wolverhampton Wanderers,45,5,0,0.11
-José Izquierdo,Brighton & Hove Albion,48,5,0,0.10
-Adnan Januzaj *,"Manchester United,Sunderland AFC",75,5,0,0.07
+Will Hughes ,"Watford FC,Crystal Palace",106,5,0,0.05
+Hee-chan Hwang ,Wolverhampton Wanderers,45,5,0,0.11
+José Izquierdo,Brighton & Hove Albion,48,5,0,0.1
+Adnan Januzaj ,"Manchester United,Sunderland AFC",75,5,0,0.07
 Jiří Jarošík,"Chelsea FC,Birmingham City",38,5,0,0.13
 Nigel Jemson,Sheffield Wednesday,31,5,0,0.16
- João Cancelo *,Manchester City,98,5,0,0.05
- João Moutinho *,Wolverhampton Wanderers,161,5,0,0.03
+ João Cancelo ,Manchester City,98,5,0,0.05
+ João Moutinho ,Wolverhampton Wanderers,161,5,0,0.03
 Seth Johnson,"Leeds United,Derby County",120,5,0,0.04
 Wim Jonk,Sheffield Wednesday,68,5,1,0.07
- Jonny *,Wolverhampton Wanderers,101,5,0,0.05
-Alexander Kačaniklić *,Fulham FC,46,5,0,0.11
+ Jonny ,Wolverhampton Wanderers,101,5,0,0.05
+Alexander Kačaniklić ,Fulham FC,46,5,0,0.11
 Jimmy Kébé,"Crystal Palace,Reading FC",29,5,0,0.17
 Marc Keller,West Ham United,44,5,0,0.11
 Mark Kinsella,"Charlton Athletic,Aston Villa",108,5,0,0.05
-Mateusz Klich *,Leeds United,81,5,2,0.06
-Anthony Knockaert *,"Leicester City,Fulham FC,Brighton & Hove Albion",72,5,0,0.07
-Ezri Konsa *,Aston Villa,109,5,0,0.05
+Mateusz Klich ,Leeds United,81,5,2,0.06
+Anthony Knockaert ,"Leicester City,Fulham FC,Brighton & Hove Albion",72,5,0,0.07
+Ezri Konsa ,Aston Villa,109,5,0,0.05
 Willem Korsten,"Leeds United,Tottenham Hotspur",29,5,0,0.17
-Denny Landzaat,Wigan Athletic,52,5,1,0.10
+Denny Landzaat,Wigan Athletic,52,5,1,0.1
 Jamie Lawrence,"Leicester City,Bradford City",71,5,0,0.07
 Grant Leadbitter,"Sunderland AFC,Middlesbrough FC",80,5,0,0.06
 David Lee,Chelsea FC,79,5,1,0.06
 Neil Lennon,Leicester City,155,5,0,0.03
-Jefferson Lerma *,AFC Bournemouth,82,5,0,0.06
+Jefferson Lerma ,AFC Bournemouth,82,5,0,0.06
 Andy Linighan,"Arsenal FC,Crystal Palace",117,5,0,0.04
 Jari Litmanen,Liverpool FC,26,5,1,0.19
 Attilio Lombardo,Crystal Palace,24,5,0,0.21
-John Lundstram *,Sheffield United,62,5,0,0.08
+John Lundstram ,Sheffield United,62,5,0,0.08
 Mike Marsh,"Liverpool FC,West Ham United,Coventry City",94,5,0,0.05
 Phil Masinga,Leeds United,31,5,0,0.16
 Mike Milligan,"Norwich City,Oldham Athletic",107,5,0,0.05
 Lee Mills,Bradford City,21,5,0,0.24
-Simon Milton,Ipswich Town,51,5,0,0.10
-Tyrone Mings *,"Aston Villa,AFC Bournemouth",139,5,0,0.04
+Simon Milton,Ipswich Town,51,5,0,0.1
+Tyrone Mings ,"Aston Villa,AFC Bournemouth",139,5,0,0.04
 Kevin Moran,Blackburn Rovers,55,5,0,0.09
 Jody Morris,"Leeds United,Chelsea FC",135,5,0,0.04
-Émile Mpenza,Manchester City,25,5,0,0.20
+Émile Mpenza,Manchester City,25,5,0,0.2
 Fabrice Muamba,"Bolton Wanderers,Birmingham City",167,5,0,0.03
-Jacob Murphy *,Newcastle United,112,5,0,0.04
+Jacob Murphy ,Newcastle United,112,5,0,0.04
 Bruno N'Gotty,Bolton Wanderers,147,5,0,0.03
 Gary Neville,Manchester United,398,5,0,0.01
 Rob Newman,Norwich City,82,5,0,0.06
 Michel Ngonge,Watford FC,23,5,0,0.22
 Ian Nolan,"Sheffield Wednesday,Bradford City",186,5,0,0.03
-Darwin Núñez *,Liverpool FC,13,5,0,0.38
-Martin Olsson *,"Blackburn Rovers,Norwich City,Swansea City",196,5,0,0.03
- Pablo Hernández *,"Leeds United,Swansea City",73,5,0,0.07
+Darwin Núñez ,Liverpool FC,13,5,0,0.38
+Martin Olsson ,"Blackburn Rovers,Norwich City,Swansea City",196,5,0,0.03
+ Pablo Hernández ,"Leeds United,Swansea City",73,5,0,0.07
 Mladen Petrić,"West Ham United,Fulham FC",26,5,1,0.19
 Darryl Powell,"Derby County,Birmingham City",182,5,0,0.03
 Marc Pugh,AFC Bournemouth,67,5,0,0.07
- Rafael *,Manchester United,109,5,0,0.05
+ Rafael ,Manchester United,109,5,0,0.05
 Marc Rieper,West Ham United,91,5,0,0.05
 Robert Rosario,"Nottingham Forest,Coventry City",39,5,0,0.13
-Bakary Sako *,Crystal Palace,47,5,0,0.11
+Bakary Sako ,Crystal Palace,47,5,0,0.11
 Vincent Samways,"Tottenham Hotspur,Everton FC",96,5,0,0.05
-Jadon Sancho *,Manchester United,39,5,0,0.13
+Jadon Sancho ,Manchester United,39,5,0,0.13
 Stefan Schwarz,"Sunderland AFC,Arsenal FC",101,5,0,0.05
-Ki-hyeon Seol,"Fulham FC,Reading FC",48,5,0,0.10
+Ki-hyeon Seol,"Fulham FC,Reading FC",48,5,0,0.1
 Gerald Sibon,Sheffield Wednesday,28,5,0,0.18
-Mamady Sidibe,Stoke City,48,5,0,0.10
+Mamady Sidibe,Stoke City,48,5,0,0.1
 Florent Sinama-Pongolle,"Liverpool FC,Blackburn Rovers",47,5,0,0.11
 Allan Smart,Watford FC,14,5,0,0.36
-Adam Smith *,"Tottenham Hotspur,AFC Bournemouth",162,5,0,0.03
+Adam Smith ,"Tottenham Hotspur,AFC Bournemouth",162,5,0,0.03
 Trond Soltvedt,"Southampton FC,Coventry City",87,5,0,0.06
 Grétar Steinsson,Bolton Wanderers,126,5,0,0.04
 Paul Stewart,"Sunderland AFC,Liverpool FC",56,5,1,0.09
 Mick Stockwell,Ipswich Town,96,5,0,0.05
- Thiago Silva *,Chelsea FC,72,5,0,0.07
-Kieran Trippier *,"Newcastle United,Tottenham Hotspur,Burnley FC",132,5,0,0.04
+ Thiago Silva ,Chelsea FC,72,5,0,0.07
+Kieran Trippier ,"Newcastle United,Tottenham Hotspur,Burnley FC",132,5,0,0.04
 Robert Ullathorne,"Leicester City,Norwich City",74,5,0,0.07
 Luke Varney,Blackpool FC,30,5,0,0.17
 David Vaughan,"Sunderland AFC,Blackpool FC",83,5,0,0.06
-Carlos Vela *,"Arsenal FC,West Bromwich Albion",37,5,0,0.14
- Víctor Camarasa *,"Crystal Palace,Cardiff City",33,5,1,0.15
+Carlos Vela ,"Arsenal FC,West Bromwich Albion",37,5,0,0.14
+ Víctor Camarasa ,"Crystal Palace,Cardiff City",33,5,1,0.15
 Andriy Voronin,Liverpool FC,27,5,0,0.19
- Wesley *,Aston Villa,25,5,0,0.20
+ Wesley ,Aston Villa,25,5,0,0.2
 Paul Williams,"Southampton FC,Coventry City",204,5,0,0.02
 Daniel Williamson,"West Ham United,Everton FC",66,5,0,0.08
 Nigel Winterburn,"West Ham United,Arsenal FC",352,5,0,0.01
 Alan Wright,"Middlesbrough FC,Blackburn Rovers,Aston Villa,Sheffield United",304,5,0,0.02
 Mark Wright,Liverpool FC,137,5,0,0.04
 Tommy Wright,Middlesbrough FC,36,5,0,0.14
-Nikola Žigić,Birmingham City,25,5,0,0.20
+Nikola Žigić,Birmingham City,25,5,0,0.2
 Gary Ablett,Everton FC,111,4,0,0.04
 Micky Adams,Southampton FC,57,4,0,0.07
  Albert Riera,"Liverpool FC,Manchester City",55,4,0,0.07
 Paul Allen,"Southampton FC,Tottenham Hotspur",82,4,0,0.05
-Julián Álvarez *,Manchester City,14,4,0,0.29
+Julián Álvarez ,Manchester City,14,4,0,0.29
 Andreas Andersson,Newcastle United,27,4,0,0.15
-Florin Andone *,Brighton & Hove Albion,26,4,0,0.15
- Andreas Pereira *,"Manchester United,Fulham FC",65,4,1,0.06
+Florin Andone ,Brighton & Hove Albion,26,4,0,0.15
+ Andreas Pereira ,"Manchester United,Fulham FC",65,4,1,0.06
  Àngel Rangel,Swansea City,169,4,0,0.02
 Oussama Assaidi,"Liverpool FC,Stoke City",32,4,0,0.13
 Benoît Assou-Ekotto,Tottenham Hotspur,155,4,0,0.03
-Taiwo Awoniyi *,Nottingham Forest,16,4,0,0.25
+Taiwo Awoniyi ,Nottingham Forest,16,4,0,0.25
 Phil Babb,"Sunderland AFC,Liverpool FC,Coventry City",231,4,0,0.02
 Chris Baird,"Southampton FC,Fulham FC,West Bromwich Albion",153,4,0,0.03
 Ibrahima Bakayoko,Everton FC,23,4,0,0.17
 Sol Bamba,Cardiff City,28,4,0,0.14
 Darren Barnard,"Chelsea FC,Barnsley FC",60,4,0,0.07
 Valon Behrami,"West Ham United,Watford FC",106,4,0,0.04
-Rodrigo Bentancur *,Tottenham Hotspur,32,4,0,0.13
+Rodrigo Bentancur ,Tottenham Hotspur,32,4,0,0.13
 Rolando Bianchi,Manchester City,19,4,0,0.21
 André Bikey,"Burnley FC,Reading FC",65,4,0,0.06
 Ian Bishop,"West Ham United,Manchester City",144,4,0,0.03
-Daley Blind *,Manchester United,90,4,0,0.04
+Daley Blind ,Manchester United,90,4,0,0.04
 Fredi Bobic,Bolton Wanderers,16,4,0,0.25
 Tomas Brolin,"Leeds United,Crystal Palace",32,4,0,0.13
 Michael Brown,"Tottenham Hotspur,Fulham FC,Manchester City,Portsmouth FC,Wigan Athletic",194,4,0,0.02
 Wes Brown,"Manchester United,Sunderland AFC",308,4,0,0.01
- Bruno Ribeiro,Leeds United,41,4,0,0.10
+ Bruno Ribeiro,Leeds United,41,4,0,0.1
 Dave Busst,Coventry City,50,4,0,0.08
-Felipe Caicedo *,Manchester City,27,4,0,0.15
+Felipe Caicedo ,Manchester City,27,4,0,0.15
 Colin Cameron,Wolverhampton Wanderers,30,4,1,0.13
 Andy Campbell,Middlesbrough FC,48,4,0,0.08
-Matty Cash *,Aston Villa,81,4,0,0.05
+Matty Cash ,Aston Villa,81,4,0,0.05
 Darren Caskey,Tottenham Hotspur,32,4,0,0.13
-Timothy Castagne *,Leicester City,72,4,0,0.06
+Timothy Castagne ,Leicester City,72,4,0,0.06
 Stewart Castledine,Wimbledon FC,26,4,0,0.15
-Nathaniel Clyne *,"Southampton FC,Liverpool FC,Crystal Palace,AFC Bournemouth",227,4,0,0.02
+Nathaniel Clyne ,"Southampton FC,Liverpool FC,Crystal Palace,AFC Bournemouth",227,4,0,0.02
 Fabricio Coloccini,Newcastle United,211,4,0,0.02
 Daniel Cousin,Hull City,30,4,0,0.13
 Jamie Cureton,Norwich City,17,4,0,0.24
 Martin Dahlin,Blackburn Rovers,26,4,0,0.15
 Christian Dailly,"Derby County,West Ham United,Blackburn Rovers",196,4,0,0.02
- Danilo *,Manchester City,34,4,0,0.12
-Marten de Roon *,Middlesbrough FC,33,4,0,0.12
+ Danilo ,Manchester City,34,4,0,0.12
+Marten de Roon ,Middlesbrough FC,33,4,0,0.12
 Arjan de Zeeuw,"Portsmouth FC,Wigan Athletic,Barnsley FC",146,4,0,0.03
 David Di Michele,West Ham United,30,4,0,0.13
 Ilie Dumitrescu,"Tottenham Hotspur,West Ham United",28,4,1,0.14
 Gordon Durie,Tottenham Hotspur,27,4,0,0.15
 Emmanuel Eboué,Arsenal FC,132,4,1,0.03
 Wade Elliott,Burnley FC,38,4,0,0.11
-Mohamed Elyounoussi *,Southampton FC,64,4,0,0.06
+Mohamed Elyounoussi ,Southampton FC,64,4,0,0.06
  Emerson,Middlesbrough FC,32,4,1,0.13
 Dickson Etuhu,"Sunderland AFC,Fulham FC",111,4,0,0.04
 Micky Evans,Southampton FC,22,4,0,0.18
- Fábio Silva *,Wolverhampton Wanderers,54,4,1,0.07
+ Fábio Silva ,Wolverhampton Wanderers,54,4,1,0.07
 Peter Fear,Wimbledon FC,72,4,0,0.06
 Anton Ferdinand,"Sunderland AFC,West Ham United,Queens Park Rangers",218,4,0,0.02
-Federico Fernández *,"Newcastle United,Swansea City",199,4,0,0.02
- Fernando *,Manchester City,64,4,0,0.06
+Federico Fernández ,"Newcastle United,Swansea City",199,4,0,0.02
+ Fernando ,Manchester City,64,4,0,0.06
 Maynor Figueroa,"Hull City,Wigan Athletic",214,4,0,0.02
 Mark Fish,"Charlton Athletic,Bolton Wanderers",124,4,0,0.03
 Mauro Formica,Blackburn Rovers,34,4,0,0.12
 Steve Froggatt,"Aston Villa,Coventry City",75,4,0,0.05
-Ramiro Funes Mori *,Everton FC,55,4,0,0.07
+Ramiro Funes Mori ,Everton FC,55,4,0,0.07
 Brian Gayle,Sheffield United,44,4,0,0.09
 Emanuele Giaccherini,Sunderland AFC,32,4,0,0.13
 Carl Griffiths,Manchester City,18,4,0,0.22
 Gilles Grimandi,Arsenal FC,114,4,0,0.04
 Ruud Gullit,Chelsea FC,48,4,0,0.08
 Danny Guthrie,"Newcastle United,Liverpool FC,Bolton Wanderers,Reading FC",103,4,1,0.04
-Isaac Hayden *,"Newcastle United,Arsenal FC",118,4,0,0.03
- Hélder Costa *,"Leeds United,Wolverhampton Wanderers",48,4,0,0.08
+Isaac Hayden ,"Newcastle United,Arsenal FC",118,4,0,0.03
+ Hélder Costa ,"Leeds United,Wolverhampton Wanderers",48,4,0,0.08
 Ian Holloway,Queens Park Rangers,107,4,0,0.04
-Conor Hourihane *,Aston Villa,31,4,0,0.13
+Conor Hourihane ,Aston Villa,31,4,0,0.13
 Georgi Hristov,Barnsley FC,21,4,0,0.19
-Callum Hudson-Odoi *,Chelsea FC,72,4,0,0.06
+Callum Hudson-Odoi ,Chelsea FC,72,4,0,0.06
 Ritchie Humphreys,Sheffield Wednesday,59,4,0,0.07
-Jordon Ibe *,"Liverpool FC,AFC Bournemouth",119,4,0,0.03
+Jordon Ibe ,"Liverpool FC,AFC Bournemouth",119,4,0,0.03
 Brown Ideye,West Bromwich Albion,24,4,0,0.17
  Ilan,West Ham United,11,4,0,0.36
 Junichi Inamoto,"Fulham FC,West Bromwich Albion",66,4,0,0.06
 Ívar Ingimarsson,Reading FC,72,4,0,0.06
 Matt Jackson,"Everton FC,Wigan Athletic",144,4,0,0.03
-Simeon Jackson *,Norwich City,35,4,0,0.11
+Simeon Jackson ,Norwich City,35,4,0,0.11
 Eoin Jess,"Coventry City,Bradford City",56,4,0,0.07
- Jesús Navas *,Manchester City,123,4,0,0.03
+ Jesús Navas ,Manchester City,123,4,0,0.03
 Andreas Johansson,Wigan Athletic,28,4,0,0.14
-Brennan Johnson *,Nottingham Forest,19,4,1,0.21
+Brennan Johnson ,Nottingham Forest,19,4,1,0.21
 Damien Johnson,"Blackburn Rovers,Birmingham City",178,4,0,0.02
  José Dominguez,Tottenham Hotspur,45,4,0,0.09
-Christian Kabasele *,Watford FC,108,4,0,0.04
+Christian Kabasele ,Watford FC,108,4,0,0.04
 Christian Karembeu,Middlesbrough FC,33,4,0,0.12
- Kenedy *,"Chelsea FC,Newcastle United,Watford FC",55,4,0,0.07
+ Kenedy ,"Chelsea FC,Newcastle United,Watford FC",55,4,0,0.07
 Martin Keown,"Arsenal FC,Everton FC",323,4,0,0.01
 Mateja Kežman,Chelsea FC,25,4,1,0.16
 Robert Koren,"West Bromwich Albion,Hull City",57,4,0,0.07
 Darko Kovačević,Sheffield Wednesday,16,4,0,0.25
-Libor Kozák *,Aston Villa,18,4,0,0.22
+Libor Kozák ,Aston Villa,18,4,0,0.22
 Carl Leaburn,Wimbledon FC,55,4,0,0.07
 David Linighan,Ipswich Town,112,4,0,0.04
- Llorente *,Leeds United,51,4,0,0.08
-Sean Longstaff *,Newcastle United,97,4,0,0.04
-Matthew Lowton *,"Aston Villa,Burnley FC",231,4,0,0.02
- Lucas Pérez *,"West Ham United,Arsenal FC",26,4,0,0.15
-Federico Macheda *,"Manchester United,Queens Park Rangers",22,4,0,0.18
+ Llorente ,Leeds United,51,4,0,0.08
+Sean Longstaff ,Newcastle United,97,4,0,0.04
+Matthew Lowton ,"Aston Villa,Burnley FC",231,4,0,0.02
+ Lucas Pérez ,"West Ham United,Arsenal FC",26,4,0,0.15
+Federico Macheda ,"Manchester United,Queens Park Rangers",22,4,0,0.18
 Modibo Maïga,West Ham United,34,4,0,0.12
-Lazar Marković *,"Liverpool FC,Fulham FC,Hull City",32,4,0,0.13
+Lazar Marković ,"Liverpool FC,Fulham FC,Hull City",32,4,0,0.13
 Dean Marney,"Tottenham Hotspur,Hull City,Burnley FC",96,4,0,0.04
 Craig Maskell,"Southampton FC,Swindon Town",31,4,1,0.13
-Sean McCarthy,Oldham Athletic,20,4,0,0.20
-Nathaniel Mendez-Laing *,Cardiff City,20,4,1,0.20
+Sean McCarthy,Oldham Athletic,20,4,0,0.2
+Nathaniel Mendez-Laing ,Cardiff City,20,4,1,0.2
  Mendieta,Middlesbrough FC,62,4,0,0.06
 David Meyler,"Sunderland AFC,Hull City",103,4,0,0.04
 Nenad Milijaš,Wolverhampton Wanderers,62,4,0,0.06
 Scott Minto,"Chelsea FC,West Ham United",105,4,0,0.04
-Kieffer Moore *,AFC Bournemouth,19,4,0,0.21
+Kieffer Moore ,AFC Bournemouth,19,4,0,0.21
 Lee Morris,Derby County,38,4,0,0.11
 Sulley Ali Muntari,"Sunderland AFC,Portsmouth FC",38,4,1,0.11
 Daryl Murphy,Sunderland AFC,72,4,0,0.06
- Nolito *,Manchester City,19,4,0,0.21
-Christian Nørgaard *,Brentford FC,44,4,0,0.09
-Michael Obafemi *,Southampton FC,32,4,0,0.13
-Michael Olise *,Crystal Palace,44,4,0,0.09
+ Nolito ,Manchester City,19,4,0,0.21
+Christian Nørgaard ,Brentford FC,44,4,0,0.09
+Michael Obafemi ,Southampton FC,32,4,0,0.13
+Michael Olise ,Crystal Palace,44,4,0,0.09
 Nedum Onuoha,"Sunderland AFC,Queens Park Rangers,Manchester City",187,4,0,0.02
 Noé Pamarot,"Tottenham Hotspur,Portsmouth FC",90,4,0,0.04
-Thomas Partey *,Arsenal FC,63,4,0,0.06
-Callum Paterson *,Cardiff City,27,4,0,0.15
+Thomas Partey ,Arsenal FC,63,4,0,0.06
+Callum Paterson ,Cardiff City,27,4,0,0.15
 Martin Paterson,Burnley FC,23,4,0,0.17
 Andy Pearce,"Sheffield Wednesday,Coventry City,Wimbledon FC",99,4,0,0.04
 Emanuel Pogatetz,"Middlesbrough FC,West Ham United",116,4,0,0.03
-Andrew Preece,Crystal Palace,20,4,0,0.20
+Andrew Preece,Crystal Palace,20,4,0,0.2
 Martin Pringle,Charlton Athletic,25,4,0,0.16
 Preki Radosavljevic,Everton FC,46,4,0,0.09
 Alan Reeves,Wimbledon FC,57,4,0,0.07
@@ -1439,56 +1439,56 @@ Craig Russell,Sunderland AFC,28,4,0,0.14
 Bacary Sagna,"Arsenal FC,Manchester City",267,4,0,0.01
  Sandro,"Tottenham Hotspur,Queens Park Rangers,West Bromwich Albion",110,4,0,0.04
 Keith Scott,Swindon Town,27,4,0,0.15
-Ryan Sessegnon *,"Tottenham Hotspur,Fulham FC",72,4,0,0.06
+Ryan Sessegnon ,"Tottenham Hotspur,Fulham FC",72,4,0,0.06
 Nicky Shorey,"Fulham FC,Aston Villa,West Bromwich Albion,Reading FC",176,4,0,0.02
 Robbie Slater,"Southampton FC,West Ham United,Blackburn Rovers",83,4,0,0.05
 Bernie Slaven,Middlesbrough FC,18,4,0,0.22
 David Sommeil,"Manchester City,Sheffield United",53,4,0,0.08
-Jack Stephens *,"Southampton FC,AFC Bournemouth",125,4,0,0.03
-Pascal Struijk *,Leeds United,73,4,0,0.05
-Cristhian Stuani *,Middlesbrough FC,23,4,0,0.17
-Crysencio Summerville *,Leeds United,18,4,0,0.22
+Jack Stephens ,"Southampton FC,AFC Bournemouth",125,4,0,0.03
+Pascal Struijk ,Leeds United,73,4,0,0.05
+Cristhian Stuani ,Middlesbrough FC,23,4,0,0.17
+Crysencio Summerville ,Leeds United,18,4,0,0.22
 Michael Svensson,Southampton FC,60,4,0,0.07
-Shaun Taylor,Swindon Town,42,4,0,0.10
+Shaun Taylor,Swindon Town,42,4,0,0.1
 Alexander Tettey,Norwich City,101,4,0,0.04
-Steven Thompson,Burnley FC,20,4,0,0.20
+Steven Thompson,Burnley FC,20,4,0,0.2
  Tiago,Chelsea FC,34,4,0,0.12
 Mark Venus,Ipswich Town,54,4,0,0.07
-Jannik Vestergaard *,"Southampton FC,Leicester City",82,4,0,0.05
+Jannik Vestergaard ,"Southampton FC,Leicester City",82,4,0,0.05
 Michel Vonk,Manchester City,82,4,0,0.05
-Joel Ward *,"Portsmouth FC,Crystal Palace",268,4,0,0.01
+Joel Ward ,"Portsmouth FC,Crystal Palace",268,4,0,0.01
 George Weah,"Chelsea FC,Manchester City",18,4,0,0.22
-Danny Webber,"Portsmouth FC,Sheffield United",39,4,0,0.10
-Glenn Whelan *,Stoke City,277,4,0,0.01
+Danny Webber,"Portsmouth FC,Sheffield United",39,4,0,0.1
+Glenn Whelan ,Stoke City,277,4,0,0.01
 Peter Whittingham,"Aston Villa,Cardiff City",88,4,1,0.05
 Steve Whitton,Ipswich Town,35,4,1,0.11
- Zanka *,"Huddersfield Town,Brentford FC",82,4,0,0.05
-Rayan Aït Nouri *,Wolverhampton Wanderers,58,3,0,0.05
- Alberto Moreno *,Liverpool FC,90,3,0,0.03
-Antolín Alcaráz *,"Everton FC,Wigan Athletic",83,3,0,0.04
+ Zanka ,"Huddersfield Town,Brentford FC",82,4,0,0.05
+Rayan Aït Nouri ,Wolverhampton Wanderers,58,3,0,0.05
+ Alberto Moreno ,Liverpool FC,90,3,0,0.03
+Antolín Alcaráz ,"Everton FC,Wigan Athletic",83,3,0,0.04
 Lorenzo Amoruso,Blackburn Rovers,18,3,0,0.17
 Viv Anderson,Sheffield Wednesday,26,3,0,0.12
- Antony *,Manchester United,10,3,0,0.30
-Adam Armstrong *,"Southampton FC,Newcastle United",56,3,0,0.05
-Harry Arter *,"AFC Bournemouth,Cardiff City",94,3,0,0.03
-Christian Atsu *,"Newcastle United,Everton FC",80,3,0,0.04
-Fabián Balbuena *,West Ham United,54,3,0,0.06
+ Antony ,Manchester United,10,3,0,0.3
+Adam Armstrong ,"Southampton FC,Newcastle United",56,3,0,0.05
+Harry Arter ,"AFC Bournemouth,Cardiff City",94,3,0,0.03
+Christian Atsu ,"Newcastle United,Everton FC",80,3,0,0.04
+Fabián Balbuena ,West Ham United,54,3,0,0.06
 Kevin Ball,Sunderland AFC,43,3,0,0.07
 David Bardsley,Queens Park Rangers,131,3,0,0.02
-Kyle Bartley *,"West Bromwich Albion,Swansea City",51,3,0,0.06
+Kyle Bartley ,"West Bromwich Albion,Swansea City",51,3,0,0.06
 DaMarcus Beasley,Manchester City,18,3,0,0.17
 Jean Beausejour,"Birmingham City,Wigan Athletic",67,3,0,0.04
 Ali Benarbia,Manchester City,33,3,0,0.09
-Christian Benítez,Birmingham City,30,3,0,0.10
-Ryan Bennett *,"Leicester City,Norwich City,Wolverhampton Wanderers",110,3,0,0.03
+Christian Benítez,Birmingham City,30,3,0,0.1
+Ryan Bennett ,"Leicester City,Norwich City,Wolverhampton Wanderers",110,3,0,0.03
 Nicola Berti,Tottenham Hotspur,21,3,0,0.14
-Yves Bissouma *,"Tottenham Hotspur,Brighton & Hove Albion",130,3,0,0.02
-Mark Blake,"Leicester City,Aston Villa",31,3,0,0.10
+Yves Bissouma ,"Tottenham Hotspur,Brighton & Hove Albion",130,3,0,0.02
+Mark Blake,"Leicester City,Aston Villa",31,3,0,0.1
 Regi Blinker,Sheffield Wednesday,42,3,0,0.07
-Gary Blissett,Wimbledon FC,31,3,0,0.10
-Kevin-Prince Boateng *,"Tottenham Hotspur,Portsmouth FC",36,3,1,0.08
+Gary Blissett,Wimbledon FC,31,3,0,0.1
+Kevin-Prince Boateng ,"Tottenham Hotspur,Portsmouth FC",36,3,1,0.08
  Bosingwa,"Chelsea FC,Queens Park Rangers",112,3,0,0.03
-Sofiane Boufal *,Southampton FC,70,3,0,0.04
+Sofiane Boufal ,Southampton FC,70,3,0,0.04
 Carl Bradshaw,"Norwich City,Sheffield United",98,3,1,0.03
 Michael Branch,Everton FC,41,3,0,0.07
 Tim Breacker,West Ham United,141,3,0,0.02
@@ -1497,139 +1497,139 @@ Mark Brennan,Oldham Athletic,25,3,0,0.12
 Wayne Bridge,"Chelsea FC,Southampton FC,Sunderland AFC,West Ham United,Fulham FC,Manchester City",315,3,0,0.01
 Ian Bryson,Sheffield United,16,3,0,0.19
 David Burrows,"Liverpool FC,West Ham United,Everton FC,Coventry City",195,3,0,0.02
-Tom Cairney *,"Fulham FC,Hull City",72,3,0,0.04
+Tom Cairney ,"Fulham FC,Hull City",72,3,0,0.04
 Steven Caldwell,"Leeds United,Newcastle United,Sunderland AFC,Wigan Athletic,Burnley FC",89,3,0,0.03
-Joel Campbell *,Arsenal FC,23,3,0,0.13
+Joel Campbell ,Arsenal FC,23,3,0,0.13
  Carlos Cuéllar,"Sunderland AFC,Aston Villa",124,3,0,0.02
 Jamie Carragher,Liverpool FC,508,3,0,0.01
 Darren Carter,"West Bromwich Albion,Birmingham City",51,3,0,0.06
 Jimmy Carter,Arsenal FC,19,3,0,0.16
- Cédric *,"Southampton FC,Arsenal FC",158,3,0,0.02
+ Cédric ,"Southampton FC,Arsenal FC",158,3,0,0.02
 Nick Chadwick,Everton FC,13,3,0,0.23
-Trevoh Chalobah *,Chelsea FC,31,3,0,0.10
+Trevoh Chalobah ,Chelsea FC,31,3,0,0.1
 Gary Charles,"West Ham United,Aston Villa,Nottingham Forest",98,3,0,0.03
 Simon Charlton,"Southampton FC,Bolton Wanderers,Norwich City",235,3,0,0.01
 Laurent Charvet,"Chelsea FC,Newcastle United,Manchester City",71,3,0,0.04
-James Chester *,"Aston Villa,West Bromwich Albion,Hull City",60,3,0,0.05
+James Chester ,"Aston Villa,West Bromwich Albion,Hull City",60,3,0,0.05
  Chico,Swansea City,57,3,0,0.05
-Gaël Clichy *,"Arsenal FC,Manchester City",325,3,0,0.01
+Gaël Clichy ,"Arsenal FC,Manchester City",325,3,0,0.01
 Danny Collins,"Sunderland AFC,Stoke City",147,3,0,0.02
 John Collins,"Fulham FC,Everton FC",93,3,0,0.03
 Paul Cook,Coventry City,37,3,2,0.08
 Bernardo Corradi,Manchester City,25,3,0,0.12
-Steve Cotterill,Wimbledon FC,6,3,0,0.50
-Gerry Creaney,Manchester City,15,3,0,0.20
+Steve Cotterill,Wimbledon FC,6,3,0,0.5
+Gerry Creaney,Manchester City,15,3,0,0.2
 Ian Crook,Norwich City,106,3,0,0.03
 Pascal Cygan,Arsenal FC,63,3,0,0.05
-Manuel Da Costa *,West Ham United,31,3,0,0.10
+Manuel Da Costa ,West Ham United,31,3,0,0.1
 Tony Daley,Aston Villa,40,3,0,0.08
 Stéphane Dalmat,Tottenham Hotspur,22,3,0,0.14
-Joshua Dasilva *,Brentford FC,28,3,0,0.11
+Joshua Dasilva ,Brentford FC,28,3,0,0.11
 Damien Delaney,"Leicester City,Crystal Palace",138,3,0,0.02
 Martín Demichelis,Manchester City,78,3,0,0.04
 Paul Devlin,Birmingham City,34,3,2,0.09
-Kiernan Dewsbury-Hall *,Leicester City,45,3,0,0.07
-Ángel Di María *,Manchester United,27,3,0,0.11
-Mbaye Diagne *,West Bromwich Albion,16,3,0,0.19
+Kiernan Dewsbury-Hall ,Leicester City,45,3,0,0.07
+Ángel Di María ,Manchester United,27,3,0,0.11
+Mbaye Diagne ,West Bromwich Albion,16,3,0,0.19
  Diego Tristán,West Ham United,14,3,0,0.21
-Moussa Djénépo *,Southampton FC,68,3,0,0.04
+Moussa Djénépo ,Southampton FC,68,3,0,0.04
 Didier Domi,"Leeds United,Newcastle United",67,3,0,0.04
 Mal Donaghy,Chelsea FC,68,3,0,0.04
 O'Neill Donaldson,Sheffield Wednesday,14,3,0,0.21
 Tony Dorigo,"Leeds United,Derby County",174,3,2,0.02
 Royston Drenthe,Everton FC,21,3,0,0.14
-Paul Dummett *,Newcastle United,146,3,0,0.02
+Paul Dummett ,Newcastle United,146,3,0,0.02
 Karim El Ahmadi,Aston Villa,51,3,0,0.06
 Taher El-Khalej,"Southampton FC,Charlton Athletic",61,3,0,0.05
-Anthony Elanga *,Manchester United,36,3,0,0.08
+Anthony Elanga ,Manchester United,36,3,0,0.08
  Émerson Thome,"Chelsea FC,Sunderland AFC,Bolton Wanderers,Sheffield Wednesday",152,3,0,0.02
 John Eustace,"Middlesbrough FC,Coventry City",49,3,0,0.06
  Fábio Aurélio,Liverpool FC,87,3,0,0.03
- Fabio Carvalho *,"Liverpool FC,Fulham FC",15,3,0,0.20
-Sofiane Féghouli *,West Ham United,21,3,0,0.14
+ Fabio Carvalho ,"Liverpool FC,Fulham FC",15,3,0,0.2
+Sofiane Féghouli ,West Ham United,21,3,0,0.14
 Barry Ferguson,"Blackburn Rovers,Birmingham City",108,3,0,0.03
 Gelson Fernandes,Manchester City,43,3,0,0.07
 Robert Fleck,Chelsea FC,40,3,0,0.08
 Ionel Ganea,Wolverhampton Wanderers,16,3,0,0.19
 Maurizio Gaudino,Manchester City,20,3,0,0.15
-Morgan Gibbs-White *,"Nottingham Forest,Wolverhampton Wanderers",64,3,0,0.05
+Morgan Gibbs-White ,"Nottingham Forest,Wolverhampton Wanderers",64,3,0,0.05
 Gaël Givet,Blackburn Rovers,99,3,0,0.03
-Paul Goddard,Ipswich Town,30,3,0,0.10
+Paul Goddard,Ipswich Town,30,3,0,0.1
 Danny Granville,"Leeds United,Chelsea FC,Manchester City,Crystal Palace",81,3,0,0.04
 Julian Gray,"Arsenal FC,Fulham FC,Birmingham City",55,3,0,0.05
-Scott Green,Bolton Wanderers,31,3,0,0.10
-Idrissa Gueye *,"Aston Villa,Everton FC",148,3,0,0.02
+Scott Green,Bolton Wanderers,31,3,0,0.1
+Idrissa Gueye ,"Aston Villa,Everton FC",148,3,0,0.02
 Brynjar Gunnarsson,Reading FC,43,3,0,0.07
 Arnar Gunnlaugsson,"Leicester City,Bolton Wanderers",45,3,0,0.07
 Fitz Hall,"Southampton FC,Queens Park Rangers,Crystal Palace,Wigan Athletic",86,3,0,0.03
 Gareth Hall,"Chelsea FC,Sunderland AFC",87,3,0,0.03
-Grant Hanley *,"Blackburn Rovers,Norwich City",79,3,0,0.04
+Grant Hanley ,"Blackburn Rovers,Norwich City",79,3,0,0.04
 Jon Harley,"Chelsea FC,Fulham FC",55,3,0,0.05
-Kortney Hause *,"Aston Villa,Wolverhampton Wanderers",32,3,0,0.09
+Kortney Hause ,"Aston Villa,Wolverhampton Wanderers",32,3,0,0.09
 Vegard Heggem,Liverpool FC,53,3,0,0.06
 Johnny Heitinga,"Fulham FC,Everton FC",129,3,0,0.02
 Darius Henderson,Watford FC,35,3,1,0.09
-Rico Henry *,Brentford FC,51,3,0,0.06
+Rico Henry ,Brentford FC,51,3,0,0.06
 Steve Hodge,"Leeds United,Queens Park Rangers",45,3,0,0.07
-Mason Holgate *,Everton FC,122,3,0,0.02
+Mason Holgate ,Everton FC,122,3,0,0.02
 Barry Horne,"Everton FC,Sheffield Wednesday",130,3,0,0.02
 David Hughes,Southampton FC,52,3,0,0.06
 Alan Hutton,"Sunderland AFC,Tottenham Hotspur,Aston Villa",151,3,0,0.02
 Micah Hyde,Watford FC,34,3,0,0.09
- Iborra *,Leicester City,27,3,0,0.11
-Tom Ince *,"Crystal Palace,Huddersfield Town,Hull City",48,3,0,0.06
-Alexander Isak *,Newcastle United,4,3,1,0.75
-Pontus Jansson *,Brentford FC,44,3,0,0.07
-Carl Jenkinson *,"West Ham United,Arsenal FC",93,3,0,0.03
- João Palhinha *,Fulham FC,19,3,0,0.16
- João Pedro *,Watford FC,31,3,0,0.10
+ Iborra ,Leicester City,27,3,0,0.11
+Tom Ince ,"Crystal Palace,Huddersfield Town,Hull City",48,3,0,0.06
+Alexander Isak ,Newcastle United,4,3,1,0.75
+Pontus Jansson ,Brentford FC,44,3,0,0.07
+Carl Jenkinson ,"West Ham United,Arsenal FC",93,3,0,0.03
+ João Palhinha ,Fulham FC,19,3,0,0.16
+ João Pedro ,Watford FC,31,3,0,0.1
 Richard Johnson,Watford FC,23,3,1,0.13
 Mo Johnston,Everton FC,12,3,0,0.25
 Billy Jones,"Sunderland AFC,West Bromwich Albion",131,3,0,0.02
-Curtis Jones *,Liverpool FC,50,3,0,0.06
+Curtis Jones ,Liverpool FC,50,3,0,0.06
 David Jones,"Derby County,Wolverhampton Wanderers,Wigan Athletic,Burnley FC",112,3,0,0.03
 Steve Jones,"Charlton Athletic,West Ham United",44,3,0,0.07
  Júlio Baptista,Arsenal FC,24,3,0,0.13
-Aboubakar Kamara *,Fulham FC,24,3,1,0.13
-Pajtim Kasami *,Fulham FC,38,3,0,0.08
+Aboubakar Kamara ,Fulham FC,24,3,1,0.13
+Pajtim Kasami ,Fulham FC,38,3,0,0.08
 Alan Kernaghan,"Middlesbrough FC,Manchester City",74,3,0,0.04
-Wahbi Khazri *,Sunderland AFC,35,3,0,0.09
+Wahbi Khazri ,Sunderland AFC,35,3,0,0.09
 Vladimír Kinder,Middlesbrough FC,11,3,0,0.27
 Joonas Kolkka,Crystal Palace,23,3,0,0.13
-Lamine Koné *,Sunderland AFC,45,3,0,0.07
+Lamine Koné ,Sunderland AFC,45,3,0,0.07
 Radoslav Kováč,West Ham United,53,3,0,0.06
-Mateo Kovačić *,Chelsea FC,130,3,0,0.02
+Mateo Kovačić ,Chelsea FC,130,3,0,0.02
 Sotirios Kyrgiakos,"Sunderland AFC,Liverpool FC",33,3,0,0.09
 Jacob Laursen,"Derby County,Leicester City",147,3,0,0.02
 Anthony Le Tallec,"Sunderland AFC,Liverpool FC",44,3,0,0.07
-Mario Lemina *,"Southampton FC,Fulham FC,Wolverhampton Wanderers",75,3,0,0.04
-Jeremain Lens *,Sunderland AFC,22,3,0,0.14
-Victor Lindelöf *,Manchester United,144,3,0,0.02
-Jürgen Locadia *,Brighton & Hove Albion,35,3,0,0.09
-Josh Maja *,"Sunderland AFC,Fulham FC",15,3,1,0.20
+Mario Lemina ,"Southampton FC,Fulham FC,Wolverhampton Wanderers",75,3,0,0.04
+Jeremain Lens ,Sunderland AFC,22,3,0,0.14
+Victor Lindelöf ,Manchester United,144,3,0,0.02
+Jürgen Locadia ,Brighton & Hove Albion,35,3,0,0.09
+Josh Maja ,"Sunderland AFC,Fulham FC",15,3,1,0.2
 Carlos Marinelli,Middlesbrough FC,43,3,0,0.07
 Ryan Mason,"Tottenham Hotspur,Hull City",69,3,0,0.04
 Dominic Matteo,"Leeds United,Liverpool FC,Blackburn Rovers",276,3,0,0.01
-Garath McCleary *,Reading FC,31,3,0,0.10
+Garath McCleary ,Reading FC,31,3,0,0.1
 Alan McDonald,Queens Park Rangers,116,3,0,0.03
-Paul McGregor,Nottingham Forest,30,3,0,0.10
+Paul McGregor,Nottingham Forest,30,3,0,0.1
 Billy McKinlay,"Leicester City,Blackburn Rovers,Fulham FC,Bradford City",119,3,0,0.03
 Stephen McPhail,Leeds United,78,3,0,0.04
 Gary McSheffrey,"Coventry City,Birmingham City",40,3,3,0.08
-Neil Mellor,"Liverpool FC,Wigan Athletic",15,3,0,0.20
+Neil Mellor,"Liverpool FC,Wigan Athletic",15,3,0,0.2
 Ishmael Miller,"West Bromwich Albion,Manchester City",38,3,0,0.08
 Tommy Miller,"Sunderland AFC,Ipswich Town",37,3,0,0.08
-Kaoru Mitoma *,Brighton & Hove Albion,13,3,0,0.23
+Kaoru Mitoma ,Brighton & Hove Albion,13,3,0,0.23
 Chris Morris,Middlesbrough FC,52,3,1,0.06
-Ravel Morrison *,"West Ham United,Sheffield United",18,3,0,0.17
-Sean Morrison *,"Cardiff City,Reading FC",49,3,0,0.06
+Ravel Morrison ,"West Ham United,Sheffield United",18,3,0,0.17
+Sean Morrison ,"Cardiff City,Reading FC",49,3,0,0.06
 Hayden Mullins,"West Ham United,Portsmouth FC",151,3,0,0.02
-Josh Murphy *,"Norwich City,Cardiff City",38,3,0,0.08
+Josh Murphy ,"Norwich City,Cardiff City",38,3,0,0.08
 Kiki Musampa,Manchester City,40,3,0,0.08
 Christian Nadé,Sheffield United,25,3,0,0.12
  Nayim,Tottenham Hotspur,18,3,0,0.17
 Richard Naylor,Ipswich Town,26,3,0,0.12
-Reiss Nelson *,Arsenal FC,25,3,0,0.12
+Reiss Nelson ,Arsenal FC,25,3,0,0.12
 Ricky Newman,Crystal Palace,37,3,0,0.08
 Mark Nicholls,Chelsea FC,35,3,0,0.09
 Garry O'Connor,Birmingham City,36,3,0,0.08
@@ -1637,9 +1637,9 @@ Victor Obinna,West Ham United,25,3,0,0.12
 Seyi Olofinjana,"Stoke City,Hull City",37,3,0,0.08
 Simon Osborn,"Queens Park Rangers,Crystal Palace",40,3,0,0.08
 Daniel Osvaldo,Southampton FC,13,3,0,0.23
-Sokratis Papastathopoulos *,Arsenal FC,44,3,0,0.07
+Sokratis Papastathopoulos ,Arsenal FC,44,3,0,0.07
 Joseph Parkinson,Everton FC,90,3,0,0.03
- Pedro Obiang *,West Ham United,91,3,0,0.03
+ Pedro Obiang ,West Ham United,91,3,0,0.03
 Sixto Peralta,Ipswich Town,22,3,0,0.14
 Jimmy Phillips,"Middlesbrough FC,Bolton Wanderers",99,3,0,0.03
 Neil Pointon,Oldham Athletic,59,3,0,0.05
@@ -1647,57 +1647,57 @@ Jamie Pollock,"Middlesbrough FC,Bolton Wanderers",79,3,0,0.04
 Gheorghe Popescu,Tottenham Hotspur,23,3,0,0.13
  Porfirio,"West Ham United,Nottingham Forest",32,3,0,0.09
 Linvoy Primus,Portsmouth FC,113,3,0,0.03
-Alex Pritchard *,"Tottenham Hotspur,West Bromwich Albion,Huddersfield Town",48,3,0,0.06
+Alex Pritchard ,"Tottenham Hotspur,West Bromwich Albion,Huddersfield Town",48,3,0,0.06
 Sebastian Prödl,Watford FC,77,3,0,0.04
 Nigel Quashie,"Southampton FC,West Ham United,Nottingham Forest,Queens Park Rangers,West Bromwich Albion,Portsmouth FC",95,3,0,0.03
 Alan Quinn,"Sheffield Wednesday,Sheffield United",40,3,0,0.08
-Stephen Quinn *,"Sheffield United,Hull City",58,3,0,0.05
+Stephen Quinn ,"Sheffield United,Hull City",58,3,0,0.05
 Karl Ready,Queens Park Rangers,60,3,0,0.05
 David Rennie,Coventry City,82,3,0,0.04
-Aki Riihilahti,Crystal Palace,31,3,0,0.10
+Aki Riihilahti,Crystal Palace,31,3,0,0.1
 Andy Roberts,"Crystal Palace,Wimbledon FC",81,3,0,0.04
- Rúben Dias *,Manchester City,74,3,0,0.04
+ Rúben Dias ,Manchester City,74,3,0,0.04
 Matthew Rush,West Ham United,33,3,0,0.09
-Mamadou Sakho *,"Liverpool FC,Crystal Palace",128,3,0,0.02
-Davinson Sánchez *,Tottenham Hotspur,135,3,0,0.02
+Mamadou Sakho ,"Liverpool FC,Crystal Palace",128,3,0,0.02
+Davinson Sánchez ,Tottenham Hotspur,135,3,0,0.02
 John Scales,"Liverpool FC,Tottenham Hotspur,Ipswich Town,Wimbledon FC",172,3,0,0.02
-Gianluca Scamacca *,West Ham United,16,3,0,0.19
+Gianluca Scamacca ,West Ham United,16,3,0,0.19
 Riccardo Scimeca,"Leicester City,Aston Villa,West Bromwich Albion",136,3,0,0.02
- Sergi Canós *,"Liverpool FC,Brentford FC",37,3,0,0.08
-Luke Shaw *,"Manchester United,Southampton FC",223,3,0,0.01
+ Sergi Canós ,"Liverpool FC,Brentford FC",37,3,0,0.08
+Luke Shaw ,"Manchester United,Southampton FC",223,3,0,0.01
 Fitzroy Simpson,Manchester City,61,3,0,0.05
 Danny Sonner,Sheffield Wednesday,53,3,0,0.06
-Çağlar Söyüncü *,Leicester City,92,3,0,0.03
+Çağlar Söyüncü ,Leicester City,92,3,0,0.03
 Igor Štimac,"Derby County,West Ham United",100,3,0,0.03
 Jihai Sun,Manchester City,123,3,0,0.02
 Daryl Sutch,Norwich City,55,3,0,0.05
  Sylvinho,"Arsenal FC,Manchester City",65,3,0,0.05
 Teemu Tainio,"Sunderland AFC,Tottenham Hotspur,Birmingham City",88,3,0,0.03
-Matt Targett *,"Southampton FC,Newcastle United,Aston Villa",152,3,0,0.02
+Matt Targett ,"Southampton FC,Newcastle United,Aston Villa",152,3,0,0.02
 Michael Tarnat,Manchester City,32,3,0,0.09
 Bob Taylor,"Bolton Wanderers,West Bromwich Albion",16,3,0,0.19
 Martin Taylor,"Blackburn Rovers,Birmingham City",111,3,0,0.03
-Geoff Thomas,"Nottingham Forest,Crystal Palace",31,3,0,0.10
+Geoff Thomas,"Nottingham Forest,Crystal Palace",31,3,0,0.1
 Neil Thompson,"Ipswich Town,Barnsley FC",78,3,0,0.04
-Kieran Tierney *,Arsenal FC,79,3,0,0.04
+Kieran Tierney ,Arsenal FC,79,3,0,0.04
 Carl Tiler,"Charlton Athletic,Aston Villa,Everton FC,Nottingham Forest",106,3,0,0.03
 Jon Dahl Tomasson,Newcastle United,23,3,0,0.13
-Lucas Torreira *,Arsenal FC,63,3,0,0.05
+Lucas Torreira ,Arsenal FC,63,3,0,0.05
 Orlando Trustfull,Sheffield Wednesday,19,3,0,0.16
 Andy Turner,Tottenham Hotspur,20,3,0,0.15
-Donny van de Beek *,"Manchester United,Everton FC",41,3,0,0.07
+Donny van de Beek ,"Manchester United,Everton FC",41,3,0,0.07
 Rajiv van La Parra,Huddersfield Town,38,3,1,0.08
-Eduardo Vargas *,Queens Park Rangers,21,3,0,0.14
-Tolis Vellios *,Everton FC,22,3,0,0.14
-Jan Vennegoor of Hesselink,Hull City,31,3,0,0.10
+Eduardo Vargas ,Queens Park Rangers,21,3,0,0.14
+Tolis Vellios ,Everton FC,22,3,0,0.14
+Jan Vennegoor of Hesselink,Hull City,31,3,0,0.1
 Emanuel Villa,Derby County,16,3,0,0.19
 Ross Wallace,"Sunderland AFC,Burnley FC",36,3,0,0.08
-Duncan Watmore *,Sunderland AFC,37,3,0,0.08
+Duncan Watmore ,Sunderland AFC,37,3,0,0.08
 Steven Whittaker,Norwich City,41,3,0,0.07
 Tommy Widdrington,Southampton FC,72,3,0,0.04
 Clyde Wijnhard,Leeds United,18,3,0,0.17
 Ray Wilkins,"Queens Park Rangers,Crystal Palace",84,3,0,0.04
-James Wilson *,Manchester United,15,3,0,0.20
+James Wilson ,Manchester United,15,3,0,0.2
 Stuart Wilson,Leicester City,22,3,0,0.14
 Nigel Worthington,"Leeds United,Sheffield Wednesday",114,3,0,0.03
 Christopher Wreh,Arsenal FC,27,3,0,0.11
@@ -1708,44 +1708,44 @@ Theodoros Zagorakis,Leicester City,50,3,0,0.06
 Kamil Zayatte,Hull City,55,3,0,0.05
 Ronald Zubar,Wolverhampton Wanderers,53,3,0,0.06
 Ysrael Zuñiga,Coventry City,22,3,0,0.14
-Rolando Aarons *,Newcastle United,18,2,0,0.11
+Rolando Aarons ,Newcastle United,18,2,0,0.11
 Almen Abdi,Watford FC,32,2,0,0.06
  Abel Xavier,"Middlesbrough FC,Liverpool FC,Everton FC",74,2,0,0.03
 Ibrahim Afellay,Stoke City,49,2,0,0.04
 Steve Agnew,"Sunderland AFC,Leicester City",26,2,1,0.08
-Ola Aina *,"Chelsea FC,Fulham FC",34,2,0,0.06
-Gareth Ainsworth,Wimbledon FC,10,2,0,0.20
-Semi Ajayi *,"Arsenal FC,West Bromwich Albion",33,2,0,0.06
-Ezgjan Alioski *,Leeds United,36,2,0,0.06
+Ola Aina ,"Chelsea FC,Fulham FC",34,2,0,0.06
+Gareth Ainsworth,Wimbledon FC,10,2,0,0.2
+Semi Ajayi ,"Arsenal FC,West Bromwich Albion",33,2,0,0.06
+Ezgjan Alioski ,Leeds United,36,2,0,0.06
 Clive Allen,West Ham United,7,2,0,0.29
-Rory Allen,Tottenham Hotspur,20,2,0,0.10
-Josmer Altidore *,"Sunderland AFC,Hull City",70,2,0,0.03
-Sone Aluko *,Hull City,42,2,0,0.05
-Daniel Amartey *,Leicester City,102,2,0,0.02
+Rory Allen,Tottenham Hotspur,20,2,0,0.1
+Josmer Altidore ,"Sunderland AFC,Hull City",70,2,0,0.03
+Sone Aluko ,Hull City,42,2,0,0.05
+Daniel Amartey ,Leicester City,102,2,0,0.02
 Sammy Ameobi,Newcastle United,61,2,0,0.03
-Joachim Andersen *,"Fulham FC,Crystal Palace",82,2,0,0.02
+Joachim Andersen ,"Fulham FC,Crystal Palace",82,2,0,0.02
  André Santos,Arsenal FC,23,2,0,0.09
-Vurnon Anita *,Newcastle United,106,2,0,0.02
-Jaidon Anthony *,AFC Bournemouth,14,2,0,0.14
+Vurnon Anita ,Newcastle United,106,2,0,0.02
+Jaidon Anthony ,AFC Bournemouth,14,2,0,0.14
  Arbeloa,"Liverpool FC,West Ham United",69,2,0,0.03
-Joe Aribo *,Southampton FC,18,2,0,0.11
-Luke Ayling *,Leeds United,75,2,0,0.03
-Tiemoué Bakayoko *,Chelsea FC,29,2,0,0.07
-George Baldock *,Sheffield United,70,2,0,0.03
+Joe Aribo ,Southampton FC,18,2,0,0.11
+Luke Ayling ,Leeds United,75,2,0,0.03
+Tiemoué Bakayoko ,Chelsea FC,29,2,0,0.07
+George Baldock ,Sheffield United,70,2,0,0.03
 Igor Bališ,West Bromwich Albion,28,2,1,0.07
-Barry Bannan *,"Aston Villa,Crystal Palace",86,2,1,0.02
-Alex Baptiste,"Middlesbrough FC,Blackpool FC",21,2,0,0.10
+Barry Bannan ,"Aston Villa,Crystal Palace",86,2,1,0.02
+Alex Baptiste,"Middlesbrough FC,Blackpool FC",21,2,0,0.1
 Paul Beesley,"Leeds United,Sheffield United",86,2,0,0.02
-Elliott Bennett *,Norwich City,60,2,0,0.03
+Elliott Bennett ,Norwich City,60,2,0,0.03
 John Beresford,"Southampton FC,Newcastle United",154,2,0,0.01
-Sander Berge *,Sheffield United,29,2,1,0.07
-Thievy Bifouma *,West Bromwich Albion,6,2,0,0.33
+Sander Berge ,Sheffield United,29,2,1,0.07
+Thievy Bifouma ,West Bromwich Albion,6,2,0,0.33
 Slaven Bilić,"West Ham United,Everton FC",76,2,0,0.03
 Igor Bišćan,Liverpool FC,72,2,0,0.03
 Stig Inge Bjørnebye,"Liverpool FC,Blackburn Rovers",162,2,0,0.01
 Clayton Blackmore,"Manchester United,Middlesbrough FC",35,2,0,0.06
 Jesper Blomqvist,"Manchester United,Charlton Athletic,Everton FC",43,2,0,0.05
-Jayden Bogle *,Sheffield United,16,2,0,0.13
+Jayden Bogle ,Sheffield United,16,2,0,0.13
 Jared Borgetti,Bolton Wanderers,19,2,0,0.11
 Brian Borrows,Coventry City,144,2,0,0.01
 Jovo Bosančić,Barnsley FC,17,2,1,0.12
@@ -1753,29 +1753,29 @@ Paul Bosvelt,Manchester City,53,2,0,0.04
 Steve Bould,"Sunderland AFC,Arsenal FC",196,2,0,0.01
 Miguel Britos,Watford FC,66,2,0,0.03
 Steve Brown,Charlton Athletic,59,2,0,0.03
-Josh Brownhill *,Burnley FC,78,2,0,0.03
-Dan Burn *,"Newcastle United,Fulham FC,Brighton & Hove Albion",118,2,0,0.02
+Josh Brownhill ,Burnley FC,78,2,0,0.03
+Dan Burn ,"Newcastle United,Fulham FC,Brighton & Hove Albion",118,2,0,0.02
 Paul Butler,"Sunderland AFC,Wolverhampton Wanderers",72,2,0,0.03
-Alexander Büttner *,Manchester United,13,2,0,0.15
+Alexander Büttner ,Manchester United,13,2,0,0.15
 Ákos Buzsáky,Queens Park Rangers,18,2,0,0.11
-Moisés Caicedo *,Brighton & Hove Albion,25,2,0,0.08
- Cala *,Cardiff City,7,2,0,0.29
+Moisés Caicedo ,Brighton & Hove Albion,25,2,0,0.08
+ Cala ,Cardiff City,7,2,0,0.29
 Geoff Cameron,Stoke City,168,2,0,0.01
- Carles Gil *,Aston Villa,28,2,0,0.07
- Carlos Vinícius *,"Tottenham Hotspur,Fulham FC",21,2,0,0.10
+ Carles Gil ,Aston Villa,28,2,0,0.07
+ Carlos Vinícius ,"Tottenham Hotspur,Fulham FC",21,2,0,0.1
 Tom Carroll,"Tottenham Hotspur,Swansea City",94,2,0,0.02
- Casemiro *,Manchester United,16,2,0,0.13
+ Casemiro ,Manchester United,16,2,0,0.13
 Luke Chadwick,Manchester United,24,2,0,0.08
 Steve Chettle,Nottingham Forest,174,2,2,0.01
 Bruno Cheyrou,Liverpool FC,31,2,0,0.06
 Youssef Chippo,Coventry City,65,2,0,0.03
 Simon Coleman,"Bolton Wanderers,Sheffield Wednesday",28,2,0,0.07
-Nathan Collins *,"Wolverhampton Wanderers,Burnley FC",35,2,0,0.06
-Liam Cooper *,"Leeds United,Hull City",61,2,0,0.03
-Daniel Cordone,Newcastle United,21,2,0,0.10
+Nathan Collins ,"Wolverhampton Wanderers,Burnley FC",35,2,0,0.06
+Liam Cooper ,"Leeds United,Hull City",61,2,0,0.03
+Daniel Cordone,Newcastle United,21,2,0,0.1
 Vedran Ćorluka,"Tottenham Hotspur,Manchester City",119,2,0,0.02
 Richard Cresswell,"Leicester City,Sheffield Wednesday,Stoke City",66,2,0,0.03
-Patrick Cutrone *,Wolverhampton Wanderers,14,2,0,0.14
+Patrick Cutrone ,Wolverhampton Wanderers,14,2,0,0.14
 Liam Daish,Coventry City,31,2,0,0.06
  Dani,West Ham United,8,2,0,0.25
 Jean-Claude Darcheville,Nottingham Forest,16,2,0,0.13
@@ -1783,42 +1783,42 @@ Calum Davenport,"Southampton FC,Sunderland AFC,Tottenham Hotspur,West Ham United
 Callum Davidson,"Leicester City,Blackburn Rovers",106,2,0,0.02
 Andy Dawson,Hull City,60,2,0,0.03
 Ulises De la Cruz,"Aston Villa,Reading FC",104,2,0,0.02
-Ritchie De Laet *,"Manchester United,Leicester City,Norwich City",47,2,0,0.04
-Mathieu Debuchy *,"Newcastle United,Arsenal FC",56,2,0,0.04
+Ritchie De Laet ,"Manchester United,Leicester City,Norwich City",47,2,0,0.04
+Mathieu Debuchy ,"Newcastle United,Arsenal FC",56,2,0,0.04
 Steven Defour,Burnley FC,51,2,0,0.04
 Mark Delaney,Aston Villa,158,2,0,0.01
-Nathan Delfouneso *,Aston Villa,31,2,0,0.06
+Nathan Delfouneso ,Aston Villa,31,2,0,0.06
 Jay DeMerit,Watford FC,32,2,0,0.06
-Memphis Depay *,Manchester United,33,2,0,0.06
+Memphis Depay ,Manchester United,33,2,0,0.06
 Salif Diao,"Liverpool FC,Portsmouth FC,Birmingham City,Stoke City",100,2,0,0.02
-Adama Diomandé *,Hull City,22,2,0,0.09
+Adama Diomandé ,Hull City,22,2,0,0.09
 Kerry Dixon,Southampton FC,9,2,0,0.22
-Georgios Donis,Blackburn Rovers,20,2,0,0.10
+Georgios Donis,Blackburn Rovers,20,2,0,0.1
 Landon Donovan,Everton FC,17,2,0,0.12
 David Edgar,"Newcastle United,Burnley FC",23,2,0,0.09
-John Egan *,"Sunderland AFC,Sheffield United",67,2,0,0.03
+John Egan ,"Sunderland AFC,Sheffield United",67,2,0,0.03
 Eljero Elia,Southampton FC,16,2,0,0.13
 Gary Elkins,Wimbledon FC,82,2,0,0.02
 Stephen Elliott,"Sunderland AFC,Manchester City",17,2,0,0.12
 George Elokobi,Wolverhampton Wanderers,58,2,0,0.03
- Emerson Royal *,Tottenham Hotspur,46,2,0,0.04
-Delroy Facey,Bolton Wanderers,10,2,0,0.20
+ Emerson Royal ,Tottenham Hotspur,46,2,0,0.04
+Delroy Facey,Bolton Wanderers,10,2,0,0.2
 Gareth Farrelly,"Bolton Wanderers,Aston Villa,Everton FC",60,2,0,0.03
-Evan Ferguson *,Brighton & Hove Albion,5,2,0,0.40
+Evan Ferguson ,Brighton & Hove Albion,5,2,0,0.4
 Curtis Fleming,Middlesbrough FC,146,2,0,0.01
 Kevin Foley,Wolverhampton Wanderers,74,2,0,0.03
 Danny Fox,"Southampton FC,Burnley FC",37,2,0,0.05
-Ryan Fredericks *,"Tottenham Hotspur,West Ham United,AFC Bournemouth",71,2,0,0.03
+Ryan Fredericks ,"Tottenham Hotspur,West Ham United,AFC Bournemouth",71,2,0,0.03
 Matty Fryatt,Hull City,9,2,0,0.22
 Christian Fuchs,Leicester City,116,2,0,0.02
 Anthony Gardner,"Tottenham Hotspur,Hull City",144,2,0,0.01
 Phil Gee,Leicester City,7,2,0,0.29
-Joe Gelhardt *,Leeds United,35,2,0,0.06
-Kieran Gibbs *,"Arsenal FC,West Bromwich Albion",180,2,0,0.01
-Ben Gibson *,"Middlesbrough FC,Norwich City,Burnley FC",67,2,0,0.03
+Joe Gelhardt ,Leeds United,35,2,0,0.06
+Kieran Gibbs ,"Arsenal FC,West Bromwich Albion",180,2,0,0.01
+Ben Gibson ,"Middlesbrough FC,Norwich City,Burnley FC",67,2,0,0.03
 Steve Gohouri,Wigan Athletic,42,2,0,0.05
 Mark González,Liverpool FC,25,2,0,0.08
-David Goodwillie *,Blackburn Rovers,20,2,0,0.10
+David Goodwillie ,Blackburn Rovers,20,2,0,0.1
 Corrado Grabbi,Blackburn Rovers,30,2,0,0.07
 Tony Grant,"Everton FC,Manchester City",70,2,0,0.03
 Xavier Gravelaine,Watford FC,7,2,0,0.29
@@ -1828,69 +1828,69 @@ Andy Griffin,"Derby County,Newcastle United,Portsmouth FC,Stoke City",155,2,0,0.
 Léandre Griffit,Southampton FC,7,2,0,0.29
 Perry Groves,"Southampton FC,Arsenal FC",16,2,0,0.13
 Jóhannes Guðjónsson,"Aston Villa,Wolverhampton Wanderers,Burnley FC",32,2,0,0.06
-Adlène Guédioura *,"Middlesbrough FC,Watford FC,Wolverhampton Wanderers,Crystal Palace",84,2,0,0.02
-Marc Guéhi *,"Chelsea FC,Crystal Palace",54,2,0,0.04
-Aron Gunnarsson *,Cardiff City,51,2,0,0.04
-Micky Gynn,Coventry City,20,2,0,0.10
+Adlène Guédioura ,"Middlesbrough FC,Watford FC,Wolverhampton Wanderers,Crystal Palace",84,2,0,0.02
+Marc Guéhi ,"Chelsea FC,Crystal Palace",54,2,0,0.04
+Aron Gunnarsson ,Cardiff City,51,2,0,0.04
+Micky Gynn,Coventry City,20,2,0,0.1
 Owen Hargreaves,"Manchester United,Manchester City",29,2,0,0.07
 John Harkes,"West Ham United,Nottingham Forest,Sheffield Wednesday",44,2,0,0.05
 Steve Harkness,Liverpool FC,91,2,0,0.02
-Mark Hateley,"Leeds United,Queens Park Rangers",20,2,0,0.10
+Mark Hateley,"Leeds United,Queens Park Rangers",20,2,0,0.1
 Micky Hazard,"Tottenham Hotspur,Swindon Town",37,2,1,0.05
-Ahmed Hegazy *,West Bromwich Albion,39,2,0,0.05
-Tomer Hemed *,Brighton & Hove Albion,16,2,0,0.13
+Ahmed Hegazy ,West Bromwich Albion,39,2,0,0.05
+Tomer Hemed ,Brighton & Hove Albion,16,2,0,0.13
 John Hendry,Tottenham Hotspur,8,2,0,0.25
 Stuart Holden,Bolton Wanderers,28,2,0,0.07
-Lewis Holtby *,"Tottenham Hotspur,Fulham FC",38,2,0,0.05
+Lewis Holtby ,"Tottenham Hotspur,Fulham FC",38,2,0,0.05
 Kevin Horlock,"Manchester City,Swindon Town",82,2,1,0.02
 Marc Hottiger,"Newcastle United,Everton FC",56,2,0,0.04
 Bobby Howe,Nottingham Forest,9,2,0,0.22
 Jamie Hoyland,Sheffield United,40,2,0,0.05
 Justin Hoyte,"Sunderland AFC,Middlesbrough FC,Arsenal FC",83,2,0,0.02
-Paul Hughes,Chelsea FC,21,2,0,0.10
+Paul Hughes,Chelsea FC,21,2,0,0.1
  Hugo Viana,Newcastle United,39,2,0,0.05
 Jonathan Hunt,Derby County,24,2,0,0.08
 Noel Hunt,Reading FC,24,2,0,0.08
 Lee Hurst,Coventry City,35,2,0,0.06
-Giannelli Imbula *,Stoke City,26,2,0,0.08
+Giannelli Imbula ,Stoke City,26,2,0,0.08
 Klas Ingesson,Sheffield Wednesday,18,2,0,0.11
  Isaías,Coventry City,12,2,0,0.17
  Iván Ramis,Wigan Athletic,16,2,0,0.13
 Wayne Jacobs,Bradford City,45,2,0,0.04
-Alireza Jahanbakhsh *,Brighton & Hove Albion,50,2,0,0.04
+Alireza Jahanbakhsh ,Brighton & Hove Albion,50,2,0,0.04
 Andreas Jakobsson,Southampton FC,27,2,0,0.07
-Vincent Janssen *,Tottenham Hotspur,31,2,1,0.06
+Vincent Janssen ,Tottenham Hotspur,31,2,1,0.06
  Javi García,Manchester City,53,2,0,0.04
  Javi Garrido,"Norwich City,Manchester City",89,2,0,0.02
-Mathias Jensen *,Brentford FC,50,2,0,0.04
+Mathias Jensen ,Brentford FC,50,2,0,0.04
 Dong-won Ji,Sunderland AFC,24,2,0,0.08
- João Mário *,West Ham United,13,2,0,0.15
+ João Mário ,West Ham United,13,2,0,0.15
 Andy Johnson,"Nottingham Forest,Norwich City,West Bromwich Albion",101,2,0,0.02
-Ben Johnson *,West Ham United,45,2,0,0.04
+Ben Johnson ,West Ham United,45,2,0,0.04
 Michael Johnson,Manchester City,37,2,0,0.05
 Roger Johnson,"West Ham United,Wolverhampton Wanderers,Birmingham City",107,2,0,0.02
 Allan Johnston,"Sunderland AFC,Middlesbrough FC",23,2,0,0.09
-Cobi Jones,Coventry City,21,2,0,0.10
-Phil Jones *,"Manchester United,Blackburn Rovers",204,2,0,0.01
+Cobi Jones,Coventry City,21,2,0,0.1
+Phil Jones ,"Manchester United,Blackburn Rovers",204,2,0,0.01
  José Enrique,"Newcastle United,Liverpool FC",161,2,0,0.01
-James Justin *,Leicester City,63,2,0,0.03
-Moise Kean *,Everton FC,32,2,0,0.06
+James Justin ,Leicester City,63,2,0,0.03
+Moise Kean ,Everton FC,32,2,0,0.06
 Gary Kelly,Leeds United,325,2,0,0.01
 Mark Kennedy,"Liverpool FC,Wolverhampton Wanderers,Manchester City,Wimbledon FC",93,2,0,0.02
- Kiko Femenía *,Watford FC,107,2,0,0.02
+ Kiko Femenía ,Watford FC,107,2,0,0.02
 Matt Kilgallon,"Leeds United,Sunderland AFC,Sheffield United",39,2,0,0.05
 Jovan Kirovski,Birmingham City,23,2,0,0.09
 Radostin Kishishev,Charlton Athletic,178,2,0,0.01
 Jakob Kjeldberg,Chelsea FC,52,2,0,0.04
- Kléberson,Manchester United,20,2,0,0.10
-Sead Kolašinac *,Arsenal FC,80,2,0,0.03
-Kalidou Koulibaly *,Chelsea FC,14,2,0,0.14
-Andrej Kramarić *,Leicester City,15,2,0,0.13
+ Kléberson,Manchester United,20,2,0,0.1
+Sead Kolašinac ,Arsenal FC,80,2,0,0.03
+Kalidou Koulibaly ,Chelsea FC,14,2,0,0.14
+Andrej Kramarić ,Leicester City,15,2,0,0.13
 Roland Lamah,Swansea City,14,2,0,0.14
 Bernard Lambourde,Chelsea FC,39,2,0,0.05
 Mikele Leigertwood,"Crystal Palace,Sheffield United,Reading FC",69,2,0,0.03
-Florian Lejeune *,Newcastle United,42,2,0,0.05
-Matthew Longstaff *,Newcastle United,14,2,0,0.14
+Florian Lejeune ,Newcastle United,42,2,0,0.05
+Matthew Longstaff ,Newcastle United,14,2,0,0.14
 Andreas Lund,Wimbledon FC,11,2,0,0.18
 Des Lyttle,"Nottingham Forest,Watford FC,West Bromwich Albion",128,2,0,0.02
 Gary Mabbutt,Tottenham Hotspur,138,2,0,0.01
@@ -1898,7 +1898,7 @@ Jon Macken,"Derby County,Manchester City",46,2,0,0.04
 Alan Mahon,"Blackburn Rovers,Wigan Athletic",24,2,0,0.08
 Claude Makélélé,Chelsea FC,144,2,0,0.01
 Chris Makin,"Sunderland AFC,Ipswich Town,Oldham Athletic",124,2,0,0.02
- Manquillo *,"Newcastle United,Sunderland AFC,Liverpool FC",122,2,0,0.02
+ Manquillo ,"Newcastle United,Sunderland AFC,Liverpool FC",122,2,0,0.02
  Manucho,"Manchester United,Hull City",14,2,0,0.14
  Manuel Fernandes,"Everton FC,Portsmouth FC",31,2,0,0.06
 Adrian Mariappa,"Watford FC,Crystal Palace,Reading FC",167,2,0,0.01
@@ -1907,25 +1907,25 @@ Stuart McCall,Bradford City,71,2,0,0.03
 Jay McEveley,"Derby County,Blackburn Rovers",47,2,0,0.04
 John McGreal,Ipswich Town,55,2,0,0.04
 Derek McInnes,West Bromwich Albion,29,2,0,0.07
-Kenny McLean *,Norwich City,68,2,0,0.03
+Kenny McLean ,Norwich City,68,2,0,0.03
 Callum McManaman,"West Bromwich Albion,Wigan Athletic",46,2,0,0.04
 Paul McShane,"Sunderland AFC,Hull City",98,2,0,0.02
-Paul McVeigh,"Tottenham Hotspur,Norwich City",20,2,0,0.10
+Paul McVeigh,"Tottenham Hotspur,Norwich City",20,2,0,0.1
 Andy Melville,"Sunderland AFC,Fulham FC",100,2,0,0.02
-Benjamin Mendy *,Manchester City,50,2,0,0.04
+Benjamin Mendy ,Manchester City,50,2,0,0.04
 Bernard Mendy,"Bolton Wanderers,Hull City",70,2,0,0.03
 Nicky Mohan,"Middlesbrough FC,Leicester City",41,2,0,0.05
-Vincenzo Montella,Fulham FC,10,2,1,0.20
+Vincenzo Montella,Fulham FC,10,2,1,0.2
 Tommy Mooney,"Watford FC,Birmingham City",13,2,0,0.15
 Darren Moore,"Derby County,West Bromwich Albion",81,2,0,0.02
 Kevin Moore,Southampton FC,32,2,0,0.06
 Stefan Moore,Aston Villa,29,2,0,0.07
 Stephen Morgan,Coventry City,68,2,0,0.03
-Ahmed Musa *,Leicester City,21,2,0,0.10
+Ahmed Musa ,Leicester City,21,2,0,0.1
 Enock Mwepu,Brighton & Hove Albion,24,2,0,0.08
 Andrew Myers,"Chelsea FC,Bradford City",103,2,0,0.02
-Badou N'Diaye *,Stoke City,13,2,0,0.15
-M'Baye Niang *,Watford FC,16,2,0,0.13
+Badou N'Diaye ,Stoke City,13,2,0,0.15
+M'Baye Niang ,Watford FC,16,2,0,0.13
 Joey O'Brien,"West Ham United,Bolton Wanderers",111,2,0,0.02
 Stefan Oakes,Leicester City,59,2,0,0.03
 Gabriel Obertan,"Manchester United,Newcastle United",72,2,0,0.03
@@ -1933,75 +1933,75 @@ Emmanuel Omoyimni,West Ham United,9,2,0,0.22
 André Ooijer,Blackburn Rovers,79,2,0,0.03
 Richard Ord,Sunderland AFC,33,2,0,0.06
 John Oster,"Sunderland AFC,Everton FC,Reading FC",104,2,0,0.02
-Bryan Oviedo *,"Sunderland AFC,Everton FC",60,2,0,0.03
-Alberto Paloschi *,Swansea City,10,2,0,0.20
+Bryan Oviedo ,"Sunderland AFC,Everton FC",60,2,0,0.03
+Alberto Paloschi ,Swansea City,10,2,0,0.2
 Stuart Parnaby,"Middlesbrough FC,Birmingham City",117,2,0,0.02
-Romain Perraud *,Southampton FC,37,2,0,0.05
+Romain Perraud ,Southampton FC,37,2,0,0.05
 Alessandro Pistone,"Newcastle United,Everton FC",149,2,0,0.01
-Claudio Pizarro,Chelsea FC,21,2,0,0.10
+Claudio Pizarro,Chelsea FC,21,2,0,0.1
 Chris Powell,"Derby County,Charlton Athletic,Watford FC",274,2,0,0.01
-Dennis Praet *,Leicester City,51,2,0,0.04
+Dennis Praet ,Leicester City,51,2,0,0.04
 Spencer Prior,"Derby County,Leicester City,Norwich City,Manchester City",169,2,0,0.01
 Tamás Priskin,Watford FC,16,2,0,0.13
-Michael Proctor,Sunderland AFC,21,2,0,0.10
+Michael Proctor,Sunderland AFC,21,2,0,0.1
 Davy Pröpper,Brighton & Hove Albion,107,2,0,0.02
 David Prutton,Southampton FC,62,2,0,0.03
 Florin Răducioiu,West Ham United,11,2,0,0.18
 Andrea Ranocchia,Hull City,16,2,0,0.13
-Harrison Reed *,"Southampton FC,Fulham FC",67,2,0,0.03
- Reguilón *,Tottenham Hotspur,52,2,0,0.04
-Jaïro Riedewald *,Crystal Palace,69,2,0,0.03
-Tyler Roberts *,"Leeds United,West Bromwich Albion",51,2,0,0.04
+Harrison Reed ,"Southampton FC,Fulham FC",67,2,0,0.03
+ Reguilón ,Tottenham Hotspur,52,2,0,0.04
+Jaïro Riedewald ,Crystal Palace,69,2,0,0.03
+Tyler Roberts ,"Leeds United,West Bromwich Albion",51,2,0,0.04
 Bryan Robson,"Manchester United,Middlesbrough FC",32,2,0,0.06
- Rubén Rochina *,Blackburn Rovers,22,2,0,0.09
+ Rubén Rochina ,Blackburn Rovers,22,2,0,0.09
 Yannick Sagbo,Hull City,32,2,0,0.06
-William Saliba *,Arsenal FC,18,2,0,0.11
+William Saliba ,Arsenal FC,18,2,0,0.11
 Jlloyd Samuel,"Bolton Wanderers,Aston Villa",240,2,0,0.01
-Josh Sargent *,Norwich City,26,2,0,0.08
+Josh Sargent ,Norwich City,26,2,0,0.08
 Stefan Schnoor,Derby County,60,2,1,0.03
 Andy Scott,Sheffield United,17,2,0,0.12
-Freddie Sears *,West Ham United,36,2,0,0.06
+Freddie Sears ,West Ham United,36,2,0,0.06
 Paul Shaw,Arsenal FC,12,2,0,0.17
 Darío Silva,Portsmouth FC,13,2,0,0.15
 Paul Simpson,Derby County,19,2,0,0.11
-Luis Sinisterra *,Leeds United,9,2,0,0.22
+Luis Sinisterra ,Leeds United,9,2,0,0.22
 Stuart Slater,Ipswich Town,55,2,0,0.04
 Aleksey Smertin,"Chelsea FC,Charlton Athletic,Fulham FC,Portsmouth FC",82,2,0,0.02
-Ramadan Sobhi *,"Stoke City,Huddersfield Town",45,2,0,0.04
+Ramadan Sobhi ,"Stoke City,Huddersfield Town",45,2,0,0.04
 Paul Stalteri,"Tottenham Hotspur,Fulham FC",55,2,0,0.04
-Enda Stevens *,"Aston Villa,Sheffield United",75,2,0,0.03
+Enda Stevens ,"Aston Villa,Sheffield United",75,2,0,0.03
 Robbie Stockdale,Middlesbrough FC,74,2,0,0.03
 Frank Strandli,Leeds United,14,2,0,0.14
-Isaac Success *,Watford FC,54,2,0,0.04
+Isaac Success ,Watford FC,54,2,0,0.04
 Hakan Şükür,Blackburn Rovers,9,2,0,0.22
 Kit Symons,"Fulham FC,Manchester City",42,2,0,0.05
 Idan Tal,"Bolton Wanderers,Everton FC",46,2,0,0.04
-Adam Tanner,Ipswich Town,10,2,0,0.20
+Adam Tanner,Ipswich Town,10,2,0,0.2
 Mauricio Taricco,Tottenham Hotspur,130,2,0,0.02
-Marcus Tavernier *,AFC Bournemouth,15,2,0,0.13
+Marcus Tavernier ,AFC Bournemouth,15,2,0,0.13
 Shaun Teale,Aston Villa,105,2,0,0.02
-Andranik Teymourian,"Bolton Wanderers,Fulham FC",21,2,0,0.10
- Thiago *,Liverpool FC,61,2,0,0.03
+Andranik Teymourian,"Bolton Wanderers,Fulham FC",21,2,0,0.1
+ Thiago ,Liverpool FC,61,2,0,0.03
 Andy Thorn,"Crystal Palace,Wimbledon FC",70,2,0,0.03
 Danny Tiatto,Manchester City,51,2,0,0.04
 Eric Tinkler,Barnsley FC,25,2,0,0.08
 Michael Tonge,"Sheffield United,Stoke City",39,2,0,0.05
- Trincão *,Wolverhampton Wanderers,28,2,0,0.07
-Yan Valery *,Southampton FC,43,2,0,0.05
+ Trincão ,Wolverhampton Wanderers,28,2,0,0.07
+Yan Valery ,Southampton FC,43,2,0,0.05
 Giovanni van Bronckhorst,Arsenal FC,41,2,0,0.05
-Mike van der Hoorn *,Swansea City,32,2,0,0.06
+Mike van der Hoorn ,Swansea City,32,2,0,0.06
 Robin van der Laan,Derby County,26,2,0,0.08
-Joël Veltman *,Brighton & Hove Albion,78,2,0,0.03
+Joël Veltman ,Brighton & Hove Albion,78,2,0,0.03
 Steve Vickers,"Middlesbrough FC,Birmingham City",160,2,0,0.01
 Ron Vlaar,Aston Villa,79,2,0,0.03
 Moritz Volz,Fulham FC,125,2,0,0.02
-Richard Walker,Aston Villa,5,2,0,0.40
-Kyle Walker-Peters *,"Southampton FC,Tottenham Hotspur",99,2,0,0.02
-Ray Wallace,Leeds United,10,2,0,0.20
-Aaron Wan-Bissaka *,"Manchester United,Crystal Palace",137,2,0,0.01
+Richard Walker,Aston Villa,5,2,0,0.4
+Kyle Walker-Peters ,"Southampton FC,Tottenham Hotspur",99,2,0,0.02
+Ray Wallace,Leeds United,10,2,0,0.2
+Aaron Wan-Bissaka ,"Manchester United,Crystal Palace",137,2,0,0.01
 Mark Ward,Everton FC,46,2,0,0.04
 Julian Watts,"Leicester City,Sheffield Wednesday",45,2,0,0.04
-Wout Weghorst *,"Manchester United,Burnley FC",21,2,0,0.10
+Wout Weghorst ,"Manchester United,Burnley FC",21,2,0,0.1
 Ronnie Whelan,Liverpool FC,40,2,0,0.05
 Mike Whitlow,"Leicester City,Bolton Wanderers",104,2,0,0.02
 Gerard Wiekens,Manchester City,40,2,0,0.05
@@ -2011,95 +2011,95 @@ Darren Williams,Sunderland AFC,108,2,0,0.02
 Jimmy Willis,Leicester City,29,2,0,0.07
 Fabian Wilnis,Ipswich Town,43,2,0,0.05
 Danny Wilson,Sheffield Wednesday,26,2,0,0.08
-Harry Winks *,Tottenham Hotspur,128,2,0,0.02
+Harry Winks ,Tottenham Hotspur,128,2,0,0.02
 Bradley Wright-Phillips,Manchester City,31,2,0,0.06
 Hassan Yebda,Portsmouth FC,18,2,1,0.11
-DeAndre Yedlin *,"Newcastle United,Sunderland AFC,Tottenham Hotspur",109,2,0,0.02
+DeAndre Yedlin ,"Newcastle United,Sunderland AFC,Tottenham Hotspur",109,2,0,0.02
  Yordi,Blackburn Rovers,8,2,0,0.25
-Brenden Aaronson *,Leeds United,18,1,0,0.06
-Tosin Adarabioyo *,"Fulham FC,Manchester City",47,1,0,0.02
-Kristoffer Ajer *,Brentford FC,31,1,0,0.03
+Brenden Aaronson ,Leeds United,18,1,0,0.06
+Tosin Adarabioyo ,"Fulham FC,Manchester City",47,1,0,0.02
+Kristoffer Ajer ,Brentford FC,31,1,0,0.03
 Martin Albrechtsen,West Bromwich Albion,55,1,0,0.02
- Alexandre Pato,Chelsea FC,2,1,1,0.50
- Alisson *,Liverpool FC,154,1,0,0.01
+ Alexandre Pato,Chelsea FC,2,1,1,0.5
+ Alisson ,Liverpool FC,154,1,0,0.01
 Chris Allen,Nottingham Forest,26,1,0,0.04
-Steven Alzate *,Brighton & Hove Albion,43,1,0,0.02
+Steven Alzate ,Brighton & Hove Albion,43,1,0,0.02
 Fernando Amorebieta,Fulham FC,23,1,0,0.04
- André Gomes *,Everton FC,88,1,0,0.01
+ André Gomes ,Everton FC,88,1,0,0.01
 Martin Andresen,"Blackburn Rovers,Wimbledon FC",24,1,0,0.04
 Brett Angell,Everton FC,20,1,0,0.05
- Antonio Luna *,Aston Villa,17,1,0,0.06
+ Antonio Luna ,Aston Villa,17,1,0,0.06
 Alberto Aquilani,Liverpool FC,18,1,0,0.06
 Ian Ashbee,Hull City,31,1,0,0.03
-Will Atkinson,Hull City,2,1,0,0.50
+Will Atkinson,Hull City,2,1,0,0.5
 Thimothée Atouba,Tottenham Hotspur,18,1,0,0.06
-Floyd Ayité *,Fulham FC,16,1,0,0.06
-Juninho Bacuna *,Huddersfield Town,21,1,0,0.05
+Floyd Ayité ,Fulham FC,16,1,0,0.06
+Juninho Bacuna ,Huddersfield Town,21,1,0,0.05
 Walid Badir,Wimbledon FC,21,1,0,0.05
 Dino Baggio,Blackburn Rovers,9,1,0,0.11
 Dennis Bailey,Queens Park Rangers,15,1,0,0.07
-Eric Bailly *,Manchester United,70,1,0,0.01
-Leon Balogun *,Brighton & Hove Albion,8,1,0,0.13
-Shandon Baptiste *,Brentford FC,34,1,0,0.03
+Eric Bailly ,Manchester United,70,1,0,0.01
+Leon Balogun ,Brighton & Hove Albion,8,1,0,0.13
+Shandon Baptiste ,Brentford FC,34,1,0,0.03
 Giles Barnes,"Derby County,West Bromwich Albion",35,1,0,0.03
 Leon Barnett,"Norwich City,West Bromwich Albion",36,1,0,0.03
 Earl Barrett,"Aston Villa,Everton FC,Sheffield Wednesday",195,1,0,0.01
-Modou Barrow *,Swansea City,51,1,0,0.02
-Chris Basham *,"Bolton Wanderers,Sheffield United,Blackpool FC",90,1,0,0.01
+Modou Barrow ,Swansea City,51,1,0,0.02
+Chris Basham ,"Bolton Wanderers,Sheffield United,Blackpool FC",90,1,0,0.01
 Steve Basham,Southampton FC,19,1,0,0.05
 Christian Bassedas,Newcastle United,24,1,0,0.04
 Matthew Bates,Middlesbrough FC,36,1,0,0.03
 Craig Beattie,West Bromwich Albion,7,1,0,0.14
-Asmir Begović *,"Chelsea FC,Everton FC,Portsmouth FC,AFC Bournemouth,Stoke City",256,1,0,0.00
+Asmir Begović ,"Chelsea FC,Everton FC,Portsmouth FC,AFC Bournemouth,Stoke City",256,1,0,0.0
 Stefan Beinlich,Aston Villa,14,1,0,0.07
 Tal Ben Haim,"Chelsea FC,Sunderland AFC,West Ham United,Bolton Wanderers,Queens Park Rangers,Manchester City,Portsmouth FC",146,1,0,0.01
-Francis Benali,Southampton FC,243,1,0,0.00
+Francis Benali,Southampton FC,243,1,0,0.0
 Trevor Benjamin,Leicester City,36,1,0,0.03
 Frank Bennett,Southampton FC,19,1,0,0.05
 Greg Berry,Wimbledon FC,7,1,0,0.14
 Habib Beye,"Newcastle United,Aston Villa",61,1,0,0.02
-Gaël Bigirimana *,Newcastle United,13,1,0,0.08
+Gaël Bigirimana ,Newcastle United,13,1,0,0.08
 Dexter Blackstock,Southampton FC,9,1,0,0.11
 Laurent Blanc,Manchester United,48,1,0,0.02
 Paul Boertien,Derby County,43,1,0,0.02
-Valeri Bojinov *,Manchester City,11,1,0,0.09
+Valeri Bojinov ,Manchester City,11,1,0,0.09
 Thierry Bonalair,Nottingham Forest,28,1,0,0.04
- Borja Bastón *,"Aston Villa,Swansea City",20,1,0,0.05
+ Borja Bastón ,"Aston Villa,Swansea City",20,1,0,0.05
 Wilfred Bouma,Aston Villa,83,1,0,0.01
 Bobby Bowry,Crystal Palace,29,1,0,0.03
-Dedryck Boyata *,"Bolton Wanderers,Manchester City",27,1,0,0.04
+Dedryck Boyata ,"Bolton Wanderers,Manchester City",27,1,0,0.04
 Daniel Braaten,Bolton Wanderers,6,1,0,0.17
 Paul Bracewell,"Newcastle United,Sunderland AFC",85,1,0,0.01
-Jarrad Branthwaite *,Everton FC,10,1,0,0.10
+Jarrad Branthwaite ,Everton FC,10,1,0,0.1
 Rufus Brevett,"West Ham United,Fulham FC,Queens Park Rangers",136,1,0,0.01
 David Brightwell,Manchester City,40,1,0,0.03
 Ian Brightwell,Manchester City,86,1,0,0.01
 Lee Briscoe,Sheffield Wednesday,78,1,0,0.01
 Chris Brown,Sunderland AFC,13,1,0,0.08
-Joe Bryan *,Fulham FC,44,1,0,0.02
-Kean Bryan *,Sheffield United,13,1,0,0.08
-Gary Bull,Nottingham Forest,1,1,0,1.00
+Joe Bryan ,Fulham FC,44,1,0,0.02
+Kean Bryan ,Sheffield United,13,1,0,0.08
+Gary Bull,Nottingham Forest,1,1,0,1.0
 Mark Burchill,Ipswich Town,7,1,0,0.14
-Oliver Burke *,"West Bromwich Albion,Sheffield United",40,1,0,0.03
+Oliver Burke ,"West Bromwich Albion,Sheffield United",40,1,0,0.03
 Peter Butler,West Ham United,31,1,0,0.03
 Ian Butterworth,Norwich City,51,1,0,0.02
-Rémy Cabella *,Newcastle United,31,1,0,0.03
+Rémy Cabella ,Newcastle United,31,1,0,0.03
  Caçapa,Newcastle United,25,1,0,0.04
-Jonathan Calleri *,West Ham United,16,1,0,0.06
+Jonathan Calleri ,West Ham United,16,1,0,0.06
 Zoumana Camara,Leeds United,13,1,0,0.08
-André Carrillo *,Watford FC,28,1,0,0.04
+André Carrillo ,Watford FC,28,1,0,0.04
 Patrice Carteron,Sunderland AFC,8,1,0,0.13
-Pierluigi Casiraghi,Chelsea FC,10,1,0,0.10
-Justin Channing,Queens Park Rangers,2,1,0,0.50
-Vlad Chiricheş *,Tottenham Hotspur,27,1,0,0.04
-Hamza Choudhury *,Leicester City,53,1,0,0.02
+Pierluigi Casiraghi,Chelsea FC,10,1,0,0.1
+Justin Channing,Queens Park Rangers,2,1,0,0.5
+Vlad Chiricheş ,Tottenham Hotspur,27,1,0,0.04
+Hamza Choudhury ,Leicester City,53,1,0,0.02
 Philippe Christanval,Fulham FC,36,1,0,0.03
-Ryan Christie *,AFC Bournemouth,17,1,0,0.06
+Ryan Christie ,AFC Bournemouth,17,1,0,0.06
 Édouard Cissé,West Ham United,25,1,0,0.04
 Kalifa Cissé,Reading FC,22,1,0,0.05
 Steve Clarke,Chelsea FC,167,1,0,0.01
-Jordy Clasie *,Southampton FC,38,1,0,0.03
-Sebastián Coates *,"Sunderland AFC,Liverpool FC",38,1,0,0.03
+Jordy Clasie ,Southampton FC,38,1,0,0.03
+Sebastián Coates ,"Sunderland AFC,Liverpool FC",38,1,0,0.03
 Patrick Colleter,Southampton FC,24,1,0,0.04
 David Connolly,"Sunderland AFC,Wigan Athletic",22,1,0,0.05
 David Cotterill,Wigan Athletic,18,1,0,0.06
@@ -2110,65 +2110,65 @@ Gary Croft,"Ipswich Town,Blackburn Rovers",48,1,0,0.02
 Lee Croft,Manchester City,27,1,0,0.04
 Gary Crosby,Nottingham Forest,23,1,0,0.04
  Crusat,Wigan Athletic,15,1,0,0.07
- Cucurella *,"Chelsea FC,Brighton & Hove Albion",52,1,0,0.02
-Mark Cullen *,Hull City,3,1,0,0.33
+ Cucurella ,"Chelsea FC,Brighton & Hove Albion",52,1,0,0.02
+Mark Cullen ,Hull City,3,1,0,0.33
 Ian Culverhouse,Norwich City,83,1,0,0.01
 Jason Cundy,Tottenham Hotspur,15,1,0,0.07
 Andrés D'Alessandro,Portsmouth FC,13,1,0,0.08
 Paul Dalglish,Newcastle United,11,1,0,0.09
- Daniel Ayala *,"Middlesbrough FC,Liverpool FC,Norwich City",26,1,0,0.04
-Matteo Darmian *,Manchester United,60,1,0,0.02
-Chris David *,Fulham FC,1,1,0,1.00
+ Daniel Ayala ,"Middlesbrough FC,Liverpool FC,Norwich City",26,1,0,0.04
+Matteo Darmian ,Manchester United,60,1,0,0.02
+Chris David ,Fulham FC,1,1,0,1.0
 Edgar Davids,Tottenham Hotspur,40,1,0,0.03
-Keinan Davis *,Aston Villa,34,1,0,0.03
+Keinan Davis ,Aston Villa,34,1,0,0.03
 Paul Davis,Arsenal FC,32,1,0,0.03
 Nigel de Jong,Manchester City,104,1,0,0.01
-Siem de Jong *,Newcastle United,22,1,0,0.05
+Siem de Jong ,Newcastle United,22,1,0,0.05
  Del Horno,Chelsea FC,25,1,0,0.04
 Agustín Delgado,Southampton FC,11,1,0,0.09
 Guy Demel,West Ham United,69,1,0,0.01
 Shaun Derry,"Queens Park Rangers,Crystal Palace",54,1,0,0.02
 Samba Diakité,Queens Park Rangers,23,1,0,0.04
-Grady Diangana *,"West Ham United,West Bromwich Albion",37,1,0,0.03
+Grady Diangana ,"West Ham United,West Bromwich Albion",37,1,0,0.03
 Lassana Diarra,"Chelsea FC,Arsenal FC,Portsmouth FC",44,1,0,0.02
 Mahamadou Diarra,Fulham FC,23,1,0,0.04
 Martin Djetou,"Bolton Wanderers,Fulham FC",54,1,0,0.02
 Johan Djourou,"Arsenal FC,Birmingham City",99,1,0,0.01
 Gerald Dobbs,Wimbledon FC,29,1,0,0.03
- Domingos Quina *,"West Ham United,Watford FC",12,1,0,0.08
+ Domingos Quina ,"West Ham United,Watford FC",12,1,0,0.08
 Simon Donnelly,Sheffield Wednesday,12,1,0,0.08
 Andrea Dossena,"Sunderland AFC,Liverpool FC",25,1,0,0.04
  Douglas,Watford FC,7,1,0,0.14
 Jonathan Douglas,Blackburn Rovers,16,1,0,0.06
-Kieran Dowell *,"Everton FC,Norwich City",21,1,0,0.05
+Kieran Dowell ,"Everton FC,Norwich City",21,1,0,0.05
 John Dreyer,Bradford City,13,1,0,0.08
-Josip Drmić *,Norwich City,21,1,0,0.05
+Josip Drmić ,Norwich City,21,1,0,0.05
 Adam Drury,Norwich City,45,1,0,0.02
 Richard Dryden,Southampton FC,47,1,0,0.02
-Jimmy Dunne *,Burnley FC,3,1,0,0.33
-Neal Eardley *,Blackpool FC,31,1,0,0.03
+Jimmy Dunne ,Burnley FC,3,1,0,0.33
+Neal Eardley ,Blackpool FC,31,1,0,0.03
 Erik Edman,"Tottenham Hotspur,Wigan Athletic",41,1,0,0.02
 Marc Edworthy,"Derby County,Norwich City,Coventry City,Crystal Palace",127,1,0,0.01
-Harvey Elliott *,"Liverpool FC,Fulham FC",28,1,0,0.04
-David Elm,Fulham FC,10,1,0,0.10
-Mohamed Elneny *,Arsenal FC,88,1,0,0.01
+Harvey Elliott ,"Liverpool FC,Fulham FC",28,1,0,0.04
+David Elm,Fulham FC,10,1,0,0.1
+Mohamed Elneny ,Arsenal FC,88,1,0,0.01
 Tommy Elphick,AFC Bournemouth,12,1,0,0.08
 Urby Emanuelson,Fulham FC,13,1,0,0.08
 Marvin Emnes,"Middlesbrough FC,Swansea City",41,1,0,0.02
-Björn Engels *,Aston Villa,17,1,0,0.06
-Roger Espinoza *,Wigan Athletic,12,1,0,0.08
-Kelvin Etuhu,Manchester City,10,1,0,0.10
-Ched Evans *,Manchester City,16,1,0,0.06
+Björn Engels ,Aston Villa,17,1,0,0.06
+Roger Espinoza ,Wigan Athletic,12,1,0,0.08
+Kelvin Etuhu,Manchester City,10,1,0,0.1
+Ched Evans ,Manchester City,16,1,0,0.06
 Ian Evatt,"Derby County,Blackpool FC",42,1,0,0.02
- Fábio *,"Manchester United,Middlesbrough FC,Queens Park Rangers,Cardiff City",80,1,0,0.01
- Fábio Vieira *,Arsenal FC,10,1,0,0.10
+ Fábio ,"Manchester United,Middlesbrough FC,Queens Park Rangers,Cardiff City",80,1,0,0.01
+ Fábio Vieira ,Arsenal FC,10,1,0,0.1
 Khalilou Fadiga,Bolton Wanderers,13,1,0,0.08
 Keith Fahey,Birmingham City,58,1,0,0.02
 Julien Faubert,West Ham United,69,1,0,0.01
 Alejandro Faurlín,Queens Park Rangers,33,1,0,0.03
 Amdy Faye,"Newcastle United,Charlton Athletic,Portsmouth FC,Stoke City",130,1,0,0.01
-Sam Field *,West Bromwich Albion,22,1,0,0.05
-Steve Finnan,"Liverpool FC,Fulham FC,Portsmouth FC",236,1,0,0.00
+Sam Field ,West Bromwich Albion,22,1,0,0.05
+Steve Finnan,"Liverpool FC,Fulham FC,Portsmouth FC",236,1,0,0.0
 Jon Flanagan,"Liverpool FC,Burnley FC",46,1,0,0.02
 Craig Fleming,"Norwich City,Oldham Athletic",99,1,0,0.01
 Carl Fletcher,West Ham United,12,1,0,0.08
@@ -2176,61 +2176,61 @@ Willo Flood,Manchester City,14,1,0,0.07
 Dominic Foley,Watford FC,12,1,0,0.08
 Mark Ford,Leeds United,29,1,0,0.03
 Hayden Foxe,"West Ham United,Portsmouth FC",21,1,0,0.05
-Juan Foyth *,Tottenham Hotspur,16,1,0,0.06
- Fran Mérida *,Arsenal FC,6,1,0,0.17
+Juan Foyth ,Tottenham Hotspur,16,1,0,0.06
+ Fran Mérida ,Arsenal FC,6,1,0,0.17
 Chris Freestone,Middlesbrough FC,6,1,0,0.17
-Brad Friedel,"Liverpool FC,Tottenham Hotspur,Blackburn Rovers,Aston Villa",450,1,0,0.00
+Brad Friedel,"Liverpool FC,Tottenham Hotspur,Blackburn Rovers,Aston Villa",450,1,0,0.0
 Esteban Fuertes,Derby County,8,1,0,0.13
 James Fullarton,Crystal Palace,25,1,0,0.04
-Darnell Furlong *,"Queens Park Rangers,West Bromwich Albion",38,1,0,0.03
+Darnell Furlong ,"Queens Park Rangers,West Bromwich Albion",38,1,0,0.03
 Thomas Gaardsøe,"Ipswich Town,West Bromwich Albion",39,1,0,0.03
 Daniel Gabbidon,"West Ham United,Queens Park Rangers,Crystal Palace",136,1,0,0.01
- Gabriel Paulista *,Arsenal FC,46,1,0,0.02
-Sam Gallagher *,Southampton FC,22,1,0,0.05
+ Gabriel Paulista ,Arsenal FC,46,1,0,0.02
+Sam Gallagher ,Southampton FC,22,1,0,0.05
 John Gannon,Sheffield United,41,1,0,0.02
 Richard García,"West Ham United,Hull City",49,1,0,0.02
-Alejandro Garnacho *,Manchester United,10,1,0,0.10
+Alejandro Garnacho ,Manchester United,10,1,0,0.1
 Diego Gavilán,Newcastle United,7,1,0,0.14
 Hossam Ghaly,"Derby County,Tottenham Hotspur",36,1,0,0.03
-Rachid Ghezzal *,Leicester City,19,1,0,0.05
+Rachid Ghezzal ,Leicester City,19,1,0,0.05
 Kamel Ghilas,Hull City,13,1,0,0.08
-Saman Ghoddos *,Brentford FC,26,1,0,0.04
+Saman Ghoddos ,Brentford FC,26,1,0,0.04
 Terry Gibson,Wimbledon FC,8,1,0,0.13
  Gilberto,Tottenham Hotspur,8,1,0,0.13
 Phil Gilchrist,"Leicester City,West Bromwich Albion",60,1,0,0.02
-Serge Gnabry *,"Arsenal FC,West Bromwich Albion",11,1,0,0.09
-Wilfried Gnonto *,Leeds United,7,1,0,0.14
+Serge Gnabry ,"Arsenal FC,West Bromwich Albion",11,1,0,0.09
+Wilfried Gnonto ,Leeds United,7,1,0,0.14
 Alain Goma,"Newcastle United,Fulham FC",147,1,0,0.01
- Gonçalo Guedes *,Wolverhampton Wanderers,13,1,0,0.08
+ Gonçalo Guedes ,Wolverhampton Wanderers,13,1,0,0.08
 Gregory Goodridge,Queens Park Rangers,6,1,0,0.17
 Dale Gordon,West Ham United,9,1,0,0.11
-Jon Gorenc Stanković *,Huddersfield Town,11,1,0,0.09
+Jon Gorenc Stanković ,Huddersfield Town,11,1,0,0.09
 Kaspars Gorkšs,"Queens Park Rangers,Reading FC",14,1,0,0.07
 Richard Gough,"Everton FC,Nottingham Forest",45,1,0,0.02
-Lewis Grabban *,"Norwich City,AFC Bournemouth",24,1,0,0.04
-Max Gradel *,AFC Bournemouth,25,1,0,0.04
+Lewis Grabban ,"Norwich City,AFC Bournemouth",24,1,0,0.04
+Max Gradel ,AFC Bournemouth,25,1,0,0.04
 Martin Grainger,Birmingham City,13,1,0,0.08
 Elliot Grandin,Blackpool FC,23,1,0,0.04
  Granero,Queens Park Rangers,24,1,0,0.04
 Andy Gray,"Leeds United,Sunderland AFC,Nottingham Forest",50,1,0,0.02
-Sam Greenwood *,Leeds United,16,1,0,0.06
+Sam Greenwood ,Leeds United,16,1,0,0.06
 Sean Gregan,West Bromwich Albion,36,1,0,0.03
-David Gregory,Ipswich Town,5,1,0,0.20
-Þórður Guðjónsson,Derby County,10,1,0,0.10
+David Gregory,Ipswich Town,5,1,0,0.2
+Þórður Guðjónsson,Derby County,10,1,0,0.1
 Magaye Gueye,Everton FC,24,1,0,0.04
 Stéphane Guivarc'h,Newcastle United,4,1,0,0.25
 Marcus Hall,Coventry City,103,1,0,0.01
 Bo Hansen,Bolton Wanderers,17,1,0,0.06
 Kevin Harper,"Derby County,Portsmouth FC",39,1,0,0.03
-Kadeem Harris *,Cardiff City,13,1,0,0.08
-Josh Harrop *,Manchester United,1,1,0,1.00
+Kadeem Harris ,Cardiff City,13,1,0,0.08
+Josh Harrop ,Manchester United,1,1,0,1.0
 Gabriel Heinze,Manchester United,52,1,0,0.02
  Hélder,Newcastle United,8,1,0,0.13
 Glenn Helder,Arsenal FC,39,1,0,0.03
  Hélder Postiga,Tottenham Hotspur,19,1,0,0.05
-Ángelo Henríquez *,Wigan Athletic,4,1,0,0.25
+Ángelo Henríquez ,Wigan Athletic,4,1,0,0.25
 Chris Herd,Aston Villa,36,1,0,0.03
-Onel Hernández *,Norwich City,26,1,0,0.04
+Onel Hernández ,Norwich City,26,1,0,0.04
  Hierro,Bolton Wanderers,27,1,0,0.04
 Andy Hill,Manchester City,54,1,0,0.02
 Clint Hill,Queens Park Rangers,72,1,0,0.01
@@ -2238,20 +2238,20 @@ David Hillier,Arsenal FC,61,1,0,0.02
 Zavon Hines,West Ham United,22,1,0,0.05
 Jon-Olav Hjelde,Nottingham Forest,17,1,0,0.06
 Glenn Hoddle,Chelsea FC,31,1,0,0.03
-Rob Holding *,Arsenal FC,89,1,0,0.01
+Rob Holding ,Arsenal FC,89,1,0,0.01
 Brett Holman,Aston Villa,27,1,0,0.04
 Steve Howard,Derby County,20,1,0,0.05
-Tim Howard,"Manchester United,Everton FC",399,1,0,0.00
+Tim Howard,"Manchester United,Everton FC",399,1,0,0.0
 Mark Hudson,"Crystal Palace,Cardiff City",9,1,0,0.11
 Ceri Hughes,Wimbledon FC,30,1,0,0.03
 Nicky Hunt,Bolton Wanderers,127,1,0,0.01
-Paul Huntington *,Newcastle United,11,1,0,0.09
+Paul Huntington ,Newcastle United,11,1,0,0.09
 Ben Hutchinson,Middlesbrough FC,8,1,0,0.13
-Adam Idah *,Norwich City,29,1,0,0.03
+Adam Idah ,Norwich City,29,1,0,0.03
 Johnnie Jackson,Tottenham Hotspur,20,1,0,0.05
 Gonzalo Jara,West Bromwich Albion,34,1,0,0.03
 Ryan Jarvis,Norwich City,4,1,0,0.25
-Daniel Jebbison *,Sheffield United,4,1,0,0.25
+Daniel Jebbison ,Sheffield United,4,1,0,0.25
 Leigh Jenkinson,Coventry City,32,1,0,0.03
 Faxe Jensen,Arsenal FC,98,1,0,0.01
 Niclas Jensen,"Fulham FC,Manchester City",49,1,0,0.02
@@ -2262,86 +2262,86 @@ Erland Johnsen,Chelsea FC,114,1,0,0.01
 Keith Jones,Charlton Athletic,22,1,0,0.05
 Matty Jones,"Leeds United,Leicester City",44,1,0,0.02
 Scott Jones,Barnsley FC,12,1,0,0.08
-Elias Kachunga *,Huddersfield Town,39,1,0,0.03
-Gaël Kakuta *,"Chelsea FC,Bolton Wanderers,Fulham FC",17,1,0,0.06
-Hassane Kamara *,Watford FC,19,1,0,0.05
-Kei Kamara *,Norwich City,11,1,0,0.09
+Elias Kachunga ,Huddersfield Town,39,1,0,0.03
+Gaël Kakuta ,"Chelsea FC,Bolton Wanderers,Fulham FC",17,1,0,0.06
+Hassane Kamara ,Watford FC,19,1,0,0.05
+Kei Kamara ,Norwich City,11,1,0,0.09
 Jem Karacan,Reading FC,21,1,0,0.05
 Azar Karadaş,Portsmouth FC,17,1,0,0.06
 Giorgios Karagounis,Fulham FC,39,1,0,0.03
 Steffen Karl,Manchester City,6,1,0,0.17
 Graham Kavanagh,"Middlesbrough FC,Wigan Athletic",54,1,1,0.02
 Mikhail Kavelashvili,Manchester City,4,1,0,0.25
-Beram Kayal *,Brighton & Hove Albion,37,1,0,0.03
-Colin Kâzım-Richards *,Sheffield United,27,1,0,0.04
+Beram Kayal ,Brighton & Hove Albion,37,1,0,0.03
+Colin Kâzım-Richards ,Sheffield United,27,1,0,0.04
 Stephen Kelly,"Tottenham Hotspur,Fulham FC,Birmingham City,Stoke City,Reading FC",141,1,0,0.01
 Peter Kennedy,Watford FC,18,1,1,0.06
 Billy Kenny,Everton FC,17,1,0,0.06
 Andy Keogh,Wolverhampton Wanderers,14,1,0,0.07
  Kepa,West Ham United,8,1,0,0.13
 Zurab Khizanishvili,Blackburn Rovers,62,1,0,0.02
-Maximilian Kilman *,Wolverhampton Wanderers,71,1,0,0.01
-Bo-kyung Kim *,Cardiff City,28,1,0,0.04
+Maximilian Kilman ,Wolverhampton Wanderers,71,1,0,0.01
+Bo-kyung Kim ,Cardiff City,28,1,0,0.04
 Phil King,"Aston Villa,Sheffield Wednesday",38,1,0,0.03
 Ragnar Klavan,Liverpool FC,38,1,0,0.03
-Timm Klose *,Norwich City,17,1,0,0.06
-Terence Kongolo *,"Fulham FC,Huddersfield Town",46,1,0,0.02
+Timm Klose ,Norwich City,17,1,0,0.06
+Terence Kongolo ,"Fulham FC,Huddersfield Town",46,1,0,0.02
 Ognjen Koroman,Portsmouth FC,4,1,0,0.25
-Emil Krafth *,Newcastle United,54,1,0,0.02
-Juraj Kucka *,Watford FC,26,1,0,0.04
+Emil Krafth ,Newcastle United,54,1,0,0.02
+Juraj Kucka ,Watford FC,26,1,0,0.04
 Kevin Kyle,Sunderland AFC,39,1,0,0.03
-Tariq Lamptey *,"Chelsea FC,Brighton & Hove Albion",65,1,0,0.02
+Tariq Lamptey ,"Chelsea FC,Brighton & Hove Albion",65,1,0,0.02
 Henrik Larsson,Manchester United,7,1,0,0.14
-Roméo Lavia *,"Southampton FC,Manchester City",10,1,0,0.10
-Miguel Layún *,Watford FC,3,1,0,0.33
-Valentino Lazaro *,Newcastle United,13,1,0,0.08
+Roméo Lavia ,"Southampton FC,Manchester City",10,1,0,0.1
+Miguel Layún ,Watford FC,3,1,0,0.33
+Valentino Lazaro ,Newcastle United,13,1,0,0.08
 David Lee,"Southampton FC,Bolton Wanderers",19,1,0,0.05
-Pierre Lees-Melou *,Norwich City,33,1,0,0.03
-Jamal Lewis *,"Newcastle United,Norwich City",58,1,0,0.02
+Pierre Lees-Melou ,Norwich City,33,1,0,0.03
+Jamal Lewis ,"Newcastle United,Norwich City",58,1,0,0.02
 Eric Lichaj,Aston Villa,32,1,0,0.03
 Andy Liddell,Barnsley FC,26,1,0,0.04
 Derek Lilley,Leeds United,20,1,0,0.05
 Martin Ling,Swindon Town,33,1,0,0.03
-Tino Livramento *,"Chelsea FC,Southampton FC",28,1,0,0.04
-Giovani Lo Celso *,Tottenham Hotspur,55,1,0,0.02
-Joe Lolley *,Huddersfield Town,6,1,0,0.17
-Kevin Long *,Burnley FC,48,1,0,0.02
- Lucas Leiva *,Liverpool FC,247,1,0,0.00
- Lucas Paquetá *,West Ham United,12,1,1,0.08
+Tino Livramento ,"Chelsea FC,Southampton FC",28,1,0,0.04
+Giovani Lo Celso ,Tottenham Hotspur,55,1,0,0.02
+Joe Lolley ,Huddersfield Town,6,1,0,0.17
+Kevin Long ,Burnley FC,48,1,0,0.02
+ Lucas Leiva ,Liverpool FC,247,1,0,0.0
+ Lucas Paquetá ,West Ham United,12,1,1,0.08
 Teddy Lučić,Leeds United,17,1,0,0.06
 Diego Lugano,West Bromwich Albion,9,1,0,0.11
-Claus Lundekvam,Southampton FC,290,1,0,0.00
+Claus Lundekvam,Southampton FC,290,1,0,0.0
  Luque,Newcastle United,21,1,0,0.05
 Patrick M'Boma,Sunderland AFC,9,1,0,0.11
-Yann M'Vila *,Sunderland AFC,37,1,0,0.03
+Yann M'Vila ,Sunderland AFC,37,1,0,0.03
 Mbulelo Mabizela,Tottenham Hotspur,7,1,0,0.14
-Charlie MacDonald,Charlton Athletic,5,1,0,0.20
+Charlie MacDonald,Charlton Athletic,5,1,0,0.2
 Danny Maddix,Queens Park Rangers,63,1,0,0.02
 Gavin Mahon,Watford FC,34,1,0,0.03
-Stefan Maierhofer *,Wolverhampton Wanderers,9,1,0,0.11
-Ainsley Maitland-Niles *,"Southampton FC,Arsenal FC,West Bromwich Albion",97,1,0,0.01
+Stefan Maierhofer ,Wolverhampton Wanderers,9,1,0,0.11
+Ainsley Maitland-Niles ,"Southampton FC,Arsenal FC,West Bromwich Albion",97,1,0,0.01
 Stefan Malz,Arsenal FC,6,1,0,0.17
- Marc Roca *,Leeds United,18,1,0,0.06
-Dario Marcolin,Blackburn Rovers,10,1,0,0.10
+ Marc Roca ,Leeds United,18,1,0,0.06
+Dario Marcolin,Blackburn Rovers,10,1,0,0.1
 Javier Margas,West Ham United,24,1,0,0.04
 Marko Marin,Chelsea FC,6,1,0,0.17
 Nicky Marker,Blackburn Rovers,54,1,0,0.02
 Lee Marshall,"Leicester City,West Bromwich Albion",53,1,0,0.02
 Scott Marshall,"Southampton FC,Arsenal FC",26,1,0,0.04
 Cuco Martina,"Southampton FC,Everton FC",45,1,0,0.02
-Williams Martínez,West Bromwich Albion,2,1,0,0.50
-Bruno Martins Indi *,Stoke City,52,1,0,0.02
+Williams Martínez,West Bromwich Albion,2,1,0,0.5
+Bruno Martins Indi ,Stoke City,52,1,0,0.02
 Sylvain Marveaux,Newcastle United,38,1,0,0.03
 Javier Mascherano,"Liverpool FC,West Ham United",99,1,0,0.01
-Adam Masina *,Watford FC,55,1,0,0.02
-Arthur Masuaku *,West Ham United,105,1,0,0.01
-Marek Matějovský *,Reading FC,14,1,0,0.07
+Adam Masina ,Watford FC,55,1,0,0.02
+Arthur Masuaku ,West Ham United,105,1,0,0.01
+Marek Matějovský ,Reading FC,14,1,0,0.07
 Marco Materazzi,Everton FC,27,1,0,0.04
 Youl Mawéné,Derby County,25,1,0,0.04
-Isaac Mbenza *,Huddersfield Town,22,1,0,0.05
+Isaac Mbenza ,Huddersfield Town,22,1,0,0.05
 George McCartney,"Sunderland AFC,West Ham United",193,1,0,0.01
 Kevin McDonald,"Fulham FC,Burnley FC",41,1,0,0.02
-Aiden McGeady *,Everton FC,32,1,0,0.03
+Aiden McGeady ,Everton FC,32,1,0,0.03
 Ray McKinnon,Nottingham Forest,6,1,0,0.17
 Steve McMahon,Manchester City,69,1,0,0.01
 Michael Meaker,Queens Park Rangers,25,1,0,0.04
@@ -2349,69 +2349,69 @@ Tyrone Mears,"Derby County,West Ham United,Bolton Wanderers,Burnley FC",69,1,0,0
 Gary Megson,Norwich City,46,1,0,0.02
 John Mensah,Sunderland AFC,34,1,0,0.03
 Juan Menseguez,West Bromwich Albion,7,1,0,0.14
-Chris Mepham *,AFC Bournemouth,41,1,0,0.02
-Max Meyer *,Crystal Palace,46,1,0,0.02
+Chris Mepham ,AFC Bournemouth,41,1,0,0.02
+Max Meyer ,Crystal Palace,46,1,0,0.02
 Ľubomir Michalík,Bolton Wanderers,11,1,0,0.09
 Adie Mike,Manchester City,14,1,0,0.07
- Mikel Merino *,Newcastle United,24,1,0,0.04
+ Mikel Merino ,Newcastle United,24,1,0,0.04
 Liam Miller,"Manchester United,Sunderland AFC",36,1,0,0.03
 Paul Miller,Wimbledon FC,19,1,0,0.05
-Tyrick Mitchell *,Crystal Palace,76,1,0,0.01
-Viorel Moldovan,Coventry City,10,1,0,0.10
+Tyrick Mitchell ,Crystal Palace,76,1,0,0.01
+Viorel Moldovan,Coventry City,10,1,0,0.1
 Jefferson Montero,Swansea City,66,1,0,0.02
 Chris Morgan,"Sheffield United,Barnsley FC",35,1,0,0.03
-Ivica Mornar,Portsmouth FC,10,1,0,0.10
+Ivica Mornar,Portsmouth FC,10,1,0,0.1
 Steve Morrow,Arsenal FC,60,1,0,0.02
 Paul Mortimer,"Charlton Athletic,Crystal Palace",18,1,0,0.06
 Steven Mouyokolo,"Wolverhampton Wanderers,Hull City",25,1,0,0.04
-Mats Møller Dæhli *,Cardiff City,13,1,0,0.08
-John Mullin,Sunderland AFC,10,1,0,0.10
- Muniesa *,Stoke City,57,1,0,0.02
+Mats Møller Dæhli ,Cardiff City,13,1,0,0.08
+John Mullin,Sunderland AFC,10,1,0,0.1
+ Muniesa ,Stoke City,57,1,0,0.02
 David Murphy,"Middlesbrough FC,Birmingham City",37,1,0,0.03
-Yoshinori Mutō *,Newcastle United,25,1,0,0.04
+Yoshinori Mutō ,Newcastle United,25,1,0,0.04
 Arnold Mvuemba,Portsmouth FC,21,1,0,0.05
-Vitaliy Mykolenko *,Everton FC,32,1,0,0.03
-Alfred N'Diaye *,"Sunderland AFC,Hull City",31,1,0,0.03
+Vitaliy Mykolenko ,Everton FC,32,1,0,0.03
+Alfred N'Diaye ,"Sunderland AFC,Hull City",31,1,0,0.03
 Hidetoshi Nakata,Bolton Wanderers,21,1,0,0.05
 Lilian Nalis,Leicester City,20,1,0,0.05
-Luciano Narsingh *,Swansea City,31,1,0,0.03
-Matija Nastasić *,Manchester City,34,1,0,0.03
-Kyle Naughton *,"Tottenham Hotspur,Norwich City,Swansea City",176,1,0,0.01
+Luciano Narsingh ,Swansea City,31,1,0,0.03
+Matija Nastasić ,Manchester City,34,1,0,0.03
+Kyle Naughton ,"Tottenham Hotspur,Norwich City,Swansea City",176,1,0,0.01
 Noureddine Naybet,Tottenham Hotspur,30,1,0,0.03
 George Ndah,Crystal Palace,28,1,0,0.04
-Didier Ndong *,"Sunderland AFC,Watford FC",31,1,0,0.03
- Nélson Oliveira *,Swansea City,10,1,0,0.10
- Nélson Semedo *,Wolverhampton Wanderers,76,1,0,0.01
-Aidan Newhouse,Wimbledon FC,1,1,0,1.00
+Didier Ndong ,"Sunderland AFC,Watford FC",31,1,0,0.03
+ Nélson Oliveira ,Swansea City,10,1,0,0.1
+ Nélson Semedo ,Wolverhampton Wanderers,76,1,0,0.01
+Aidan Newhouse,Wimbledon FC,1,1,0,1.0
 Shaun Newton,"Charlton Athletic,West Ham United,Wolverhampton Wanderers",83,1,0,0.01
 Steve Nicol,"Liverpool FC,Sheffield Wednesday",116,1,0,0.01
 Luc Nijholt,Swindon Town,32,1,0,0.03
 Luc Nilis,Aston Villa,3,1,0,0.33
 Roland Nilsson,"Sheffield Wednesday,Coventry City",130,1,0,0.01
 Avi Nimny,Derby County,4,1,0,0.25
-Craig Noone *,Cardiff City,17,1,0,0.06
-Mathias Normann *,Norwich City,23,1,0,0.04
-Oliver Norwood *,Sheffield United,70,1,1,0.01
- Nuno Tavares *,Arsenal FC,22,1,0,0.05
+Craig Noone ,Cardiff City,17,1,0,0.06
+Mathias Normann ,Norwich City,23,1,0,0.04
+Oliver Norwood ,Sheffield United,70,1,1,0.01
+ Nuno Tavares ,Arsenal FC,22,1,0,0.05
 Alex Nyarko,Everton FC,33,1,0,0.03
-Lewin Nyatanga,Derby County,2,1,0,0.50
-Lewis O'Brien *,Nottingham Forest,13,1,0,0.08
-Stuart O'Keefe *,Crystal Palace,14,1,0,0.07
+Lewin Nyatanga,Derby County,2,1,0,0.5
+Lewis O'Brien ,Nottingham Forest,13,1,0,0.08
+Stuart O'Keefe ,Crystal Palace,14,1,0,0.07
 Scott Oakes,Sheffield Wednesday,23,1,0,0.04
-John Mikel Obi,Chelsea FC,249,1,0,0.00
+John Mikel Obi,Chelsea FC,249,1,0,0.0
 Jores Okore,Aston Villa,38,1,0,0.03
 David Oldfield,Leicester City,14,1,0,0.07
-Andrew Omobamidele *,Norwich City,5,1,0,0.20
-Amadou Onana *,Everton FC,17,1,0,0.06
+Andrew Omobamidele ,Norwich City,5,1,0,0.2
+Amadou Onana ,Everton FC,17,1,0,0.06
  Orlandi,Swansea City,3,1,0,0.33
  Orlando Sá,Fulham FC,7,1,0,0.14
 Þorvaldur Örlygsson,Nottingham Forest,20,1,0,0.05
 Ian Ormondroyd,Leicester City,6,1,0,0.17
-Ben Osborn *,Sheffield United,37,1,0,0.03
+Ben Osborn ,Sheffield United,37,1,0,0.03
 Alpay Özalan,Aston Villa,58,1,0,0.02
 Mixu Paatelainen,Bolton Wanderers,14,1,0,0.07
- Pablo Ibáñez,West Bromwich Albion,10,1,0,0.10
-Michele Padovano,Crystal Palace,10,1,0,0.10
+ Pablo Ibáñez,West Bromwich Albion,10,1,0,0.1
+Michele Padovano,Crystal Palace,10,1,0,0.1
 Rob Page,Watford FC,36,1,0,0.03
 Wilson Palacios,"Tottenham Hotspur,Birmingham City,Stoke City,Wigan Athletic",148,1,0,0.01
 Steve Palmer,"Ipswich Town,Watford FC",93,1,0,0.01
@@ -2421,28 +2421,28 @@ Mark Patterson,Bolton Wanderers,16,1,1,0.06
 Adrián Paz,Ipswich Town,17,1,0,0.06
 Nigel Pearson,"Middlesbrough FC,Sheffield Wednesday",76,1,0,0.01
 Per Pedersen,Blackburn Rovers,11,1,0,0.09
-Matthew Pennington *,Everton FC,7,1,0,0.14
-James Perch *,Newcastle United,65,1,0,0.02
-Sébastien Pérez,Blackburn Rovers,5,1,0,0.20
+Matthew Pennington ,Everton FC,7,1,0,0.14
+James Perch ,Newcastle United,65,1,0,0.02
+Sébastien Pérez,Blackburn Rovers,5,1,0,0.2
 David Perpetuini,Watford FC,13,1,0,0.08
 Terry Phelan,"Chelsea FC,Everton FC,Manchester City",143,1,0,0.01
-Kalvin Phillips *,"Leeds United,Manchester City",51,1,0,0.02
-Nathaniel Phillips *,Liverpool FC,19,1,0,0.05
-Erik Pieters *,"Stoke City,Burnley FC",225,1,0,0.00
-Ethan Pinnock *,Brentford FC,43,1,0,0.02
+Kalvin Phillips ,"Leeds United,Manchester City",51,1,0,0.02
+Nathaniel Phillips ,Liverpool FC,19,1,0,0.05
+Erik Pieters ,"Stoke City,Burnley FC",225,1,0,0.0
+Ethan Pinnock ,Brentford FC,43,1,0,0.02
 Matthew Piper,"Sunderland AFC,Leicester City",29,1,0,0.03
 John Polston,Norwich City,96,1,0,0.01
 Darren Powell,Crystal Palace,6,1,0,0.17
-Nick Powell *,"Manchester United,Leicester City",6,1,0,0.17
-Darren Pratley *,"Bolton Wanderers,Fulham FC",26,1,0,0.04
+Nick Powell ,"Manchester United,Leicester City",6,1,0,0.17
+Darren Pratley ,"Bolton Wanderers,Fulham FC",26,1,0,0.04
 Steven Pressley,Coventry City,19,1,0,0.05
 Rade Prica,Sunderland AFC,6,1,0,0.17
 Danny Pugh,"Manchester United,Stoke City",38,1,0,0.03
 Darren Purse,"West Bromwich Albion,Birmingham City",52,1,0,0.02
 Sébastien Puygrenier,Bolton Wanderers,7,1,0,0.14
-Milot Rashica *,Norwich City,31,1,0,0.03
-Tim Ream *,"Bolton Wanderers,Fulham FC",66,1,0,0.02
-Michael Reddy,Sunderland AFC,10,1,0,0.10
+Milot Rashica ,Norwich City,31,1,0,0.03
+Tim Ream ,"Bolton Wanderers,Fulham FC",66,1,0,0.02
+Michael Reddy,Sunderland AFC,10,1,0,0.1
 Steve Redmond,Oldham Athletic,64,1,0,0.02
 Cyrille Regis,Aston Villa,13,1,0,0.08
 Michael Reiziger,Middlesbrough FC,22,1,0,0.05
@@ -2451,39 +2451,39 @@ Sam Ricketts,"Bolton Wanderers,Hull City",93,1,0,0.01
 Sascha Riether,Fulham FC,66,1,0,0.02
 Cristian Riveros,Sunderland AFC,12,1,0,0.08
 Emmanuel Rivière,Newcastle United,26,1,0,0.04
-Connor Roberts *,"Swansea City,Burnley FC",25,1,0,0.04
+Connor Roberts ,"Swansea City,Burnley FC",25,1,0,0.04
 Marvin Robinson,Derby County,11,1,0,0.09
-Paul Robinson,"Leeds United,Tottenham Hotspur,Blackburn Rovers,Burnley FC",375,1,0,0.00
-Paul Robinson,"Bolton Wanderers,Watford FC,West Bromwich Albion",207,1,0,0.00
-Mads Roerslev *,Brentford FC,32,1,0,0.03
+Paul Robinson,"Leeds United,Tottenham Hotspur,Blackburn Rovers,Burnley FC",375,1,0,0.0
+Paul Robinson,"Bolton Wanderers,Watford FC,West Bromwich Albion",207,1,0,0.0
+Mads Roerslev ,Brentford FC,32,1,0,0.03
 Marcos Rojo,Manchester United,76,1,0,0.01
-Cristian Romero *,Tottenham Hotspur,34,1,0,0.03
+Cristian Romero ,Tottenham Hotspur,34,1,0,0.03
 Liam Rosenior,"Fulham FC,Brighton & Hove Albion,Hull City,Reading FC",142,1,0,0.01
 Giuseppe Rossi,"Manchester United,Newcastle United",16,1,0,0.06
 Keith Rowland,"West Ham United,Coventry City",81,1,0,0.01
 Youssef Safri,Norwich City,18,1,0,0.06
 Nuri Şahin,Liverpool FC,7,1,0,0.14
 Moussa Saïb,Tottenham Hotspur,13,1,0,0.08
-Henri Saivet *,Newcastle United,5,1,0,0.20
+Henri Saivet ,Newcastle United,5,1,0,0.2
 Lamine Sakho,Leeds United,17,1,0,0.06
-Ally Samatta *,Aston Villa,14,1,0,0.07
-Conor Sammon *,Wigan Athletic,32,1,0,0.03
+Ally Samatta ,Aston Villa,14,1,0,0.07
+Conor Sammon ,Wigan Athletic,32,1,0,0.03
 Carlos Sánchez,"West Ham United,Aston Villa",61,1,0,0.02
-Francesco Sanetti,Sheffield Wednesday,5,1,0,0.20
+Francesco Sanetti,Sheffield Wednesday,5,1,0,0.2
 Kenny Sansom,"Everton FC,Coventry City",28,1,0,0.04
 Davide Santon,Newcastle United,82,1,0,0.01
-Stefan Savić *,Manchester City,11,1,0,0.09
+Stefan Savić ,Manchester City,11,1,0,0.09
 Sebastien Schemmel,"West Ham United,Portsmouth FC",77,1,0,0.01
-Christopher Schindler *,Huddersfield Town,74,1,0,0.01
-Peter Schmeichel,"Manchester United,Aston Villa,Manchester City",310,1,0,0.00
+Christopher Schindler ,Huddersfield Town,74,1,0,0.01
+Peter Schmeichel,"Manchester United,Aston Villa,Manchester City",310,1,0,0.0
 Bastian Schweinsteiger,Manchester United,18,1,0,0.06
 Jason Scotland,Wigan Athletic,32,1,0,0.03
 Kevin Scott,"Newcastle United,Tottenham Hotspur",36,1,0,0.03
 Martin Scott,Sunderland AFC,15,1,1,0.07
 Phillip Scott,Sheffield Wednesday,8,1,0,0.13
-Ken Sema *,Watford FC,35,1,0,0.03
-Jean Michaël Seri *,Fulham FC,32,1,0,0.03
-Itay Shechter *,Swansea City,18,1,0,0.06
+Ken Sema ,Watford FC,35,1,0,0.03
+Jean Michaël Seri ,Fulham FC,32,1,0,0.03
+Itay Shechter ,Swansea City,18,1,0,0.06
 Danny Shittu,"Bolton Wanderers,Watford FC",40,1,0,0.03
 Ryan Shotton,Stoke City,48,1,0,0.02
 Jay Simpson,West Bromwich Albion,13,1,0,0.08
@@ -2496,11 +2496,11 @@ Ibrahima Sonko,"Stoke City,Hull City,Reading FC",62,1,0,0.02
 Nicky Southall,Bolton Wanderers,18,1,0,0.06
 Jonathan Spector,"Manchester United,Charlton Athletic,West Ham United",124,1,0,0.01
 Sébastien Squillaci,Arsenal FC,23,1,0,0.04
-Dennis Srbeny *,Norwich City,8,1,0,0.13
+Dennis Srbeny ,Norwich City,8,1,0,0.13
 Jaap Stam,Manchester United,79,1,0,0.01
 Ronnie Stam,Wigan Athletic,62,1,0,0.02
-Richard Stearman *,"Wolverhampton Wanderers,Sheffield United",77,1,0,0.01
- Stefan Bajčetić *,Liverpool FC,3,1,0,0.33
+Richard Stearman ,"Wolverhampton Wanderers,Sheffield United",77,1,0,0.01
+ Stefan Bajčetić ,Liverpool FC,3,1,0,0.33
 Dale Stephens,"Brighton & Hove Albion,Burnley FC",109,1,0,0.01
 Jonathan Stevenson,Leicester City,6,1,0,0.17
 Jordan Stewart,"Leicester City,Watford FC",69,1,0,0.01
@@ -2509,37 +2509,37 @@ Denis Stracqualursi,Everton FC,21,1,0,0.05
 Mark Summerbell,Middlesbrough FC,38,1,0,0.03
 Taye Taïwo,Queens Park Rangers,15,1,0,0.07
 Steve Talboys,Wimbledon FC,26,1,0,0.04
-Nathan Tella *,Southampton FC,33,1,0,0.03
-Ben Thatcher,"Leicester City,Charlton Athletic,Tottenham Hotspur,Manchester City,Wimbledon FC",209,1,0,0.00
-Luke Thomas *,Leicester City,47,1,0,0.02
+Nathan Tella ,Southampton FC,33,1,0,0.03
+Ben Thatcher,"Leicester City,Charlton Athletic,Tottenham Hotspur,Manchester City,Wimbledon FC",209,1,0,0.0
+Luke Thomas ,Leicester City,47,1,0,0.02
 Sean Thornton,Sunderland AFC,11,1,0,0.09
 Dwight Tiendalli,Swansea City,27,1,0,0.04
 Cheick Tioté,Newcastle United,138,1,0,0.01
 Paul Tisdale,Southampton FC,16,1,0,0.06
-Fikayo Tomori *,Chelsea FC,17,1,0,0.06
+Fikayo Tomori ,Chelsea FC,17,1,0,0.06
 Hatem Trabelsi,Manchester City,20,1,0,0.05
 Armand Traoré,"Arsenal FC,Queens Park Rangers,Portsmouth FC",97,1,0,0.01
 Paul Trollope,Derby County,24,1,0,0.04
 Simo Valakari,Derby County,20,1,0,0.05
 Jelle Van Damme,"Southampton FC,Wolverhampton Wanderers",12,1,0,0.08
 Ulrich van Gobbel,Southampton FC,27,1,0,0.04
-Ricky van Wolfswinkel *,Norwich City,25,1,0,0.04
+Ricky van Wolfswinkel ,Norwich City,25,1,0,0.04
 Imre Váradi,Leeds United,4,1,0,0.25
-Raphaël Varane *,Manchester United,37,1,0,0.03
- Varela *,West Bromwich Albion,7,1,0,0.14
+Raphaël Varane ,Manchester United,37,1,0,0.03
+ Varela ,West Bromwich Albion,7,1,0,0.14
 Stanislav Varga,Sunderland AFC,21,1,0,0.05
 Barry Venison,"Southampton FC,Newcastle United",89,1,0,0.01
 Nicola Ventola,Crystal Palace,3,1,0,0.33
 Paolo Vernazza,Arsenal FC,4,1,0,0.25
 Jhon Viáfara,Portsmouth FC,14,1,0,0.07
-Luciano Vietto *,Fulham FC,20,1,0,0.05
-Nikola Vlašić *,"West Ham United,Everton FC",31,1,0,0.03
-Mario Vrančić *,Norwich City,20,1,0,0.05
+Luciano Vietto ,Fulham FC,20,1,0,0.05
+Nikola Vlašić ,"West Ham United,Everton FC",31,1,0,0.03
+Mario Vrančić ,Norwich City,20,1,0,0.05
 Simon Vukčević,Blackburn Rovers,7,1,0,0.14
 Zvonimir Vukić,Portsmouth FC,9,1,0,0.11
 Molla Wagué,Watford FC,6,1,0,0.17
 Ronnie Wallwork,"Manchester United,West Bromwich Albion",97,1,0,0.01
-Danny Ward *,"Bolton Wanderers,Cardiff City",16,1,0,0.06
+Danny Ward ,"Bolton Wanderers,Cardiff City",16,1,0,0.06
 Darren Ward,Watford FC,9,1,0,0.11
 Mitch Ward,"Everton FC,Sheffield United",72,1,0,0.01
 Robert Warzycha,Everton FC,27,1,0,0.04
@@ -2550,23 +2550,23 @@ Adrian Whitbread,"West Ham United,Swindon Town",44,1,0,0.02
 Jeff Whitley,Manchester City,31,1,0,0.03
 Chris Whyte,"Leeds United,Coventry City",35,1,0,0.03
 Aaron Wilbraham,"Norwich City,Crystal Palace",15,1,0,0.07
-Brandon Williams *,"Manchester United,Norwich City",47,1,0,0.02
+Brandon Williams ,"Manchester United,Norwich City",47,1,0,0.02
 Geraint Williams,Ipswich Town,109,1,0,0.01
 Mark Williams,Watford FC,22,1,0,0.05
 Mike Williams,Sheffield Wednesday,23,1,0,0.04
 Paul Williams,"Sheffield Wednesday,Crystal Palace",29,1,0,0.03
-Mike Williamson *,Newcastle United,134,1,0,0.01
- Willian José *,Wolverhampton Wanderers,17,1,0,0.06
+Mike Williamson ,Newcastle United,134,1,0,0.01
+ Willian José ,Wolverhampton Wanderers,17,1,0,0.06
 Marc Wilson,"West Bromwich Albion,Portsmouth FC,AFC Bournemouth,Stoke City",180,1,0,0.01
 Mark Wilson,"Manchester United,Middlesbrough FC",19,1,0,0.05
 Pierre Womé,Fulham FC,14,1,0,0.07
-Cauley Woodrow *,Fulham FC,6,1,0,0.17
+Cauley Woodrow ,Fulham FC,6,1,0,0.17
 Nordin Wooter,Watford FC,20,1,0,0.05
  Xisco,Newcastle United,7,1,0,0.14
 Claudio Yacob,West Bromwich Albion,160,1,0,0.01
 Steve Yates,Queens Park Rangers,82,1,0,0.01
-Davide Zappacosta *,Chelsea FC,26,1,0,0.04
+Davide Zappacosta ,Chelsea FC,26,1,0,0.04
 Zhi Zheng,Charlton Athletic,12,1,0,0.08
-Reto Ziegler *,"Tottenham Hotspur,Wigan Athletic",33,1,0,0.03
-Kenneth Zohoré *,Cardiff City,19,1,0,0.05
+Reto Ziegler ,"Tottenham Hotspur,Wigan Athletic",33,1,0,0.03
+Kenneth Zohoré ,Cardiff City,19,1,0,0.05
 Juan Zúñiga,Watford FC,21,1,0,0.05
