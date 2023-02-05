@@ -1,24 +1,24 @@
 Rank,Name,Club,GoalsGL,AssistsA,PlayedP,Goals per 90,Mins per GoalMPG,Total Shots,Goal Conversion,Shot Accuracy
 1,Erling Haaland,Manchester City,25,3,19,1.45,62,63,40%,63%
 2,Harry Kane,Tottenham Hotspur,16,1,21,0.77,117,57,28%,67%
-3,Ivan Toney,Brentford,13,3,18,0.73,124,46,28%,50%
+3,Ivan Toney,Brentford,13,3,19,0.69,131,47,28%,51%
 4,Aleksandar Mitrovic,Fulham,11,1,18,0.64,141,60,18%,48%
+5,Marcus Rashford,Manchester United,10,3,21,0.53,171,42,24%,62%
 5,Rodrigo Moreno,Leeds United,10,1,18,0.69,131,37,27%,57%
-6,Marcus Rashford,Manchester United,9,3,20,0.50,180,36,25%,67%
-6,Miguel Almirón,Newcastle United,9,1,20,0.49,186,28,32%,54%
-8,Martin ØdegaardØdegaard,Arsenal,8,5,18,0.47,191,29,28%,59%
-9,Bukayo Saka,Arsenal,7,7,19,0.39,232,27,26%,52%
-9,James Maddison,Leicester City,7,4,14,0.56,160,25,28%,52%
-9,Mohamed Salah,Liverpool,7,4,19,0.37,241,49,14%,49%
-9,Roberto Firmino,Liverpool,7,3,13,0.67,134,26,27%,77%
-9,Phil Foden,Manchester City,7,3,18,0.60,150,21,33%,67%
-9,Leandro Trossard,Brighton & Hove Albion,7,2,17,0.47,190,25,28%,72%
-9,Gabriel Martinelli,Arsenal,7,2,19,0.39,231,32,22%,56%
-9,Harvey Barnes,Leicester City,7,0,18,0.41,217,32,22%,63%
-17,Callum Wilson,Newcastle United,6,3,15,0.52,174,33,18%,48%
-17,Pascal Groß,Brighton & Hove Albion,6,3,19,0.33,274,14,43%,71%
-17,Wilfried Zaha,Crystal Palace,6,2,19,0.32,277,27,22%,63%
-17,Danny Ings,"Aston Villa, West Ham United",6,0,19,0.65,139,21,29%,67%
+7,Miguel Almirón,Newcastle United,9,1,21,0.46,195,28,32%,54%
+8,Martin ØdegaardØdegaard,Arsenal,8,5,19,0.45,200,30,27%,57%
+8,James Maddison,Leicester City,8,4,15,0.61,149,27,30%,52%
+10,Bukayo Saka,Arsenal,7,7,20,0.37,245,29,24%,52%
+10,Mohamed Salah,Liverpool,7,4,20,0.35,254,51,14%,47%
+10,Roberto Firmino,Liverpool,7,3,13,0.67,134,26,27%,77%
+10,Phil Foden,Manchester City,7,3,18,0.60,150,21,33%,67%
+10,Callum Wilson,Newcastle United,7,3,16,0.55,162,35,20%,51%
+10,Leandro Trossard,Brighton & Hove Albion,7,2,18,0.46,195,27,26%,70%
+10,Gabriel Martinelli,Arsenal,7,2,20,0.38,239,32,22%,56%
+10,Harvey Barnes,Leicester City,7,1,19,0.39,230,33,21%,64%
+18,Pascal Groß,Brighton & Hove Albion,6,3,20,0.31,289,15,40%,67%
+18,Wilfried Zaha,Crystal Palace,6,2,19,0.32,277,27,22%,63%
+18,Danny Ings,"Aston Villa, West Ham United",6,0,20,0.64,141,22,27%,64%
 21,Gabriel Jesus,Arsenal,5,5,14,0.37,245,37,14%,54%
-21,Darwin Núñez,Liverpool,5,2,14,0.50,180,48,10%,52%
-21,James Ward-,Prowse Southampton,5,2,20,0.25,360,16,31%,63%
+21,Ollie Watkins,Aston Villa,5,4,20,0.28,326,32,16%,66%
+21,Bruno Fernandes,Manchester United,5,4,20,0.25,360,27,19%,56%
