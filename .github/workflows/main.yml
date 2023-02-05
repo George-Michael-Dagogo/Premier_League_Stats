@@ -23,7 +23,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute py script # run main.py
+      - name: execute extract script # run ./Updating_with_BS4/to_csvs.py
+          
+        run: python ./Updating_with_BS4/to_csvs.py
+        
+      - name: execute update script # run ./Updating_with_BS4/to_csvs.py
         env:
           DATABASE: ${{ secrets.DATABASE }}
           HOST: ${{ secrets.HOST }}
@@ -31,7 +35,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD}}
           USER: ${{ secrets.USER }}
           
-        run: python ./Updating_with_BS4/to_csvs.py
+        run: python ./Updating_with_BS4/push_to_database.py
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
