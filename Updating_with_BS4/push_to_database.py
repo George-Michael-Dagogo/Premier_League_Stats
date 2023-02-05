@@ -320,3 +320,19 @@ with open('./csv_dir/top_scorers(all_time).csv', 'r') as f:
 
 conn.close()      
 
+conn_string = os.getenv('CONN_STRING')
+db = create_engine(conn_string)
+conn = db.connect()
+
+detailed_top_scorers  = pd.read_csv("csv_dir/detail_top_scorers.csv")
+detailed_top_scorers.to_sql('detailed_top_scorers ', con=conn, if_exists='replace', index=False)
+
+top_scorers  = pd.read_csv("csv_dir/top_scorers.csv")
+top_scorers.to_sql('top_scorers', con=conn, if_exists='replace', index=False)
+
+assists  = pd.read_csv("csv_dir/assists.csv")
+assists.to_sql('assists', con=conn, if_exists='replace', index=False)
+
+league_table  = pd.read_csv("csv_dir/league_table.csv")
+league_table.to_sql('league_table', con=conn, if_exists='replace', index=False)
+conn.close()
