@@ -8,10 +8,10 @@ import os
 
 load_dotenv()
 # Connect with bit.io API key credentials
-conn = psycopg2.connect(database = os.getenv('database'),
-                                user= os.getenv('user'), 
-                                password= os.getenv('password'),
-                                host= os.getenv('host')
+conn = psycopg2.connect(database = os.getenv('DATABASE'),
+                                user= os.getenv('USER'), 
+                                password= os.getenv('PASSWORD'),
+                                host= os.getenv('HOST')
         )
 
 conn.autocommit = True
@@ -320,7 +320,7 @@ with open('./csv_dir/top_scorers(all_time).csv', 'r') as f:
 
 conn.close()      
 
-conn_string = os.getenv('conn_string')
+conn_string = os.getenv('CONN_STRING')
 db = create_engine(conn_string)
 conn = db.connect()
 
