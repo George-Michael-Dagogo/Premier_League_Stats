@@ -1,6 +1,6 @@
 Player,Country,Team,Goals,Penalty
 Erling Haaland,Norway,Manchester City ,25,4
-Harry Kane,England,Tottenham Hotspur ,16,2
+Harry Kane,England,Tottenham Hotspur ,17,2
 Ivan Toney,England,Brentford FC ,13,4
 Aleksandar Mitrović,Serbia,Fulham FC ,11,3
 Marcus Rashford,England,Manchester United ,10,0
@@ -25,6 +25,7 @@ Wilfried Zaha,Ivory Coast,Crystal Palace ,6,0
  Daniel Podence,Portugal,Wolverhampton Wanderers ,5,0
  Gabriel Jesus,Brazil,Arsenal FC ,5,0
 Kai Havertz,Germany,Chelsea FC ,5,0
+Brennan Johnson,Wales,Nottingham Forest ,5,1
 Alexis Mac Allister,Argentina,Brighton & Hove Albion ,5,3
 Bryan Mbeumo,Cameroon,Brentford FC ,5,1
 Kaoru Mitoma,Japan,Brighton & Hove Albion ,5,0
@@ -41,7 +42,6 @@ Philip Billing,Denmark,AFC Bournemouth ,4,0
 Jarrod Bowen,England,West Ham United ,4,1
 Bobby Decordova-Reid,Jamaica,Fulham FC ,4,0
 Pierre-Emile Højbjerg,Denmark,Tottenham Hotspur ,4,0
-Brennan Johnson,Wales,Nottingham Forest ,4,1
 Riyad Mahrez,Algeria,Manchester City ,4,0
 Solly March,England,Brighton & Hove Albion ,4,0
 Kieffer Moore,Wales,AFC Bournemouth ,4,0
