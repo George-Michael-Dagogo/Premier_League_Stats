@@ -1,7 +1,7 @@
 Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Points,grade_class,conqueror
 1,Arsenal,20,16,2,2,45,17,28,50,C,-10
 2,Manchester City,21,14,3,4,53,21,32,45,C,-18
-3,Manchester United,21,13,3,5,34,26,8,42,C,-21
+3,Manchester United,22,13,4,5,36,28,8,43,C,-23
 4,Newcastle United,21,10,10,1,34,12,22,40,C,-23
 5,Tottenham Hotspur,22,12,3,7,41,31,10,39,C,-27
 6,Brighton & Hove Albion,20,10,4,6,38,27,11,34,C,-26
@@ -14,8 +14,8 @@ Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Poin
 13,Nottingham Forest,21,6,6,9,17,35,-18,24,C,-39
 14,Leicester City,21,6,3,12,32,37,-5,21,C,-42
 15,Wolverhampton Wanderers,21,5,5,11,15,30,-15,20,C,-43
-16,West Ham United,21,5,4,12,18,26,-8,19,C,-44
-17,Leeds United,20,4,6,10,26,34,-8,18,C,-42
+16,Leeds United,21,4,7,10,28,36,-8,19,C,-44
+17,West Ham United,21,5,4,12,18,26,-8,19,C,-44
 18,Everton,21,4,6,11,16,28,-12,18,C,-45
 19,AFC Bournemouth,21,4,5,12,19,43,-24,17,C,-46
 20,Southampton,21,4,3,14,17,38,-21,15,C,-48

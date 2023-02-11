@@ -3,7 +3,7 @@ Erling Haaland,Norway,Manchester City ,25,4
 Harry Kane,England,Tottenham Hotspur ,17,2
 Ivan Toney,England,Brentford FC ,13,4
 Aleksandar Mitrović,Serbia,Fulham FC ,11,3
-Marcus Rashford,England,Manchester United ,10,0
+Marcus Rashford,England,Manchester United ,11,0
  Rodrigo,Spain,Leeds United ,10,1
 Miguel Almirón,Paraguay,Newcastle United ,9,0
 James Maddison,England,Leicester City ,8,0
@@ -71,6 +71,7 @@ Mathias Jensen,Denmark,Brentford FC ,3,0
 Anthony Martial,France,Manchester United ,3,1
 Ben Mee,England,Brentford FC ,3,0
 Mason Mount,England,Chelsea FC ,3,0
+Jadon Sancho,England,Manchester United ,3,0
 Gianluca Scamacca,Italy,West Ham United ,3,0
 Dominic Solanke,England,AFC Bournemouth ,3,0
 Youri Tielemans,Belgium,Leicester City ,3,1
@@ -89,6 +90,7 @@ Eric Dier,England,Tottenham Hotspur ,2,0
  Gabriel,Brazil,Arsenal FC ,2,0
 Morgan Gibbs-White,England,"Nottingham Forest 
 Wolverhampton Wanderers ",2,0
+Wilfried Gnonto,Italy,Leeds United ,2,0
 Jack Grealish,England,Manchester City ,2,0
 İlkay Gündoğan,Germany,Manchester City ,2,0
 Kelechi Iheanacho,Nigeria,Leicester City ,2,0
@@ -110,7 +112,6 @@ Romain Perraud,France,Southampton FC ,2,0
 Jacob Ramsey,England,Aston Villa ,2,0
 Harrison Reed,England,Fulham FC ,2,0
 William Saliba,France,Arsenal FC ,2,0
-Jadon Sancho,England,Manchester United ,2,0
 Ryan Sessegnon,England,Tottenham Hotspur ,2,0
 Luis Sinisterra,Colombia,Leeds United ,2,0
 Pascal Struijk,Netherlands,Leeds United ,2,0
@@ -156,7 +157,6 @@ Christian Eriksen,Denmark,Manchester United ,1,0
  Fábio Vieira,Portugal,Arsenal FC ,1,0
 Conor Gallagher,England,Chelsea FC ,1,0
 Alejandro Garnacho,Argentina,Manchester United ,1,0
-Wilfried Gnonto,Italy,Leeds United ,1,0
  Gonçalo Guedes,Portugal,Wolverhampton Wanderers ,1,0
 Sam Greenwood,England,Leeds United ,1,0
 Jack Harrison,England,Leeds United ,1,0
