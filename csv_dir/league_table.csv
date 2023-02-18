@@ -1,21 +1,21 @@
 Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Points,grade_class,conqueror
-1,Arsenal,21,16,3,2,46,18,28,51,C,-12
-2,Manchester City,21,14,3,4,53,21,32,45,C,-18
-3,Manchester United,22,13,4,5,36,28,8,43,C,-23
+1,Manchester City,23,16,3,4,59,23,36,51,C,-18
+2,Arsenal,22,16,3,3,47,21,26,51,C,-15
+3,Manchester United,23,14,4,5,38,28,10,46,C,-23
 4,Newcastle United,22,10,11,1,35,13,22,41,C,-25
 5,Tottenham Hotspur,23,12,3,8,42,35,7,39,C,-30
 6,Brighton & Hove Albion,21,10,5,6,39,28,11,35,C,-28
 7,Fulham,23,10,5,8,34,30,4,35,C,-34
 8,Brentford,22,8,10,4,36,29,7,34,C,-32
-9,Chelsea,22,8,7,7,23,22,1,31,C,-35
-10,Liverpool,20,8,5,7,34,28,6,29,C,-31
-11,Aston Villa,21,8,4,9,25,31,-6,28,C,-35
+9,Liverpool,21,9,5,7,36,28,8,32,C,-31
+10,Chelsea,22,8,7,7,23,22,1,31,C,-35
+11,Aston Villa,22,8,4,10,26,34,-8,28,C,-38
 12,Crystal Palace,22,6,7,9,20,30,-10,25,C,-41
 13,Leicester City,22,7,3,12,36,38,-2,24,C,-42
 14,Nottingham Forest,22,6,6,10,17,37,-20,24,C,-42
 15,Wolverhampton Wanderers,22,6,5,11,17,31,-14,23,C,-43
 16,West Ham United,22,5,5,12,19,27,-8,20,C,-46
-17,Leeds United,21,4,7,10,28,36,-8,19,C,-44
-18,Everton,21,4,6,11,16,28,-12,18,C,-45
+17,Leeds United,22,4,7,11,28,38,-10,19,C,-47
+18,Everton,22,4,6,12,16,30,-14,18,C,-48
 19,AFC Bournemouth,22,4,6,12,20,44,-24,18,C,-48
 20,Southampton,22,4,3,15,18,40,-22,15,C,-51
