@@ -1,10 +1,10 @@
 Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Points,grade_class,conqueror
 1,Arsenal,23,17,3,3,51,23,28,54,C,-15
 2,Manchester City,24,16,4,4,60,24,36,52,C,-20
-3,Manchester United,23,14,4,5,38,28,10,46,C,-23
-4,Newcastle United,23,10,11,2,35,15,20,41,C,-28
-5,Tottenham Hotspur,23,12,3,8,42,35,7,39,C,-30
-6,Fulham,24,11,5,8,35,30,5,38,C,-34
+3,Manchester United,24,15,4,5,41,28,13,49,C,-23
+4,Tottenham Hotspur,24,13,3,8,44,35,9,42,C,-30
+5,Newcastle United,23,10,11,2,35,15,20,41,C,-28
+6,Fulham,25,11,6,8,36,31,5,39,C,-36
 7,Brighton & Hove Albion,22,10,5,7,39,29,10,35,C,-31
 8,Liverpool,22,10,5,7,38,28,10,35,C,-31
 9,Brentford,23,8,11,4,37,30,7,35,C,-34
@@ -12,10 +12,10 @@ Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Poin
 11,Aston Villa,23,8,4,11,28,38,-10,28,C,-41
 12,Crystal Palace,23,6,8,9,21,31,-10,26,C,-43
 13,Nottingham Forest,23,6,7,10,18,38,-20,25,C,-44
-14,Leicester City,22,7,3,12,36,38,-2,24,C,-42
-15,Wolverhampton Wanderers,23,6,5,12,17,32,-15,23,C,-46
+14,Leicester City,23,7,3,13,36,41,-5,24,C,-45
+15,Wolverhampton Wanderers,24,6,6,12,18,33,-15,24,C,-48
 16,Everton,23,5,6,12,17,30,-13,21,C,-48
 17,AFC Bournemouth,23,5,6,12,21,44,-23,21,C,-48
-18,West Ham United,22,5,5,12,19,27,-8,20,C,-46
+18,West Ham United,23,5,5,13,19,29,-10,20,C,-49
 19,Leeds United,23,4,7,12,28,39,-11,19,C,-50
 20,Southampton,23,5,3,15,19,40,-21,18,C,-51
