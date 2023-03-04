@@ -1,20 +1,20 @@
 Player,Country,Team,Goals,Penalty
 Erling Haaland,Norway,Manchester City ,27,4
-Harry Kane,England,Tottenham Hotspur ,17,2
+Harry Kane,England,Tottenham Hotspur ,18,2
 Marcus Rashford,England,Manchester United ,14,0
 Ivan Toney,England,Brentford FC ,14,4
+ Gabriel Martinelli,Brazil,Arsenal FC ,11,0
 Aleksandar Mitrović,Serbia,Fulham FC ,11,3
 Miguel Almirón,Paraguay,Newcastle United ,10,0
  Rodrigo,Spain,Leeds United ,10,1
- Gabriel Martinelli,Brazil,Arsenal FC ,9,0
+Bukayo Saka,England,Arsenal FC ,10,2
 James Maddison,England,Leicester City ,9,0
-Bukayo Saka,England,Arsenal FC ,9,2
+Martin Ødegaard,Norway,Arsenal FC ,9,0
+Mo Salah,Egypt,Liverpool FC ,9,0
 Harvey Barnes,England,Leicester City ,8,0
 Phil Foden,England,Manchester City ,8,0
 Danny Ings,England,"Aston Villa 
 West Ham United ",8,2
-Martin Ødegaard,Norway,Arsenal FC ,8,0
-Mo Salah,Egypt,Liverpool FC ,8,0
 Leandro Trossard,Belgium,"Arsenal FC 
 Brighton & Hove Albion ",8,0
 Ollie Watkins,England,Aston Villa ,8,1
@@ -84,6 +84,7 @@ Dominic Solanke,England,AFC Bournemouth ,3,0
 Manor Solomon,Israel,Fulham FC ,3,0
 Marcus Tavernier,England,AFC Bournemouth ,3,0
 Youri Tielemans,Belgium,Leicester City ,3,1
+Virgil van Dijk,Netherlands,Liverpool FC ,3,0
  Willian,Brazil,Fulham FC ,3,0
 Chris Wood,New Zealand,"Newcastle United 
 Nottingham Forest ",3,1
@@ -125,7 +126,6 @@ William Saliba,France,Arsenal FC ,2,0
 Ryan Sessegnon,England,Tottenham Hotspur ,2,0
 Luis Sinisterra,Colombia,Leeds United ,2,0
 Pascal Struijk,Netherlands,Leeds United ,2,0
-Virgil van Dijk,Netherlands,Liverpool FC ,2,0
 Joe Willock,England,Newcastle United ,2,0
 Brenden Aaronson,USA,Leeds United ,1,0
  Adama Traoré,Spain,Wolverhampton Wanderers ,1,0
@@ -200,6 +200,7 @@ Fabian Schär,Switzerland,Newcastle United ,1,0
 Jeffrey Schlupp,Ghana,Crystal Palace ,1,0
 Marcos Senesi,Argentina,AFC Bournemouth ,1,0
 Luke Shaw,England,Manchester United ,1,0
+Oliver Skipp,England,Tottenham Hotspur ,1,0
 Tomáš Souček,Czech Republic,West Ham United ,1,0
  Stefan Bajčetić,Spain,Liverpool FC ,1,0
 Sam Surridge,England,Nottingham Forest ,1,0
