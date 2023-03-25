@@ -1,5 +1,5 @@
 Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Points,grade_class,conqueror
-1,Arsenal,27,21,3,3,62,25,37,66,C,-15
+1,Arsenal,28,22,3,3,66,26,40,69,C,-15
 2,Manchester City,27,19,4,4,67,25,42,61,C,-20
 3,Manchester United,26,15,5,6,41,35,6,50,C,-28
 4,Tottenham Hotspur,28,15,4,9,52,40,12,49,C,-35
@@ -10,7 +10,7 @@ Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Poin
 9,Fulham,27,11,6,10,38,37,1,39,C,-42
 10,Chelsea,27,10,8,9,29,28,1,38,C,-43
 11,Aston Villa,27,11,5,11,35,39,-4,38,C,-43
-12,Crystal Palace,27,6,9,12,21,34,-13,27,C,-54
+12,Crystal Palace,28,6,9,13,22,38,-16,27,C,-57
 13,Wolverhampton Wanderers,28,7,6,15,22,41,-19,27,C,-57
 14,Leeds United,27,6,8,13,35,44,-9,26,C,-55
 15,Everton,28,6,8,14,22,40,-18,26,C,-58
