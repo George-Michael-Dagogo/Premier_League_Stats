@@ -1,24 +1,24 @@
 Rank,Name,Club,GoalsGL,AssistsA,PlayedP,Goals per 90,Mins per GoalMPG,Total Shots,Goal Conversion,Shot Accuracy
 1,Erling Haaland,Manchester City,28,5,26,1.19,76,74,38%,59%
 2,Harry Kane,Tottenham Hotspur,21,2,28,0.75,119,73,29%,63%
-3,Ivan Toney,Brentford,16,4,25,0.64,140,61,26%,52%
+3,Ivan Toney,Brentford,17,4,26,0.66,137,64,27%,55%
 4,Marcus Rashford,Manchester United,14,3,26,0.59,152,52,27%,63%
-5,Gabriel Martinelli,Arsenal,13,2,28,0.52,174,46,28%,57%
-6,Bukayo Saka,Arsenal,12,10,28,0.45,201,45,27%,53%
-7,Mohamed Salah,Liverpool,11,7,26,0.43,211,65,17%,51%
-7,Rodrigo Moreno,Leeds United,11,1,20,0.73,123,38,29%,58%
-7,Aleksandar Mitrovic,Fulham,11,1,21,0.55,165,69,16%,45%
-7,Miguel Almirón,Newcastle United,11,1,25,0.50,181,32,34%,56%
-11,Martin ØdegaardØdegaard,Arsenal,10,6,27,0.39,232,45,22%,53%
-12,James Maddison,Leicester City,9,6,20,0.50,182,36,25%,50%
-12,Ollie Watkins,Aston Villa,9,5,26,0.38,239,45,20%,73%
-12,Phil Foden,Manchester City,9,4,24,0.58,156,26,35%,73%
-12,Harvey Barnes,Leicester City,9,1,25,0.40,227,40,23%,63%
-16,Leandro Trossard,Brighton & Hove Albion,8,8,26,0.40,223,32,25%,66%
-16,Roberto Firmino,Liverpool,8,4,19,0.70,129,27,30%,78%
-16,Darwin Núñez,Liverpool,8,3,20,0.53,169,64,13%,52%
-16,Danny Ings,"Aston Villa, West Ham United",8,0,25,0.63,143,26,31%,62%
-20,Solly March,Brighton & Hove Albion,7,4,25,0.29,308,37,19%,68%
-20,Callum Wilson,Newcastle United,7,3,19,0.51,178,37,19%,51%
-20,Brennan Johnson,Nottingham Forest Nottm,7,2,27,0.28,318,36,19%,64%
-20,James Ward-,Prowse Southampton,7,2,28,0.25,360,29,24%,55%
+5,Gabriel Martinelli,Arsenal,13,3,29,0.50,181,48,27%,58%
+6,Bukayo Saka,Arsenal,12,10,29,0.44,203,45,27%,53%
+6,Mohamed Salah,Liverpool,12,7,27,0.45,199,66,18%,52%
+8,Rodrigo Moreno,Leeds United,11,1,21,0.72,125,38,29%,58%
+8,Aleksandar Mitrovic,Fulham,11,1,21,0.55,165,69,16%,45%
+8,Miguel Almirón,Newcastle United,11,1,25,0.50,181,32,34%,56%
+11,Martin ØdegaardØdegaard,Arsenal,10,7,28,0.37,240,45,22%,53%
+11,Ollie Watkins,Aston Villa,10,5,27,0.40,224,47,21%,72%
+13,James Maddison,Leicester City,9,6,21,0.47,192,37,24%,51%
+13,Phil Foden,Manchester City,9,4,24,0.58,156,26,35%,73%
+13,Harvey Barnes,Leicester City,9,1,26,0.38,237,40,23%,63%
+16,Leandro Trossard,Brighton & Hove Albion,8,9,27,0.39,234,32,25%,66%
+16,Roberto Firmino,Liverpool,8,4,20,0.68,132,27,30%,78%
+16,Darwin Núñez,Liverpool,8,3,21,0.52,172,64,13%,52%
+16,Brennan Johnson,Nottingham Forest Nottm,8,2,28,0.31,289,41,20%,63%
+16,Alexis Mac,Brighton & Hove Albion,8,1,23,0.36,250,46,17%,54%
+16,Danny Ings,"West Ham United, Aston Villa Ham,",8,0,25,0.63,143,26,31%,62%
+22,Gabriel Jesus,Arsenal,7,5,17,0.48,189,42,17%,55%
+22,Solly March,Brighton & Hove Albion,7,5,26,0.28,321,44,16%,68%
