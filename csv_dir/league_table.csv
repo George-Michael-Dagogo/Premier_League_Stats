@@ -1,21 +1,21 @@
 Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Points,grade_class,conqueror
 1,Arsenal,29,23,3,3,70,27,43,72,C,-15
 2,Manchester City,28,20,4,4,71,26,45,64,C,-20
-3,Manchester United,26,15,5,6,41,35,6,50,C,-28
-4,Tottenham Hotspur,28,15,4,9,52,40,12,49,C,-35
-5,Newcastle United,26,12,11,3,39,19,20,47,C,-31
-6,Brighton & Hove Albion,26,12,7,7,49,34,15,43,C,-35
-7,Brentford,28,10,13,5,46,37,9,43,C,-41
-8,Liverpool,27,12,6,9,48,33,15,42,C,-39
-9,Aston Villa,28,12,5,11,37,39,-2,41,C,-43
+3,Newcastle United,28,14,11,3,46,20,26,53,C,-31
+4,Manchester United,28,16,5,7,42,37,5,53,C,-31
+5,Tottenham Hotspur,29,15,5,9,53,41,12,50,C,-37
+6,Brighton & Hove Albion,27,13,7,7,51,34,17,46,C,-35
+7,Aston Villa,29,13,5,11,39,40,-1,44,C,-43
+8,Liverpool,28,12,7,9,48,33,15,43,C,-41
+9,Brentford,29,10,13,6,46,38,8,43,C,-44
 10,Fulham,28,11,6,11,39,39,0,39,C,-45
-11,Chelsea,28,10,8,10,29,30,-1,38,C,-46
+11,Chelsea,29,10,9,10,29,30,-1,39,C,-48
 12,Crystal Palace,29,7,9,13,24,39,-15,30,C,-57
-13,Wolverhampton Wanderers,29,7,7,15,23,42,-19,28,C,-59
-14,Nottingham Forest,28,6,9,13,23,50,-27,27,C,-57
-15,AFC Bournemouth,28,7,6,15,27,55,-28,27,C,-57
-16,Leeds United,28,6,8,14,36,48,-12,26,C,-58
-17,Everton,28,6,8,14,22,40,-18,26,C,-58
-18,Leicester City,28,7,4,17,39,49,-10,25,C,-59
-19,West Ham United,26,6,6,14,24,34,-10,24,C,-54
-20,Southampton,28,6,5,17,23,46,-23,23,C,-61
+13,Leeds United,29,7,8,14,38,49,-11,29,C,-58
+14,Wolverhampton Wanderers,29,7,7,15,23,42,-19,28,C,-59
+15,West Ham United,28,7,6,15,26,39,-13,27,C,-57
+16,Everton,29,6,9,14,23,41,-18,27,C,-60
+17,Nottingham Forest,29,6,9,14,24,52,-28,27,C,-60
+18,AFC Bournemouth,29,7,6,16,27,57,-30,27,C,-60
+19,Leicester City,29,7,4,18,40,51,-11,25,C,-62
+20,Southampton,29,6,5,18,23,47,-24,23,C,-64
