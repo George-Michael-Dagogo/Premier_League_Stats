@@ -1,25 +1,25 @@
 Rank,Name,Club,AssistsA,GoalsGL,PlayedP,Chances Created,Chances per 90,Total Passes,Passes Complete,Passes Incomplete,Pass Accuracy
-1,Kevin De Bruyne,Manchester City,13,5,26,70,2.69,1090,867,223,80%
+1,Kevin De Bruyne,Manchester City,14,5,27,74,2.74,1154,924,230,80%
 2,Bukayo Saka,Arsenal,10,12,29,51,1.76,968,783,185,81%
 3,Leandro Trossard,Brighton & Hove Albion,9,8,27,29,1.07,702,543,159,77%
 4,Mohamed Salah,Liverpool,7,12,28,41,1.46,704,542,162,77%
 4,Martin ØdegaardØdegaard,Arsenal,7,10,28,57,2.04,1286,1085,201,84%
-4,Christian Eriksen,Manchester United,7,1,19,18,0.95,961,795,166,83%
-7,James Maddison,Leicester City,6,9,22,45,2.05,763,615,148,81%
-7,Bruno Fernandes,Manchester United,6,5,27,70,2.59,1303,1006,297,77%
+4,Christian Eriksen,Manchester United,7,1,20,18,0.90,983,815,168,83%
+7,James Maddison,Leicester City,6,9,23,47,2.04,798,640,158,80%
+7,Solly March,Brighton & Hove Albion,6,7,28,48,1.71,979,768,211,78%
+7,Jack Grealish,Manchester City,6,5,23,35,1.52,830,730,100,88%
+7,Bruno Fernandes,Manchester United,6,5,28,76,2.71,1405,1094,311,78%
 7,Jack Harrison,Leeds United,6,4,27,37,1.37,712,504,208,71%
-7,Andreas Pereira,Fulham,6,3,28,52,1.86,728,530,198,73%
-7,Dejan Kulusevski,Tottenham Hotspur,6,2,21,31,1.48,534,430,104,81%
-7,Kieran Trippier,Newcastle United,6,1,28,74,2.64,1455,1089,366,75%
-7,Alex Iwobi,Everton,6,1,29,41,1.41,1104,880,224,80%
+7,Andreas Pereira,Fulham,6,3,29,52,1.79,780,576,204,74%
+7,Dejan Kulusevski,Tottenham Hotspur,6,2,22,32,1.45,552,444,108,80%
+7,Ivan Perisic,Tottenham Hotspur,6,1,28,32,1.14,650,472,178,73%
+7,Kieran Trippier,Newcastle United,6,1,29,78,2.69,1521,1142,379,75%
+7,Alex Iwobi,Everton,6,1,30,43,1.43,1134,901,233,79%
 7,Andrew Robertson,Liverpool,6,0,25,33,1.32,1212,1007,205,83%
-15,Erling Haaland,Manchester City,5,28,26,15,0.58,357,270,87,76%
-15,Ollie Watkins,Aston Villa,5,11,28,18,0.64,433,304,129,70%
-15,Gabriel Jesus,Arsenal,5,7,17,18,1.06,434,357,77,82%
-15,Solly March,Brighton & Hove Albion,5,7,27,43,1.59,944,739,205,78%
-15,Pascal Groß,Brighton & Hove Albion,5,6,27,54,2.00,1455,1239,216,85%
-15,Riyad Mahrez,Manchester City,5,5,20,26,1.30,629,556,73,88%
-15,Mathias Jensen,Brentford,5,5,29,29,1.00,942,706,236,75%
-15,Bryan Mbeumo,Brentford,5,5,29,30,1.03,599,439,160,73%
-15,Granit Xhaka,Arsenal,5,5,29,35,1.21,1316,1140,176,87%
-15,Jack Grealish,Manchester City,5,4,22,34,1.55,776,686,90,88%
+18,Erling Haaland,Manchester City,5,30,27,15,0.56,360,272,88,76%
+18,Ollie Watkins,Aston Villa,5,12,29,18,0.62,446,315,131,71%
+18,Gabriel Jesus,Arsenal,5,7,17,18,1.06,434,357,77,82%
+18,Pascal Groß,Brighton & Hove Albion,5,6,28,56,2.00,1537,1314,223,85%
+18,Riyad Mahrez,Manchester City,5,5,21,27,1.29,659,576,83,87%
+18,Bryan Mbeumo,Brentford,5,5,30,31,1.03,607,444,163,73%
+18,Mathias Jensen,Brentford,5,5,30,34,1.13,979,738,241,75%

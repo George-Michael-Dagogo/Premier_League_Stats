@@ -1,15 +1,15 @@
 Player,Country,Team,Goals,Penalty
-Erling Haaland,Norway,Manchester City ,28,5
-Harry Kane,England,Tottenham Hotspur ,22,4
-Ivan Toney,England,Brentford FC ,17,5
+Erling Haaland,Norway,Manchester City ,30,5
+Harry Kane,England,Tottenham Hotspur ,23,4
+Ivan Toney,England,Brentford FC ,18,6
 Marcus Rashford,England,Manchester United ,15,0
  Gabriel Martinelli,Brazil,Arsenal FC ,13,0
 Bukayo Saka,England,Arsenal FC ,12,2
 Mo Salah,Egypt,Liverpool FC ,12,0
+Ollie Watkins,England,Aston Villa ,12,1
 Miguel Almirón,Paraguay,Newcastle United ,11,0
 Aleksandar Mitrović,Serbia,Fulham FC ,11,3
  Rodrigo,Spain,Leeds United ,11,1
-Ollie Watkins,England,Aston Villa ,11,1
 Harvey Barnes,England,Leicester City ,10,0
 Martin Ødegaard,Norway,Arsenal FC ,10,0
 Callum Wilson,England,Newcastle United ,10,1
@@ -17,29 +17,30 @@ Phil Foden,England,Manchester City ,9,0
 James Maddison,England,Leicester City ,9,0
 Danny Ings,England,"Aston Villa 
 West Ham United ",8,2
+Alexander Isak,Sweden,Newcastle United ,8,2
 Brennan Johnson,Wales,Nottingham Forest ,8,1
 Alexis Mac Allister,Argentina,Brighton & Hove Albion ,8,5
 Darwin Núñez,Uruguay,Liverpool FC ,8,0
  Roberto Firmino,Brazil,Liverpool FC ,8,0
 Leandro Trossard,Belgium,"Arsenal FC 
 Brighton & Hove Albion ",8,0
+Julián Álvarez,Argentina,Manchester City ,7,1
+Philip Billing,Denmark,AFC Bournemouth ,7,0
  Gabriel Jesus,Brazil,Arsenal FC ,7,1
 Kai Havertz,Germany,Chelsea FC ,7,1
-Alexander Isak,Sweden,Newcastle United ,7,2
 Kaoru Mitoma,Japan,Brighton & Hove Albion ,7,0
+Heung-min Son,South Korea,Tottenham Hotspur ,7,0
 James Ward-Prowse,England,Southampton FC ,7,1
-Julián Álvarez,Argentina,Manchester City ,6,0
-Philip Billing,Denmark,AFC Bournemouth ,6,0
  Daniel Podence,Portugal,Wolverhampton Wanderers ,6,0
 Pascal Groß,Germany,Brighton & Hove Albion ,6,0
 Solly March,England,Brighton & Hove Albion ,6,0
-Heung-min Son,South Korea,Tottenham Hotspur ,6,0
 Wilfried Zaha,Ivory Coast,Crystal Palace ,6,0
 Ché Adams,Scotland,Southampton FC ,5,0
 Rodrigo Bentancur,Uruguay,Tottenham Hotspur ,5,0
  Bruno Fernandes,Portugal,Manchester United ,5,1
 Emiliano Buendia,Argentina,Aston Villa ,5,0
 Kevin De Bruyne,Belgium,Manchester City ,5,0
+Jack Grealish,England,Manchester City ,5,0
 Mathias Jensen,Denmark,Brentford FC ,5,0
 Riyad Mahrez,Algeria,Manchester City ,5,1
 Bryan Mbeumo,Cameroon,Brentford FC ,5,1
@@ -57,11 +58,11 @@ Eberechi Eze,England,Crystal Palace ,4,0
 Evan Ferguson,Ireland,Brighton & Hove Albion ,4,0
 Cody Gakpo,Netherlands,Liverpool FC ,4,0
 Demarai Gray,England,Everton FC ,4,2
-Jack Grealish,England,Manchester City ,4,0
 İlkay Gündoğan,Germany,Manchester City ,4,0
 Jack Harrison,England,Leeds United ,4,0
 Pierre-Emile Højbjerg,Denmark,Tottenham Hotspur ,4,0
  Joelinton,Brazil,Newcastle United ,4,0
+Anthony Martial,France,Manchester United ,4,1
 Kieffer Moore,Wales,AFC Bournemouth ,4,0
 Eddie Nketiah,England,Arsenal FC ,4,0
 Jadon Sancho,England,Manchester United ,4,0
@@ -86,7 +87,6 @@ Kelechi Iheanacho,Nigeria,Leicester City ,3,0
 Vitaly Janelt,Germany,Brentford FC ,3,0
  João Palhinha,Portugal,Fulham FC ,3,0
 Jefferson Lerma,Colombia,AFC Bournemouth ,3,0
-Anthony Martial,France,Manchester United ,3,1
 Dwight McNeil,England,Everton FC ,3,0
 Ben Mee,England,Brentford FC ,3,0
 Mason Mount,England,Chelsea FC ,3,0
@@ -142,6 +142,7 @@ Jeffrey Schlupp,Ghana,Crystal Palace ,2,0
 Marcos Senesi,Argentina,AFC Bournemouth ,2,0
 Ryan Sessegnon,England,Tottenham Hotspur ,2,0
 Pascal Struijk,Netherlands,Leeds United ,2,0
+Bertrand Traoré,Burkina Faso,Aston Villa ,2,0
 Ben White,England,Arsenal FC ,2,0
 Kurt Zouma,France,West Ham United ,2,0
 Brenden Aaronson,USA,Leeds United ,1,0
@@ -173,6 +174,7 @@ Wolverhampton Wanderers ",1,0
 Lucas Digne,France,Aston Villa ,1,0
 Issa Diop,France,Fulham FC ,1,0
 Matt Doherty,Ireland,Tottenham Hotspur ,1,0
+Lewis Dunk,England,Brighton & Hove Albion ,1,0
 Harvey Elliott,England,Liverpool FC ,1,0
  Emerson,Italy,West Ham United ,1,0
 Julio Enciso,Paraguay,Brighton & Hove Albion ,1,0
@@ -198,12 +200,15 @@ Mateo Kovačić,Croatia,Chelsea FC ,1,0
 Roméo Lavia,Belgium,Southampton FC ,1,0
 Sean Longstaff,England,Newcastle United ,1,0
 Orel Mangala,Belgium,Nottingham Forest ,1,0
+Sékou Mara,France,Southampton FC ,1,0
  Marc Roca,Spain,Leeds United ,1,0
 Lisandro Martínez,Argentina,Manchester United ,1,0
  Matheus Cunha,Brazil,Wolverhampton Wanderers ,1,0
+ Matheus Nunes,Portugal,Wolverhampton Wanderers ,1,0
 Neal Maupay,France,"Brighton & Hove Albion 
 Everton FC ",1,0
 John McGinn,Scotland,Aston Villa ,1,0
+Scott McTominay,Scotland,Manchester United ,1,0
 Nampalys Mendy,Senegal,Leicester City ,1,0
 Yerry Mina,Colombia,Everton FC ,1,0
 Jacob Murphy,England,Newcastle United ,1,0
@@ -230,7 +235,6 @@ Sam Surridge,England,Nottingham Forest ,1,0
 James Tarkowski,England,Everton FC ,1,0
  Tetê,Brazil,Leicester City ,1,0
 James Tomkins,England,Crystal Palace ,1,0
-Bertrand Traoré,Burkina Faso,Aston Villa ,1,0
 Kieran Trippier,England,Newcastle United ,1,0
 Jamie Vardy,England,Leicester City ,1,0
 Joël Veltman,Netherlands,Brighton & Hove Albion ,1,0
