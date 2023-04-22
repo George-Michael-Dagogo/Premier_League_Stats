@@ -21,4 +21,7 @@
 
 ![alt text](https://github.com/George-Michael-Dagogo/Premier_League_Stats/blob/main/database_schema.png)
 
+## Metabase Dashboard
+![alt text](https://github.com/George-Michael-Dagogo/Premier_League_Stats/blob/main/Michael%20%C2%B7%20Metabase%20dash.jpg)
+
 
