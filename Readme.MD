@@ -17,7 +17,7 @@
 #### dynamic site links = ["https://www.premierleague.com/players","https://www.premierleague.com/clubs","https://www.premierleague.com/managers"]
 
 
-
+## Database Model
 
 ![alt text](https://github.com/George-Michael-Dagogo/Premier_League_Stats/blob/main/database_schema.png)
 
