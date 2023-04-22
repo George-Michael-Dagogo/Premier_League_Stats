@@ -1,21 +1,21 @@
 Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Points,grade_class,conqueror
-1,Arsenal,30,23,4,3,72,29,43,73,C,-17
+1,Arsenal,32,23,6,3,77,34,43,75,C,-21
 2,Manchester City,30,22,4,4,78,28,50,70,C,-20
-3,Newcastle United,30,15,11,4,48,24,24,56,C,-34
-4,Manchester United,29,17,5,7,44,37,7,56,C,-31
+3,Manchester United,30,18,5,7,46,37,9,59,C,-31
+4,Newcastle United,30,15,11,4,48,24,24,56,C,-34
 5,Tottenham Hotspur,31,16,5,10,57,45,12,53,C,-40
 6,Aston Villa,31,15,5,11,44,40,4,50,C,-43
 7,Brighton & Hove Albion,29,14,7,8,54,37,17,49,C,-38
-8,Liverpool,29,12,8,9,50,35,15,44,C,-43
+8,Liverpool,30,13,8,9,56,36,20,47,C,-43
 9,Brentford,31,10,13,8,47,42,5,43,C,-50
 10,Fulham,30,12,6,12,42,41,1,42,C,-48
 11,Chelsea,31,10,9,12,30,33,-3,39,C,-54
 12,Crystal Palace,31,9,9,13,31,40,-9,36,C,-57
 13,Wolverhampton Wanderers,31,9,7,15,26,42,-16,34,C,-59
 14,AFC Bournemouth,31,9,6,16,31,59,-28,33,C,-60
-15,West Ham United,29,8,6,15,27,39,-12,30,C,-57
-16,Leeds United,30,7,8,15,39,54,-15,29,C,-61
+15,West Ham United,30,8,7,15,29,41,-12,31,C,-59
+16,Leeds United,31,7,8,16,40,60,-20,29,C,-64
 17,Everton,31,6,9,16,24,46,-22,27,C,-66
-18,Nottingham Forest,30,6,9,15,24,54,-30,27,C,-63
+18,Nottingham Forest,31,6,9,16,24,56,-32,27,C,-66
 19,Leicester City,31,7,4,20,41,55,-14,25,C,-68
-20,Southampton,31,6,5,20,24,53,-29,23,C,-70
+20,Southampton,32,6,6,20,27,56,-29,24,C,-72
