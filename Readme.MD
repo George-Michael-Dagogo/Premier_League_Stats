@@ -24,5 +24,5 @@
 ## Metabase Dashboard
 ![alt text](https://github.com/George-Michael-Dagogo/Premier_League_Stats/blob/main/Michael%20%C2%B7%20Metabase%20dash.jpg)
 
-#Power Bi Dashboard
+## Power Bi Dashboard
 ![alt text](https://github.com/George-Michael-Dagogo/Premier_League_Stats/blob/main/premier_bi2.jpg)
