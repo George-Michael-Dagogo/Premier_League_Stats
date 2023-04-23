@@ -4,18 +4,18 @@ Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Poin
 3,Manchester United,30,18,5,7,46,37,9,59,C,-31
 4,Newcastle United,30,15,11,4,48,24,24,56,C,-34
 5,Tottenham Hotspur,31,16,5,10,57,45,12,53,C,-40
-6,Aston Villa,31,15,5,11,44,40,4,50,C,-43
-7,Brighton & Hove Albion,29,14,7,8,54,37,17,49,C,-38
-8,Liverpool,30,13,8,9,56,36,20,47,C,-43
-9,Brentford,31,10,13,8,47,42,5,43,C,-50
-10,Fulham,30,12,6,12,42,41,1,42,C,-48
+6,Aston Villa,32,15,6,11,45,41,4,51,C,-45
+7,Liverpool,31,14,8,9,59,38,21,50,C,-43
+8,Brighton & Hove Albion,29,14,7,8,54,37,17,49,C,-38
+9,Fulham,31,13,6,12,44,42,2,45,C,-48
+10,Brentford,32,10,14,8,48,43,5,44,C,-52
 11,Chelsea,31,10,9,12,30,33,-3,39,C,-54
-12,Crystal Palace,31,9,9,13,31,40,-9,36,C,-57
-13,Wolverhampton Wanderers,31,9,7,15,26,42,-16,34,C,-59
+12,Crystal Palace,32,9,10,13,31,40,-9,37,C,-59
+13,Wolverhampton Wanderers,32,9,7,16,27,44,-17,34,C,-62
 14,AFC Bournemouth,31,9,6,16,31,59,-28,33,C,-60
 15,West Ham United,30,8,7,15,29,41,-12,31,C,-59
-16,Leeds United,31,7,8,16,40,60,-20,29,C,-64
-17,Everton,31,6,9,16,24,46,-22,27,C,-66
-18,Nottingham Forest,31,6,9,16,24,56,-32,27,C,-66
-19,Leicester City,31,7,4,20,41,55,-14,25,C,-68
+16,Leeds United,32,7,8,17,41,62,-21,29,C,-67
+17,Leicester City,32,8,4,20,43,56,-13,28,C,-68
+18,Everton,32,6,10,16,24,46,-22,28,C,-68
+19,Nottingham Forest,32,6,9,17,26,59,-33,27,C,-69
 20,Southampton,32,6,6,20,27,56,-29,24,C,-72
