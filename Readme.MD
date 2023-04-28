@@ -2,7 +2,7 @@
 # Premier League Stats
 
 ## Aim
-### The aim of this project is to get premier league related data from several sources for analysis, predictions and visualizations. Also to build a dashboard that can be hosted on a webpage that automatically updates whenever the database is updated.
+### The primary objective of this project was to gather and integrate data from various sources related to the Premier League, in order to perform detailed analysis, predictions, and visualizations. An additional goal was to develop a dynamic and interactive dashboard, with real-time updates as soon as the database is modified
 
 ## Architecture
 
