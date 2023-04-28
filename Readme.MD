@@ -26,3 +26,5 @@
 
 ## Power Bi Dashboard
 ![alt text](https://github.com/George-Michael-Dagogo/Premier_League_Stats/blob/main/premier_bi2.jpg)
+
+# Through my expertise in data integration, visualization, and dashboard development, I was able to successfully execute this project, leveraging the power of data-driven insights to make informed decisions related to the Premier League. The resulting dashboard provided a comprehensive and intuitive view of key performance indicators, enabling us to quickly identify trends, patterns, and opportunities for improvement.
