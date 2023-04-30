@@ -8,7 +8,7 @@ pos,Team,Matches,wins,Draws,Losses,Goals,Dif,Points
 7,Everton FC,1185,424,330,431,1516:1531,-15,1602
 8,Newcastle United,1066,399,275,392,1435:1443,-8,1472
 9,Aston Villa,1071,370,302,399,1311:1394,-83,1412
-10,West Ham United,1028,344,260,424,1269:1472,-203,1292
+10,West Ham United,1029,344,260,425,1272:1476,-204,1292
 11,Southampton FC,919,280,247,392,1105:1339,-234,1087
 12,Blackburn Rovers,696,262,184,250,927:907,20,970
 13,Leeds United,577,223,150,204,787:769,18,819
@@ -16,7 +16,7 @@ pos,Team,Matches,wins,Draws,Losses,Goals,Dif,Points
 15,Fulham FC,602,175,160,267,675:874,-199,685
 16,Middlesbrough FC,574,165,169,240,648:794,-146,661
 17,Sunderland AFC,608,153,159,296,612:904,-292,618
-18,Crystal Palace,535,154,139,242,578:768,-190,601
+18,Crystal Palace,536,155,139,242,582:771,-189,604
 19,Bolton Wanderers,494,149,128,217,575:745,-170,575
 20,West Bromwich Albion,494,117,139,238,510:772,-262,490
 21,Stoke City,380,116,109,155,398:525,-127,457
@@ -24,7 +24,7 @@ pos,Team,Matches,wins,Draws,Losses,Goals,Dif,Points
 23,Norwich City,392,99,105,188,414:669,-255,402
 24,Sheffield Wednesday,316,101,89,126,409:453,-44,392
 25,Wimbledon FC,316,99,94,123,384:472,-88,391
-26,Wolverhampton Wanderers,337,100,85,152,357:506,-149,385
+26,Wolverhampton Wanderers,338,100,85,153,357:512,-155,385
 27,Charlton Athletic,304,93,82,129,342:442,-100,361
 28,Wigan Athletic,304,85,76,143,316:482,-166,331
 29,Burnley FC,304,83,76,145,300:455,-155,325
@@ -34,14 +34,14 @@ pos,Team,Matches,wins,Draws,Losses,Goals,Dif,Points
 33,Portsmouth FC,266,79,65,122,292:380,-88,293
 34,Watford FC,304,73,66,165,310:518,-208,285
 35,Derby County,266,68,70,128,271:420,-149,274
-36,Nottingham Forest,231,67,68,96,258:347,-89,269
-37,Brighton & Hove Albion,220,62,72,86,245:298,-53,258
+36,Nottingham Forest,232,67,68,97,259:349,-90,269
+37,Brighton & Hove Albion,221,63,72,86,251:298,-47,261
 38,AFC Bournemouth,223,66,49,108,273:393,-120,247
 39,Ipswich Town,202,57,53,92,219:312,-93,224
 40,Sheffield United,198,53,50,95,187:270,-83,209
 41,Hull City,190,41,48,101,181:323,-142,171
 42,Reading FC,114,32,23,59,136:186,-50,119
-43,Brentford FC,71,24,21,26,98:99,-1,93
+43,Brentford FC,72,25,21,26,100:100,0,96
 44,Oldham Athletic,84,22,23,39,105:142,-37,89
 45,Cardiff City,76,17,13,46,66:143,-77,64
 46,Bradford City,76,14,20,42,68:138,-70,62
