@@ -1,17 +1,17 @@
 Player,Country,Team,Goals,Penalty
 Erling Haaland,Norway,Manchester City ,35,7
-Harry Kane,England,Tottenham Hotspur ,25,4
+Harry Kane,England,Tottenham Hotspur ,26,4
 Ivan Toney,England,Brentford FC ,20,6
-Mo Salah,Egypt,Liverpool FC ,18,2
+Mo Salah,Egypt,Liverpool FC ,19,2
 Marcus Rashford,England,Manchester United ,16,0
  Gabriel Martinelli,Brazil,Arsenal FC ,15,0
 Callum Wilson,England,Newcastle United ,15,1
 Martin Ødegaard,Norway,Arsenal FC ,14,0
 Ollie Watkins,England,Aston Villa ,14,1
 Bukayo Saka,England,Arsenal FC ,13,2
+ Rodrigo,Spain,Leeds United ,12,1
 Miguel Almirón,Paraguay,Newcastle United ,11,0
 Aleksandar Mitrović,Serbia,Fulham FC ,11,3
- Rodrigo,Spain,Leeds United ,11,1
 Harvey Barnes,England,Leicester City ,10,0
 Phil Foden,England,Manchester City ,10,0
  Gabriel Jesus,Brazil,Arsenal FC ,10,1
@@ -38,6 +38,7 @@ Wilfried Zaha,Ivory Coast,Crystal Palace ,7,0
  Bruno Fernandes,Portugal,Manchester United ,6,1
  Daniel Podence,Portugal,Wolverhampton Wanderers ,6,0
 Cody Gakpo,Netherlands,Liverpool FC ,6,0
+İlkay Gündoğan,Germany,Manchester City ,6,0
  Joelinton,Brazil,Newcastle United ,6,0
 Solly March,England,Brighton & Hove Albion ,6,0
 Bryan Mbeumo,Cameroon,Brentford FC ,6,1
@@ -79,7 +80,6 @@ Evan Ferguson,Ireland,Brighton & Hove Albion ,4,0
 Morgan Gibbs-White,England,"Nottingham Forest 
 Wolverhampton Wanderers ",4,1
 Demarai Gray,England,Everton FC ,4,2
-İlkay Gündoğan,Germany,Manchester City ,4,0
 Jack Harrison,England,Leeds United ,4,0
 Pierre-Emile Højbjerg,Denmark,Tottenham Hotspur ,4,0
  Lucas Paquetá,Brazil,West Ham United ,4,1
@@ -96,9 +96,11 @@ Jaidon Anthony,England,AFC Bournemouth ,3,0
  Bruno Guimarães,Brazil,Newcastle United ,3,0
  Carlos Vinícius,Brazil,Fulham FC ,3,0
  Gabriel,Brazil,Arsenal FC ,3,0
+Conor Gallagher,England,Chelsea FC ,3,0
 Anthony Gordon,England,"Everton FC 
 Newcastle United ",3,0
 Vitaly Janelt,Germany,Brentford FC ,3,0
+ João Félix,Portugal,Chelsea FC ,3,0
  João Palhinha,Portugal,Fulham FC ,3,0
 Ben Mee,England,Brentford FC ,3,0
 Mason Mount,England,Chelsea FC ,3,0
@@ -133,7 +135,6 @@ Abdoulaye Doucouré,Mali,Everton FC ,2,0
 Julio Enciso,Paraguay,Brighton & Hove Albion ,2,0
  Fabio Carvalho,Portugal,Liverpool FC ,2,0
  Fred,Brazil,Manchester United ,2,0
-Conor Gallagher,England,Chelsea FC ,2,0
 Alejandro Garnacho,Argentina,Manchester United ,2,0
 Wilfried Gnonto,Italy,Leeds United ,2,0
 Hee-chan Hwang,South Korea,Wolverhampton Wanderers ,2,0
@@ -141,7 +142,6 @@ Alex Iwobi,Nigeria,Everton FC ,2,0
 Dan James,Wales,"Fulham FC 
 Leeds United ",2,0
  João Cancelo,Portugal,Manchester City ,2,0
- João Félix,Portugal,Chelsea FC ,2,0
  Jorginho,Italy,"Arsenal FC 
 Chelsea FC ",2,2
 Kalidou Koulibaly,Senegal,Chelsea FC ,2,0
@@ -164,6 +164,7 @@ John Stones,England,Manchester City ,2,0
 Pascal Struijk,Netherlands,Leeds United ,2,0
 Bertrand Traoré,Burkina Faso,Aston Villa ,2,0
 Deniz Undav,Germany,Brighton & Hove Albion ,2,0
+Matías Viña,Uruguay,AFC Bournemouth ,2,0
 Theo Walcott,England,Southampton FC ,2,0
 Ben White,England,Arsenal FC ,2,0
 Harry Wilson,Wales,Fulham FC ,2,0
@@ -179,6 +180,7 @@ Adam Armstrong,England,Southampton FC ,1,0
 Pierre-Emerick Aubameyang,Gabon,Chelsea FC ,1,0
 Sèrge Aurier,Ivory Coast,Nottingham Forest ,1,0
 Luke Ayling,England,Leeds United ,1,0
+Benoît Badiashile,France,Chelsea FC ,1,0
 Armando Broja,Albania,Chelsea FC ,1,0
 Facundo Buonanotte,Argentina,Brighton & Hove Albion ,1,0
 Moisés Caicedo,Ecuador,Brighton & Hove Albion ,1,0
@@ -258,9 +260,9 @@ Sam Surridge,England,Nottingham Forest ,1,0
 James Tarkowski,England,Everton FC ,1,0
  Tetê,Brazil,Leicester City ,1,0
 James Tomkins,England,Crystal Palace ,1,0
+ Toti,Portugal,Wolverhampton Wanderers ,1,0
 Kieran Trippier,England,Newcastle United ,1,0
 Joël Veltman,Netherlands,Brighton & Hove Albion ,1,0
-Matías Viña,Uruguay,AFC Bournemouth ,1,0
 Kyle Walker-Peters,England,Southampton FC ,1,0
 Neco Williams,Wales,Nottingham Forest ,1,0
 Joe Worrall,England,Nottingham Forest ,1,0
