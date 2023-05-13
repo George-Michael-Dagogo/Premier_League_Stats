@@ -1,21 +1,21 @@
 Position,Team,Played,Won,Drawn,Lost,Goals_For,Goals_Against,Goal_Difference,Points,grade_class,conqueror
 1,Manchester City,34,26,4,4,89,31,58,82,C,-20
-2,Arsenal,34,24,6,4,81,39,42,78,C,-24
-3,Newcastle United,33,18,11,4,61,27,34,65,C,-34
-4,Manchester United,33,19,6,8,49,40,9,63,C,-36
+2,Arsenal,35,25,6,4,83,39,44,81,C,-24
+3,Newcastle United,34,18,11,5,61,29,32,65,C,-37
+4,Manchester United,34,19,6,9,49,41,8,63,C,-39
 5,Liverpool,35,18,8,9,67,42,25,62,C,-43
 6,Tottenham Hotspur,35,17,6,12,64,57,7,57,C,-48
-7,Brighton & Hove Albion,32,16,7,9,62,40,22,55,C,-41
+7,Brighton & Hove Albion,33,16,7,10,63,45,18,55,C,-44
 8,Aston Villa,35,16,6,13,46,43,3,54,C,-51
 9,Brentford,35,12,14,9,52,45,7,50,C,-55
-10,Fulham,34,13,6,15,45,46,-1,45,C,-57
+10,Fulham,35,14,6,15,50,49,1,48,C,-57
 11,Chelsea,34,11,9,14,34,39,-5,42,C,-60
 12,Crystal Palace,35,10,10,15,35,46,-11,40,C,-65
 13,Wolverhampton Wanderers,35,11,7,17,30,50,-20,40,C,-65
 14,AFC Bournemouth,35,11,6,18,37,67,-30,39,C,-66
-15,West Ham United,34,9,7,18,37,50,-13,34,C,-68
-16,Leicester City,34,8,6,20,46,59,-13,30,C,-72
-17,Leeds United,35,7,9,19,44,69,-25,30,C,-75
-18,Nottingham Forest,34,7,9,18,30,62,-32,30,C,-72
-19,Everton,34,6,11,17,27,52,-25,29,C,-73
-20,Southampton,34,6,6,22,28,60,-32,24,C,-78
+15,West Ham United,35,10,7,18,38,50,-12,37,C,-68
+16,Nottingham Forest,35,8,9,18,34,65,-31,33,C,-72
+17,Everton,35,7,11,17,32,53,-21,32,C,-73
+18,Leicester City,35,8,6,21,49,64,-15,30,C,-75
+19,Leeds United,35,7,9,19,44,69,-25,30,C,-75
+20,Southampton,35,6,6,23,31,64,-33,24,C,-81
